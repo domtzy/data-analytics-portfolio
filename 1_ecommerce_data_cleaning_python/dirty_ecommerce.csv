@@ -1,0 +1,1031 @@
+order_id,customer_name,email,product_category,product_name,quantity,unit_price,discount,payment_method,order_status,order_date,delivery_date,rating,region
+ORD-0036,Marco Tan,marco.tan@outlook.com,Home & Living,Rice Cooker,1,899.0,0.2,gcash,delivered,2024-08-28,2024-09-07,3,mindanao
+ORD-0909,Arnold Tolentino,arnold.tolentino@yahoo.com,Food & Grocery,Canned Goods,1,45.0,0.2,Debit Card,delivered,2024-03-01,2024-03-04,2,Visayas
+ORD-0553,Marco Navarro,marco.navarro@outlook.com,Food & Grocery,Rice 5kg,2,250.0,,G-Cash,returned,2024-07-16,,1,VISAYAS
+ORD-0707,SAMMY MACAPAGAL,sammy.macapagal@yahoo.com,Clothing,Jogger Pants,1,799.0,0.05,Debit Card,SHIPPED,2024-01-09,2024-01-13,1,Luzon
+ORD-0315,Dennis Macaraeg,dennis.macaraeg@outlook.com,Electronics,Phone Case,1,199.0,0.15,cod,Shipped,2024-03-23,2024-03-30,,VISAYAS
+ORD-0287,CYNTHIA RAMOS,cynthia.ramos@yahoo.com,Beauty,Lip Tint,3,199.0,0.0,COD,Deliverd,2024-10-03,2024-10-08,5,luzon
+ORD-0391,Felix Santiago,felix.santiago@yahoo.com,Beauty,Sunscreen SPF50,1,450.0,0.1,cod,Deliverd,2024-12-23,2024-12-30,1,Visayas
+ORD-0012,Gilbert Evangelista,gilbert.evangelista@gmail.com,Electronics,Smart Watch,5,5999.0,0.0,Credit Card,Returned,2024-04-05,,1,Mindanao
+ORD-0642,ana uy,ana.uy@outlook.com,Electronics,Laptop Stand,544,,0.15,Cash on Delivery,Deliverd,2024-02-02,2024-02-07,,mindanao
+ORD-0330,Christine Dizon,christine.dizon@yahoo.com,Electronics,Laptop Stand,835,850.0,0.15,debit card,Deliverd,2024-06-03,2024-06-07,2,Luzon
+ORD-0577,Sammy Padilla,sammy.padilla@yahoo.com,Electronics,Laptop Stand,1,850.0,0.15,Debit Card,DELIVERED,2024-08-31,2024-09-10,3,MINDANAO
+ORD-0672,Luz Ocampo,luz.ocampo@yahoo.com,Food & Grocery,Rice 5kg,5,250.0,0.15,Debit Card,returned,2024-03-05,,1,mindanao
+ORD-0055,Ronald Villafuerte,ronald.villafuerte@yahoo.com,Home & Living,Rice Cooker,5,899.0,0.15,gcash,returned,2024-02-28,,3,VISAYAS
+ORD-0375,Melissa Magsaysay,melissa.magsaysay@yahoo.com,Food & Grocery,Cooking Oil,3,120.0,,DebitCard,DELIVERED,2024-10-18,2024-10-28,4,LUZON
+ORD-0134,SHEILA REYES,sheila.reyes@yahoo.com,Home & Living,Air Purifier,1,221171.14,0.2,Credit card,Deliverd,2024-04-10,2024-04-16,,Visayas
+ORD-0770,Felix Evangelista,felix.evangelista@outlook.com,Food & Grocery,Canned Goods,5,45.0,0.05,cod,returned,2024-04-04,,2,Visayas
+ORD-0881,Rachel Domingo,rachel.domingo@yahoo.com,Clothing,Running Shoes,2,2500.0,0.05,Credit Card,DELIVERED,2024-04-28,2024-05-08,5,MINDANAO
+ORD-0901,MARK DELA CRUZ,mark.delacruz@gmail.com,Food & Grocery,Coffee Pack,5,85.0,0.2,DebitCard,Delivered,2024-01-31,2024-02-10,4,Visayas
+ORD-0091,JENNY DOMINGO,jenny.domingo@outlook.com,Home & Living,Air Purifier,4,8500.0,0.15,Credit card,delivered,2024-02-27,2024-03-06,2,mindanao
+ORD-0270,Rodrigo Domingo,rodrigo.domingo@gmail.com,Clothing,Jogger Pants,4,799.0,0.1,DebitCard,delivered,2024-01-19,2024-01-25,1,Mindanao
+ORD-0981,Carla Padilla,carla.padilla@yahoo.com,Beauty,Face Wash,4,320.0,0.05,Credit card,Delivered,2024-02-08,2024-02-18,3,visayas
+ORD-0558,Sheila Magsaysay,sheila.magsaysay@gmail.com,Electronics,Phone Case,2,199.0,0.1,Gcash,Deliverd,2024-08-23,2024-08-26,5,Mindanao
+ORD-0328,LISA DOMINGO,lisa.domingo@yahoo.com,Clothing,Socks Pack,3,150.0,0.1,GCash,Returned,2024-09-18,,4,VISAYAS
+ORD-0260,Sarah Tolentino,sarah.tolentino@gmail.com,Food & Grocery,Rice 5kg,4,250.0,0.2,DebitCard,DELIVERED,2024-11-09,2024-11-12,3,luzon
+ORD-0024,Ricky Lim,ricky.lim@outlook.com,Electronics,USB Hub,5,,0.15,DebitCard,RETURNED,2024-04-22,,4,visayas
+ORD-0608,sarah torres,sarah.torres@yahoo.com,Electronics,Bluetooth Speaker,4,3200.0,0.05,Gcash,DELIVERED,2024-01-23,2024-01-26,2,Visayas
+ORD-0957,Ramon Evangelista,RAMON.EVANGELISTA@GMAIL.COM,Clothing,Polo Shirt,2,550.0,,Gcash,DELIVERED,2024-09-29,2024-10-07,1,visayas
+ORD-0826,Marco Lim,MARCO.LIM@GMAIL.COM,Electronics,USB Hub,4,450.0,0.0,cod,DELIVERED,2024-10-14,2024-10-22,3,Mindanao
+ORD-0828,arnold garcia,ARNOLD.GARCIA@YAHOO.COM,Home & Living,Picture Frame,5,220.0,0.0,COD,Deliverd,2024-05-11,2024-05-17,3,luzon
+ORD-0327,Noel Mendoza,noel.mendoza@yahoo.com,Food & Grocery,Cooking Oil,1,120.0,0.2,Debit Card,DELIVERED,2024-08-25,2024-08-31,2,MINDANAO
+ORD-0458,maria ocampo,maria.ocampo@outlook.com,Clothing,Jogger Pants,1,799.0,0.05,CreditCard,Deliverd,2024-04-12,2024-04-16,3,mindanao
+ORD-0870,Eddie Espiritu,eddie.espiritu@outlook.com,Electronics,Bluetooth Speaker,4,3200.0,0.0,credit card,Canceled,2024-12-11,,,VISAYAS
+ORD-0768,Maria Macapagal,maria.macapagal@outlook.com,Beauty,Serum,1,780.0,0.2,credit card,Cancelled,2024-03-23,,,MINDANAO
+ORD-0500,Jenny Flores,jenny.flores@gmail.com,Electronics,Bluetooth Speaker,5,3200.0,0.0,Credit Card,DELIVERED,2024-01-09,2024-01-17,5,Mindanao
+ORD-0427,Ramon Aguilar,ramon.aguilar@gmail.com,Electronics,USB Hub,3,450.0,0.05,GCash,SHIPPED,2024-05-11,2024-05-17,4,Visayas
+ORD-0759,Eleanor Dela Rosa,eleanor.delarosa@yahoo.com,Beauty,Moisturizer,1,550.0,0.2,DebitCard,CANCELLED,2024-06-01,,,mindanao
+ORD-0403,Rachel Uy,RACHEL.UY@OUTLOOK.COM,Food & Grocery,Instant Noodles,2,15.0,0.05,gcash,cancelled,2024-01-27,,,mindanao
+ORD-0976,Anna Gutierrez,anna.gutierrez@yahoo.com,Beauty,Serum,2,780.0,0.05,Cash on Delivery,Delivered,2024-04-05,2024-04-15,3,VISAYAS
+ORD-0954,Nina Santos,nina.santos@outlook.com,Food & Grocery,Coffee Pack,2,85.0,0.2,COD,Deliverd,2024-03-13,2024-03-16,5,luzon
+ORD-0911,Christine Villanueva,CHRISTINE.VILLANUEVA@GMAIL.COM,Beauty,Lip Tint,1,199.0,0.1,Debit Card,delivered,2024-01-09,2024-01-17,4,mindanao
+ORD-0872,ben cruz,ben.cruz@gmail.com,Electronics,Phone Case,1,199.0,0.15,cod,CANCELLED,2024-09-02,,,Luzon
+ORD-0246,GILBERT DOMINGO,gilbert.domingo@yahoo.com,Home & Living,Rice Cooker,1,899.0,0.2,Gcash,DELIVERED,2024-06-22,2024-07-02,4,Mindanao
+ORD-0073,Rowena Villafuerte,rowena.villafuerte@yahoo.com,Clothing,Dress,4,1200.0,0.1,Debit Card,SHIPPED,2024-04-02,2024-04-09,3,VISAYAS
+ORD-0761,Rowena Torres,rowena.torres@gmail.com,Clothing,Socks Pack,1,150.0,0.0,Cash on Delivery,Cancelled,2024-09-24,,,VISAYAS
+ORD-0969,Ricky Evangelista,ricky.evangelista@gmail.com,Home & Living,Picture Frame,1,220.0,0.1,DebitCard,Delivered,2024-03-27,2024-04-03,3,Luzon
+ORD-0729,Lisa Pascual,lisa.pascual@outlook.com,Food & Grocery,Canned Goods,4,45.0,0.1,COD,Canceled,2024-08-07,,,Mindanao
+ORD-0590,Carlo Pascual,carlo.pascual@outlook.com,Food & Grocery,Rice 5kg,4,250.0,0.05,gcash,delivered,2024-06-11,2024-06-18,1,LUZON
+ORD-0366,melissa garcia,melissa.garcia@gmail.com,Clothing,Jacket,4,1800.0,0.15,Credit Card,DELIVERED,2024-03-17,2024-03-25,,Visayas
+ORD-0830,Trisha Lim,trisha.lim@yahoo.com,Beauty,Lip Tint,4,199.0,0.1,credit card,Delivered,2024-10-31,2024-11-03,5,Visayas
+ORD-0749,Jose Soriano,jose.soriano@outlook.com,Food & Grocery,Cooking Oil,5,120.0,0.1,cod,Delivered,2024-11-27,2024-12-01,3,MINDANAO
+ORD-0420,Noel Fernandez,noel.fernandez@outlook.com,Clothing,Polo Shirt,1,550.0,0.05,Debit Card,Delivered,2024-01-27,2024-02-05,4,MINDANAO
+ORD-0186,jasmine gutierrez,jasmine.gutierrez@gmail.com,Home & Living,Electric Fan,1,1500.0,0.0,DebitCard,Returned,2024-05-28,,1,LUZON
+ORD-0638,Noel Ramos,noel.ramos@gmail.com,Food & Grocery,Rice 5kg,3,250.0,0.05,Cash on Delivery,DELIVERED,2024-05-13,2024-05-22,1,Visayas
+ORD-0645,kevin domingo,kevin.domingo@outlook.com,Beauty,Serum,4,780.0,0.2,CreditCard,Deliverd,2024-08-18,2024-08-23,1,Mindanao
+ORD-0649,Tina Magsaysay,tina.magsaysay@outlook.com,Electronics,Laptop Stand,3,850.0,0.15,DebitCard,Deliverd,2024-12-18,2024-12-26,4,Visayas
+ORD-0748,jasmine castillo,jasmine.castillo@outlook.com,Food & Grocery,Cooking Oil,4,120.0,0.2,COD,SHIPPED,2024-11-07,2024-11-14,5,Luzon
+ORD-0296,SARAH AGUILAR,sarah.aguilar@gmail.com,Beauty,Lip Tint,3,199.0,0.15,COD,Delivered,2024-03-01,2024-03-07,2,LUZON
+ORD-0601,Sammy Flores,sammy.flores@yahoo.com,Food & Grocery,Cooking Oil,4,120.0,0.0,COD,Deliverd,2024-04-06,2024-04-15,1,VISAYAS
+ORD-0059,luz dela rosa,LUZ.DELAROSA@OUTLOOK.COM,Electronics,Laptop Stand,1,850.0,0.2,debit card,Deliverd,2024-01-11,2024-01-19,2,mindanao
+ORD-0958,Ben Pascual,ben.pascual@yahoo.com,Clothing,Dress,4,1200.0,0.1,GCash,DELIVERED,2024-05-01,2024-05-04,3,MINDANAO
+ORD-0877,Rodrigo Evangelista,rodrigo.evangelista@outlook.com,Beauty,Face Wash,5,320.0,0.05,COD,delivered,2024-02-23,2024-02-26,5,LUZON
+ORD-0795,Arnold Navarro,arnold.navarro@outlook.com,Clothing,Polo Shirt,4,550.0,0.15,COD,Delivered,2024-05-10,2024-05-18,5,visayas
+ORD-0227,Sarah Torres,sarah.torres@gmail.com,Beauty,Sunscreen SPF50,3,450.0,0.2,credit card,Deliverd,2024-08-16,2024-08-20,2,Visayas
+ORD-0237,Pedro Castillo,pedro.castillo@outlook.com,Home & Living,Bed Sheets,2,650.0,0.2,DebitCard,Deliverd,2024-11-09,2024-11-12,5,Visayas
+ORD-0409,Dennis Corpus,dennis.corpus@outlook.com,Clothing,Jacket,2,1800.0,0.05,Credit card,DELIVERED,2024-08-10,2024-08-19,1,Luzon
+ORD-0777,Maria Pascual,MARIA.PASCUAL@GMAIL.COM,Beauty,Sunscreen SPF50,4,450.0,0.15,debit card,delivered,2024-11-02,2024-11-05,4,luzon
+ORD-0437,Trisha Macaraeg,trisha.macaraeg@yahoo.com,Electronics,Power Bank,1,799.0,,DebitCard,CANCELLED,2024-10-19,,,luzon
+ORD-0538,TONY CASTILLO,tony.castillo@gmail.com,Beauty,Sunscreen SPF50,2,450.0,,CreditCard,Deliverd,2024-10-08,2024-10-17,2,mindanao
+ORD-0109,eleanor medina,eleanor.medina@yahoo.com,Beauty,Moisturizer,2,550.0,0.15,Debit Card,delivered,2024-02-07,2024-02-11,3,MINDANAO
+ORD-0864,Jasmine Evangelista,jasmine.evangelista@outlook.com,Clothing,Socks Pack,1,150.0,0.15,cod,Deliverd,2024-09-01,2024-09-07,3,Visayas
+ORD-0994,Paolo Villanueva,paolo.villanueva@gmail.com,Electronics,Phone Case,2,199.0,0.15,DebitCard,DELIVERED,2024-08-26,2024-08-31,3,Visayas
+ORD-0586,Rodrigo Soriano,rodrigo.soriano@gmail.com,Home & Living,Rice Cooker,4,899.0,0.15,Credit Card,DELIVERED,2024-05-03,2024-05-13,4,Mindanao
+ORD-0350,Noel Gutierrez,noel.gutierrez@gmail.com,Food & Grocery,Cooking Oil,1,120.0,0.05,gcash,RETURNED,2024-12-11,,1,MINDANAO
+ORD-0088,Gilbert Pascual,gilbert.pascual@gmail.com,Home & Living,Electric Fan,3,1500.0,0.15,cod,DELIVERED,2024-03-03,2024-03-12,4,luzon
+ORD-0145,Rosa Torres,rosa.torres@yahoo.com,Electronics,Bluetooth Speaker,3,,0.0,Cash on Delivery,DELIVERED,2024-04-17,2024-04-23,1,LUZON
+ORD-0180,Carlo Fernandez,carlo.fernandez@outlook.com,Electronics,USB Hub,3,450.0,,Credit card,RETURNED,2024-07-25,,1,LUZON
+ORD-0183,pedro flores,pedro.flores@outlook.com,Electronics,Wireless Earbuds,1,1299.0,0.0,CreditCard,shipped,2024-08-18,2024-08-27,4,VISAYAS
+ORD-0706,Eddie Padilla,EDDIE.PADILLA@OUTLOOK.COM,Electronics,Phone Case,5,199.0,0.15,gcash,shipped,2024-12-22,2024-12-29,5,VISAYAS
+ORD-0407,Lisa Evangelista,lisa.evangelista@gmail.com,Food & Grocery,Rice 5kg,3,250.0,0.0,gcash,returned,2024-03-12,,5,VISAYAS
+ORD-0370,ben villanueva,BEN.VILLANUEVA@YAHOO.COM,Clothing,Jogger Pants,2,,0.1,CreditCard,DELIVERED,2024-05-24,2024-06-01,4,MINDANAO
+ORD-0107,Lisa Fajardo,lisa.fajardo@yahoo.com,Electronics,Smart Watch,1,5999.0,0.2,GCash,Delivered,2024-04-01,2024-04-09,1,Mindanao
+ORD-0219,Luz Dela Rosa,LUZ.DELAROSA@GMAIL.COM,Beauty,Lip Tint,2,199.0,0.15,Debit Card,DELIVERED,2024-06-14,2024-06-24,3,MINDANAO
+ORD-0727,Sammy Padilla,sammy.padilla@yahoo.com,Beauty,Lip Tint,3,199.0,0.15,Credit card,DELIVERED,2024-03-09,2024-03-12,1,Luzon
+ORD-0400,Ramon Padilla,ramon.padilla@gmail.com,Food & Grocery,Cooking Oil,3,120.0,0.05,Debit Card,delivered,2024-12-06,2024-12-09,5,MINDANAO
+ORD-0571,Lena Flores,lena.flores@outlook.com,Food & Grocery,Cooking Oil,2,120.0,0.1,credit card,delivered,2024-06-06,2024-06-11,,Mindanao
+ORD-0248,Dennis Macapagal,dennis.macapagal@gmail.com,Home & Living,Air Purifier,1,8500.0,0.05,COD,returned,2024-03-30,,1,Luzon
+ORD-0215,Paolo Santos,paolo.santos@gmail.com,Electronics,Phone Case,3,199.0,0.0,Credit Card,cancelled,2024-06-24,,,visayas
+ORD-0045,Kevin Macapagal,kevin.macapagal@gmail.com,Beauty,Lip Tint,1,199.0,0.0,debit card,DELIVERED,2024-04-22,2024-04-28,5,MINDANAO
+ORD-0490,Sarah Tolentino,sarah.tolentino@yahoo.com,Electronics,Phone Case,4,199.0,0.0,cod,delivered,2024-09-09,2024-09-13,5,Mindanao
+ORD-0222,Rachel Fajardo,rachel.fajardo@yahoo.com,Electronics,Phone Case,5,199.0,0.1,gcash,Returned,2024-02-06,,,LUZON
+ORD-0206,Felix Castillo,felix.castillo@yahoo.com,Home & Living,Air Purifier,2,8500.0,0.1,debit card,cancelled,2024-10-19,,,Mindanao
+ORD-0956,Luz Cruz,luz.cruz@outlook.com,Home & Living,Air Purifier,840,8500.0,0.15,GCash,cancelled,2024-04-22,,,Visayas
+ORD-0355,Maria Bautista,MARIA.BAUTISTA@GMAIL.COM,Food & Grocery,Rice 5kg,2,250.0,,DebitCard,Delivered,2024-04-10,2024-04-19,1,MINDANAO
+ORD-0099,Carla Santiago,carla.santiago@outlook.com,Home & Living,Air Purifier,1,8500.0,0.05,DebitCard,Cancelled,2024-06-25,,,VISAYAS
+ORD-0647,Gina Padilla,gina.padilla@outlook.com,Beauty,Sunscreen SPF50,2,450.0,0.05,G-Cash,Delivered,2024-12-21,2024-12-28,2,Visayas
+ORD-0150,Kevin Ocampo,kevin.ocampo@gmail.com,Beauty,Serum,4,780.0,0.15,Credit card,Delivered,2024-07-21,2024-07-24,5,MINDANAO
+ORD-0808,Tony Flores,tony.flores@yahoo.com,Food & Grocery,Cooking Oil,5,120.0,0.15,Debit Card,DELIVERED,2024-11-26,2024-12-01,4,LUZON
+ORD-0714,Ramon Lim,ramon.lim@gmail.com,Clothing,Running Shoes,5,2500.0,0.0,gcash,RETURNED,2024-02-17,,3,Mindanao
+ORD-0819,Rosa Corpus,rosa.corpus@gmail.com,Food & Grocery,Cooking Oil,5,120.0,0.2,DebitCard,DELIVERED,2024-01-16,2024-01-24,5,visayas
+ORD-0443,Dennis Garcia,DENNIS.GARCIA@GMAIL.COM,Beauty,Lip Tint,4,199.0,0.15,Credit Card,Cancelled,2024-07-05,,,MINDANAO
+ORD-0798,Paolo Fernandez,paolo.fernandez@yahoo.com,Food & Grocery,Cooking Oil,5,120.0,0.05,DebitCard,returned,2024-06-08,,5,VISAYAS
+ORD-0680,Eddie Soriano,eddie.soriano@outlook.com,Electronics,USB Hub,3,450.0,0.15,Credit card,Cancelled,2024-06-19,,,luzon
+ORD-0101,marco lacson,marco.lacson@outlook.com,Electronics,Phone Case,4,199.0,0.0,Credit card,DELIVERED,2024-06-04,2024-06-07,2,Mindanao
+ORD-0362,Rodrigo Dela Rosa,rodrigo.delarosa@gmail.com,Home & Living,Picture Frame,3,220.0,0.2,Credit Card,Delivered,2024-08-04,2024-08-12,2,Mindanao
+ORD-0691,TONY DELA CRUZ,tony.delacruz@outlook.com,Beauty,Sunscreen SPF50,1,450.0,0.1,cod,Deliverd,2024-03-23,2024-04-01,2,Visayas
+ORD-0527,MIA PADILLA,mia.padilla@outlook.com,Clothing,Socks Pack,3,150.0,0.2,cod,Deliverd,2024-11-29,2024-12-07,,visayas
+ORD-0758,eleanor tan,eleanor.tan@yahoo.com,Beauty,Serum,5,780.0,0.2,Gcash,Cancelled,2024-05-19,,,MINDANAO
+ORD-0738,Eleanor Santiago,eleanor.santiago@gmail.com,Clothing,Dress,841,1200.0,0.15,Debit Card,Delivered,2024-07-17,2024-07-23,1,LUZON
+ORD-0873,Luz Espiritu,luz.espiritu@outlook.com,Beauty,Moisturizer,3,,0.1,G-Cash,Deliverd,2024-06-26,2024-07-05,1,Visayas
+ORD-0813,Sammy Ocampo,sammy.ocampo@yahoo.com,Clothing,Polo Shirt,5,550.0,0.05,Credit Card,Delivered,2024-11-26,2024-12-06,1,LUZON
+ORD-0267,Nina Villafuerte,nina.villafuerte@yahoo.com,Electronics,Phone Case,1,199.0,0.0,COD,Cancelled,2024-09-08,,,LUZON
+ORD-0297,ramon uy,ramon.uy@gmail.com,Electronics,Wireless Earbuds,1,1299.0,0.0,GCash,Cancelled,2024-05-09,,,Mindanao
+ORD-0332,Alan Macapagal,ALAN.MACAPAGAL@YAHOO.COM,Beauty,Moisturizer,4,550.0,0.2,G-Cash,shipped,2024-09-19,2024-09-29,2,Mindanao
+ORD-0822,jenny ramos,jenny.ramos@yahoo.com,Food & Grocery,Instant Noodles,4,15.0,0.1,Cash on Delivery,Delivered,2024-10-10,2024-10-18,3,luzon
+ORD-0945,Jasmine Dela Rosa,jasmine.delarosa@gmail.com,Electronics,Power Bank,4,799.0,,CreditCard,DELIVERED,2024-10-26,2024-11-03,1,Luzon
+ORD-0502,Rowena Reyes,ROWENA.REYES@OUTLOOK.COM,Food & Grocery,Coffee Pack,3,85.0,0.2,COD,SHIPPED,2024-01-17,2024-01-22,4,Mindanao
+ORD-0698,Lisa Evangelista,lisa.evangelista@outlook.com,Food & Grocery,Rice 5kg,1,250.0,0.0,Debit Card,DELIVERED,2024-01-27,2024-02-01,1,Mindanao
+ORD-0029,Victor Magsaysay,victor.magsaysay@outlook.com,Clothing,Running Shoes,3,2500.0,0.15,debit card,Deliverd,2024-06-15,2024-06-20,4,visayas
+ORD-0692,Alan Santiago,ALAN.SANTIAGO@OUTLOOK.COM,Clothing,Running Shoes,1,2500.0,0.1,G-Cash,Delivered,2024-09-13,2024-09-23,5,MINDANAO
+ORD-0569,noel lacson,noel.lacson@yahoo.com,Food & Grocery,Rice 5kg,5,250.0,0.0,GCash,Returned,2024-09-19,,1,VISAYAS
+ORD-0198,Mia Macapagal,mia.macapagal@outlook.com,Electronics,Power Bank,2,799.0,0.05,debit card,RETURNED,2024-12-22,,1,Mindanao
+ORD-0380,Homer Santiago,homer.santiago@gmail.com,Clothing,Polo Shirt,3,550.0,0.0,gcash,Delivered,2024-04-22,2024-04-26,2,luzon
+ORD-0419,Patricia Soriano,patricia.soriano@gmail.com,Home & Living,Air Purifier,4,8500.0,0.2,credit card,Delivered,2024-05-14,2024-05-20,4,Mindanao
+ORD-0381,Paolo Medina,paolo.medina@gmail.com,Beauty,Moisturizer,1,550.0,0.1,DebitCard,Delivered,2024-07-18,2024-07-24,4,mindanao
+ORD-0324,Nina Macapagal,nina.macapagal@outlook.com,Electronics,Smart Watch,5,5999.0,0.05,gcash,DELIVERED,2024-12-14,2024-12-18,4,luzon
+ORD-0057,Trisha Ramos,trisha.ramos@outlook.com,Electronics,Bluetooth Speaker,2,3200.0,0.0,debit card,Canceled,2024-05-19,,,luzon
+ORD-0166,KEVIN AGUILAR,kevin.aguilar@yahoo.com,Beauty,Lip Tint,843,199.0,0.0,Debit Card,Delivered,2024-02-21,2024-02-28,2,visayas
+ORD-0474,Carla Macapagal,carla.macapagal@yahoo.com,Electronics,Bluetooth Speaker,4,3200.0,0.2,DebitCard,DELIVERED,2024-12-13,2024-12-21,3,visayas
+ORD-0632,Rosa Magsaysay,rosa.magsaysay@yahoo.com,Home & Living,Picture Frame,5,220.0,0.05,gcash,delivered,2024-09-25,2024-10-02,2,VISAYAS
+ORD-0920,Lena Reyes,lena.reyes@gmail.com,Food & Grocery,Instant Noodles,3,15.0,0.15,cod,Shipped,2024-06-10,2024-06-14,3,VISAYAS
+ORD-0200,Jose Dizon,jose.dizon@outlook.com,Electronics,Phone Case,2,199.0,0.0,debit card,shipped,2024-10-27,2024-11-02,,Mindanao
+ORD-0997,Tony Ocampo,tony.ocampo@outlook.com,Beauty,Face Wash,4,11275.99,0.15,CreditCard,delivered,2024-11-22,2024-11-30,3,mindanao
+ORD-0740,Rowena Torres,rowena.torres@yahoo.com,Food & Grocery,Rice 5kg,4,250.0,0.15,debit card,delivered,2024-06-25,2024-06-28,5,mindanao
+ORD-0071,noel evangelista,NOEL.EVANGELISTA@YAHOO.COM,Beauty,Lip Tint,3,199.0,0.0,gcash,Delivered,2024-06-29,2024-07-07,2,mindanao
+ORD-0623,Melissa Tan,melissa.tan@gmail.com,Clothing,Socks Pack,4,150.0,0.1,G-Cash,Delivered,2024-02-10,2024-02-15,2,MINDANAO
+ORD-0247,Carlo Espiritu,carlo.espiritu@yahoo.com,Beauty,Sunscreen SPF50,5,450.0,0.1,Gcash,DELIVERED,2024-02-03,2024-02-08,3,visayas
+ORD-0561,Mark Ocampo,mark.ocampo@yahoo.com,Food & Grocery,Cooking Oil,1,120.0,0.05,Debit Card,Deliverd,2024-11-03,2024-11-10,4,VISAYAS
+ORD-0255,Lena Macapagal,lena.macapagal@gmail.com,Electronics,Power Bank,5,799.0,0.2,G-Cash,DELIVERED,2024-07-26,2024-07-30,5,mindanao
+ORD-0921,Paolo Uy,paolo.uy@yahoo.com,Food & Grocery,Instant Noodles,1,15.0,0.1,Debit Card,DELIVERED,2024-07-14,2024-07-24,1,VISAYAS
+ORD-0011,Pedro Macaraeg,PEDRO.MACARAEG@GMAIL.COM,Food & Grocery,Instant Noodles,1,15.0,0.05,Debit Card,Shipped,2024-03-25,2024-04-03,1,visayas
+ORD-0560,SAMMY BAUTISTA,sammy.bautista@gmail.com,Electronics,Bluetooth Speaker,5,3200.0,0.05,debit card,Delivered,2024-06-12,2024-06-16,2,Visayas
+ORD-0572,Victor Dela Rosa,victor.delarosa@yahoo.com,Clothing,Polo Shirt,3,550.0,0.05,CreditCard,delivered,2024-08-13,2024-08-17,,MINDANAO
+ORD-0910,ALAN EVANGELISTA,alan.evangelista@outlook.com,Food & Grocery,Rice 5kg,3,250.0,0.0,Credit Card,Deliverd,2024-06-05,2024-06-11,5,visayas
+ORD-0477,Kevin Navarro,kevin.navarro@yahoo.com,Electronics,Phone Case,3,199.0,0.15,cod,delivered,2024-05-08,2024-05-13,4,visayas
+ORD-0311,Luz Villafuerte,luz.villafuerte@gmail.com,Clothing,Running Shoes,3,2500.0,0.2,G-Cash,Delivered,2024-02-12,2024-02-20,5,luzon
+ORD-0201,Luz Domingo,luz.domingo@outlook.com,Home & Living,Electric Fan,5,1500.0,0.15,COD,SHIPPED,2024-02-24,2024-02-28,5,LUZON
+ORD-0251,Rosa Evangelista,rosa.evangelista@yahoo.com,Home & Living,Electric Fan,3,1500.0,0.1,cod,Cancelled,2024-03-07,,,Mindanao
+ORD-0253,Ana Magsaysay,ana.magsaysay@outlook.com,Home & Living,Bed Sheets,2,650.0,0.1,GCash,Cancelled,2024-06-28,,,luzon
+ORD-0841,sheila castillo,sheila.castillo@yahoo.com,Electronics,Power Bank,5,799.0,0.0,COD,Delivered,2024-04-02,2024-04-08,4,Luzon
+ORD-0807,Ramon Cruz,ramon.cruz@gmail.com,Home & Living,Air Purifier,3,8500.0,0.15,Cash on Delivery,CANCELLED,2024-03-15,,,Luzon
+ORD-0046,Ramon Villanueva,ramon.villanueva@yahoo.com,Electronics,Smart Watch,3,5999.0,0.1,Debit Card,delivered,2024-10-03,2024-10-11,5,Visayas
+ORD-0148,RONALD DOMINGO,ronald.domingo@yahoo.com,Beauty,Face Wash,1,320.0,0.1,Debit Card,Delivered,2024-04-15,2024-04-20,3,Visayas
+ORD-0686,Irene Espiritu,irene.espiritu@outlook.com,Beauty,Face Wash,3,320.0,0.1,Credit Card,DELIVERED,2024-07-31,2024-08-04,4,Visayas
+ORD-0108,Melissa Corpus,melissa.corpus@outlook.com,Beauty,Serum,3,780.0,0.0,COD,Deliverd,2024-04-28,2024-05-02,3,MINDANAO
+ORD-0517,Mia Santos,MIA.SANTOS@GMAIL.COM,Electronics,USB Hub,4,450.0,0.1,GCash,RETURNED,2024-12-26,,,MINDANAO
+ORD-0694,homer villafuerte,homer.villafuerte@outlook.com,Beauty,Face Wash,2,320.0,0.2,Gcash,Canceled,2024-07-17,,,Luzon
+ORD-0353,Trisha Pascual,trisha.pascual@yahoo.com,Home & Living,Air Purifier,2,8500.0,0.0,Credit Card,Cancelled,2024-01-05,,,MINDANAO
+ORD-0597,VICTOR TOLENTINO,VICTOR.TOLENTINO@OUTLOOK.COM,Home & Living,Picture Frame,1,220.0,0.0,credit card,delivered,2024-04-02,2024-04-05,4,Visayas
+ORD-0175,Homer Aguilar,homer.aguilar@gmail.com,Home & Living,Air Purifier,4,8500.0,0.2,cod,returned,2024-12-30,,5,Luzon
+ORD-0805,Tina Padilla,tina.padilla@yahoo.com,Clothing,Polo Shirt,1,550.0,0.1,gcash,cancelled,2024-07-28,,,mindanao
+ORD-0051,Ben Soriano,BEN.SORIANO@OUTLOOK.COM,Clothing,Polo Shirt,5,550.0,0.0,COD,Delivered,2024-03-30,2024-04-06,1,VISAYAS
+ORD-0982,IRENE VILLANUEVA,irene.villanueva@yahoo.com,Food & Grocery,Rice 5kg,1,250.0,0.15,Credit Card,delivered,2024-02-23,2024-03-03,,Mindanao
+ORD-0499,juan espiritu,juan.espiritu@yahoo.com,Food & Grocery,Coffee Pack,4,85.0,0.1,COD,cancelled,2024-05-12,,,Visayas
+ORD-0465,Gilbert Lim,GILBERT.LIM@GMAIL.COM,Home & Living,Rice Cooker,3,899.0,0.15,credit card,Cancelled,2024-03-05,,,mindanao
+ORD-0014,Rachel Gutierrez,rachel.gutierrez@gmail.com,Home & Living,Air Purifier,2,8500.0,0.1,gcash,delivered,2024-05-15,2024-05-19,1,luzon
+ORD-0470,sarah torres,sarah.torres@gmail.com,Clothing,Running Shoes,5,2500.0,0.2,debit card,Shipped,2024-04-22,2024-04-29,4,luzon
+ORD-0103,Ricky Reyes,RICKY.REYES@GMAIL.COM,Food & Grocery,Canned Goods,5,45.0,0.05,DebitCard,Deliverd,2024-10-08,2024-10-16,3,VISAYAS
+ORD-0104,Irene Espiritu,irene.espiritu@gmail.com,Food & Grocery,Cooking Oil,2,120.0,0.0,GCash,Deliverd,2024-03-11,2024-03-17,1,Luzon
+ORD-0081,Irene Ocampo,irene.ocampo@yahoo.com,Beauty,Lip Tint,4,199.0,0.15,Debit Card,delivered,2024-06-09,2024-06-17,3,luzon
+ORD-0221,Alan Medina,alan.medina@gmail.com,Electronics,Wireless Earbuds,2,1299.0,0.0,GCash,SHIPPED,2024-09-07,2024-09-14,1,MINDANAO
+ORD-0943,cynthia castillo,cynthia.castillo@yahoo.com,Home & Living,Bed Sheets,1,650.0,0.05,G-Cash,Deliverd,2024-05-11,2024-05-18,2,Luzon
+ORD-0731,Jenny Uy,jenny.uy@gmail.com,Food & Grocery,Canned Goods,2,,0.15,credit card,returned,2024-05-28,,1,VISAYAS
+ORD-0683,ALAN FERNANDEZ,alan.fernandez@outlook.com,Electronics,Laptop Stand,5,850.0,0.2,CreditCard,Deliverd,2024-06-22,2024-06-27,4,VISAYAS
+ORD-0944,Alan Aquino,alan.aquino@outlook.com,Clothing,Jogger Pants,2,799.0,0.0,gcash,Deliverd,2024-08-30,2024-09-04,4,LUZON
+ORD-0019,Eddie Mendoza,eddie.mendoza@gmail.com,Food & Grocery,Coffee Pack,3,85.0,0.1,gcash,returned,2024-12-07,,4,mindanao
+ORD-0058,Alan Tolentino,alan.tolentino@gmail.com,Food & Grocery,Instant Noodles,1,15.0,0.05,Cash on Delivery,Delivered,2024-09-11,2024-09-20,2,MINDANAO
+ORD-0082,Mark Medina,mark.medina@yahoo.com,Electronics,Wireless Earbuds,3,,0.15,CreditCard,delivered,2024-03-22,2024-04-01,5,visayas
+ORD-0533,Christine Aquino,christine.aquino@yahoo.com,Clothing,Jacket,3,1800.0,0.1,CreditCard,Deliverd,2024-05-15,2024-05-19,4,visayas
+ORD-0674,Melissa Espiritu,melissa.espiritu@gmail.com,Electronics,Bluetooth Speaker,2,3200.0,0.1,Cash on Delivery,SHIPPED,2024-08-09,2024-08-13,5,MINDANAO
+ORD-0340,Cynthia Corpus,cynthia.corpus@outlook.com,Food & Grocery,Cooking Oil,3,120.0,0.15,COD,DELIVERED,2024-07-18,2024-07-23,5,Visayas
+ORD-0126,jasmine ramos,jasmine.ramos@outlook.com,Clothing,Dress,1,41165.04,0.05,Debit Card,DELIVERED,2024-03-02,2024-03-11,2,luzon
+ORD-0079,Eleanor Evangelista,eleanor.evangelista@gmail.com,Electronics,USB Hub,1,450.0,0.05,CreditCard,returned,2024-02-10,,3,mindanao
+ORD-0064,pedro soriano,pedro.soriano@outlook.com,Home & Living,Picture Frame,2,220.0,0.05,cod,Shipped,2024-10-31,2024-11-04,3,mindanao
+ORD-0721,MELISSA MENDOZA,melissa.mendoza@yahoo.com,Electronics,Bluetooth Speaker,4,3200.0,0.05,Cash on Delivery,delivered,2024-01-11,2024-01-17,4,luzon
+ORD-0511,CARLO GUTIERREZ,carlo.gutierrez@outlook.com,Electronics,Laptop Stand,1,850.0,0.1,GCash,delivered,2024-10-27,2024-11-05,2,visayas
+ORD-0075,marco reyes,marco.reyes@gmail.com,Home & Living,Air Purifier,4,8500.0,0.05,Cash on Delivery,Cancelled,2024-10-20,,,visayas
+ORD-0802,Rowena Fajardo,rowena.fajardo@gmail.com,Home & Living,Air Purifier,2,8500.0,,credit card,DELIVERED,2024-07-26,2024-08-04,2,luzon
+ORD-0736,Sheila Aquino,sheila.aquino@gmail.com,Home & Living,Rice Cooker,3,899.0,0.0,debit card,delivered,2024-07-26,2024-08-03,5,VISAYAS
+ORD-0040,Alan Santiago,alan.santiago@outlook.com,Clothing,Dress,5,1200.0,0.2,COD,Deliverd,2024-04-29,2024-05-08,1,VISAYAS
+ORD-0505,ALAN SORIANO,alan.soriano@yahoo.com,Clothing,Jacket,4,,0.05,Gcash,Deliverd,2024-05-14,2024-05-24,1,luzon
+ORD-0086,Arnold Santos,arnold.santos@outlook.com,Food & Grocery,Canned Goods,2,45.0,0.05,Debit Card,Delivered,2024-10-20,2024-10-24,,visayas
+ORD-0147,DENNIS MANALO,dennis.manalo@gmail.com,Food & Grocery,Cooking Oil,1,120.0,0.2,Credit Card,DELIVERED,2024-04-15,2024-04-21,4,MINDANAO
+ORD-0341,Luz Santiago,LUZ.SANTIAGO@GMAIL.COM,Food & Grocery,Canned Goods,3,45.0,0.15,GCash,DELIVERED,2024-11-17,2024-11-25,,Mindanao
+ORD-0845,Nina Bautista,nina.bautista@gmail.com,Food & Grocery,Instant Noodles,1,15.0,0.1,Credit Card,Delivered,2024-03-06,2024-03-09,2,VISAYAS
+ORD-0656,victor garcia,victor.garcia@gmail.com,Clothing,Running Shoes,4,2500.0,0.2,DebitCard,delivered,2024-05-14,2024-05-23,1,luzon
+ORD-0384,Rowena Fajardo,rowena.fajardo@gmail.com,Clothing,Socks Pack,5,150.0,0.1,cod,Deliverd,2024-11-27,2024-12-04,1,mindanao
+ORD-0598,Gina Macapagal,gina.macapagal@yahoo.com,Beauty,Face Wash,3,320.0,0.05,Cash on Delivery,delivered,2024-05-13,2024-05-22,2,MINDANAO
+ORD-0650,Rodrigo Tan,rodrigo.tan@gmail.com,Electronics,Laptop Stand,4,850.0,,cod,cancelled,2024-11-10,,,Mindanao
+ORD-0447,felix castillo,felix.castillo@gmail.com,Electronics,Phone Case,4,199.0,0.1,GCash,shipped,2024-06-01,2024-06-06,2,visayas
+ORD-0803,alan lim,alan.lim@outlook.com,Food & Grocery,Rice 5kg,2,11989.37,0.15,Credit Card,delivered,2024-05-30,2024-06-04,4,VISAYAS
+ORD-0161,HOMER PADILLA,homer.padilla@gmail.com,Clothing,Jogger Pants,4,799.0,0.15,Credit Card,CANCELLED,2024-11-19,,,Luzon
+ORD-0325,Lisa Espiritu,lisa.espiritu@yahoo.com,Home & Living,Picture Frame,1,220.0,0.2,cod,delivered,2024-01-25,2024-02-01,3,Mindanao
+ORD-0712,Rodrigo Ramos,rodrigo.ramos@gmail.com,Clothing,Jogger Pants,5,799.0,0.2,Cash on Delivery,delivered,2024-08-17,2024-08-26,2,visayas
+ORD-0169,Arnold Aquino,arnold.aquino@yahoo.com,Electronics,Phone Case,944,199.0,0.2,CreditCard,RETURNED,2024-12-18,,5,MINDANAO
+ORD-0122,Sarah Navarro,sarah.navarro@outlook.com,Food & Grocery,Cooking Oil,2,120.0,0.05,cod,delivered,2024-06-14,2024-06-21,3,MINDANAO
+ORD-0716,Juan Santos,JUAN.SANTOS@OUTLOOK.COM,Home & Living,Electric Fan,5,,0.15,G-Cash,RETURNED,2024-07-09,,1,MINDANAO
+ORD-0939,victor espiritu,victor.espiritu@outlook.com,Beauty,Face Wash,4,320.0,0.2,credit card,Delivered,2024-09-10,2024-09-17,2,luzon
+ORD-0840,Eddie Evangelista,eddie.evangelista@yahoo.com,Clothing,Running Shoes,2,2500.0,0.15,Debit Card,delivered,2024-08-02,2024-08-07,1,luzon
+ORD-0440,dante reyes,dante.reyes@gmail.com,Electronics,Phone Case,3,199.0,0.1,COD,DELIVERED,2024-07-27,2024-07-31,5,Luzon
+ORD-0372,Ramon Macapagal,RAMON.MACAPAGAL@OUTLOOK.COM,Home & Living,Air Purifier,2,8500.0,0.15,Cash on Delivery,Delivered,2024-03-12,2024-03-17,3,MINDANAO
+ORD-0493,Christine Ocampo,christine.ocampo@gmail.com,Clothing,Running Shoes,1,2500.0,,cod,DELIVERED,2024-03-07,2024-03-16,4,Mindanao
+ORD-0250,Jose Dizon,jose.dizon@gmail.com,Home & Living,Rice Cooker,5,,0.05,CreditCard,DELIVERED,2024-08-13,2024-08-17,3,Visayas
+ORD-0785,Noel Reyes,noel.reyes@outlook.com,Beauty,Serum,5,780.0,0.0,DebitCard,Deliverd,2024-07-14,2024-07-21,1,Visayas
+ORD-0699,Dante Reyes,dante.reyes@outlook.com,Clothing,Jacket,5,1800.0,0.1,GCash,cancelled,2024-12-28,,,MINDANAO
+ORD-0393,Ricky Macaraeg,ricky.macaraeg@outlook.com,Home & Living,Rice Cooker,4,899.0,0.0,debit card,Delivered,2024-02-01,2024-02-08,1,Luzon
+ORD-0754,Eddie Villanueva,eddie.villanueva@gmail.com,Home & Living,Electric Fan,5,1500.0,0.15,Cash on Delivery,delivered,2024-07-25,2024-07-31,2,MINDANAO
+ORD-0782,tony santos,tony.santos@yahoo.com,Food & Grocery,Canned Goods,3,45.0,0.2,Gcash,Delivered,2024-06-19,2024-06-25,2,luzon
+ORD-0935,Carla Soriano,carla.soriano@gmail.com,Electronics,Laptop Stand,3,850.0,0.15,GCash,shipped,2024-01-18,2024-01-24,3,MINDANAO
+ORD-0548,Christine Fajardo,christine.fajardo@outlook.com,Beauty,Sunscreen SPF50,5,450.0,0.2,Gcash,returned,2024-06-04,,3,VISAYAS
+ORD-0862,Arnold Lacson,arnold.lacson@outlook.com,Clothing,Polo Shirt,2,550.0,0.15,credit card,DELIVERED,2024-07-05,2024-07-15,2,Luzon
+ORD-0243,Gilbert Dizon,gilbert.dizon@yahoo.com,Home & Living,Rice Cooker,1,899.0,0.15,DebitCard,DELIVERED,2024-08-29,2024-09-03,1,visayas
+ORD-0836,Ricky Fajardo,RICKY.FAJARDO@OUTLOOK.COM,Food & Grocery,Cooking Oil,5,120.0,0.15,Gcash,CANCELLED,2024-12-21,,,LUZON
+ORD-0394,Juan Manalo,juan.manalo@yahoo.com,Beauty,Lip Tint,5,199.0,0.1,CreditCard,shipped,2024-11-08,2024-11-11,3,Luzon
+ORD-0557,Ben Santos,ben.santos@gmail.com,Home & Living,Air Purifier,5,8500.0,0.15,CreditCard,DELIVERED,2024-09-24,2024-10-02,4,VISAYAS
+ORD-0027,Rachel Espiritu,rachel.espiritu@gmail.com,Electronics,USB Hub,2,450.0,0.0,debit card,Delivered,2024-10-30,2024-11-05,1,VISAYAS
+ORD-0277,Paolo Aguilar,paolo.aguilar@yahoo.com,Electronics,Phone Case,2,199.0,0.05,Credit Card,Canceled,2024-01-28,,,mindanao
+ORD-0156,Marco Castillo,marco.castillo@outlook.com,Clothing,Jogger Pants,1,799.0,0.05,credit card,delivered,2024-05-17,2024-05-26,,Mindanao
+ORD-0029,Victor Magsaysay,victor.magsaysay@outlook.com,Clothing,Running Shoes,3,2500.0,0.15,debit card,Deliverd,2024-06-15,2024-06-20,4,visayas
+ORD-0110,HOMER MEDINA,homer.medina@yahoo.com,Home & Living,Rice Cooker,2,,0.2,Debit Card,Delivered,2024-06-30,2024-07-04,5,visayas
+ORD-0930,Lisa Uy,lisa.uy@outlook.com,Clothing,Polo Shirt,3,550.0,0.0,Cash on Delivery,DELIVERED,2024-11-20,2024-11-27,4,LUZON
+ORD-0182,Eleanor Lacson,ELEANOR.LACSON@YAHOO.COM,Clothing,Jogger Pants,5,799.0,0.2,Gcash,Deliverd,2024-02-23,2024-02-29,5,mindanao
+ORD-0008,eddie tan,eddie.tan@yahoo.com,Food & Grocery,Coffee Pack,2,85.0,0.05,Debit Card,RETURNED,2024-12-19,,2,VISAYAS
+ORD-0236,Patricia Santos,patricia.santos@yahoo.com,Food & Grocery,Cooking Oil,3,120.0,0.15,credit card,Deliverd,2024-01-08,2024-01-15,4,Mindanao
+ORD-0213,Rodrigo Aquino,rodrigo.aquino@gmail.com,Beauty,Moisturizer,720,550.0,0.2,gcash,Deliverd,2024-10-14,2024-10-23,4,MINDANAO
+ORD-0087,Gilbert Uy,gilbert.uy@yahoo.com,Electronics,Power Bank,2,799.0,0.15,COD,CANCELLED,2024-10-06,,,MINDANAO
+ORD-0060,Rowena Tan,rowena.tan@yahoo.com,Food & Grocery,Instant Noodles,4,15.0,0.05,Credit Card,RETURNED,2024-02-28,,5,visayas
+ORD-0918,Trisha Lim,trisha.lim@yahoo.com,Electronics,Phone Case,4,199.0,0.05,CreditCard,DELIVERED,2024-08-12,2024-08-19,1,Visayas
+ORD-0133,juan navarro,juan.navarro@yahoo.com,Clothing,Polo Shirt,1,550.0,0.15,Credit card,DELIVERED,2024-02-09,2024-02-17,1,Luzon
+ORD-0015,Rachel Soriano,rachel.soriano@yahoo.com,Home & Living,Rice Cooker,1,899.0,,CreditCard,Deliverd,2024-10-09,2024-10-18,,LUZON
+ORD-0039,Sarah Espiritu,sarah.espiritu@gmail.com,Home & Living,Picture Frame,3,220.0,0.15,Credit card,delivered,2024-02-05,2024-02-12,4,mindanao
+ORD-0722,Sheila Villafuerte,SHEILA.VILLAFUERTE@YAHOO.COM,Electronics,USB Hub,4,450.0,0.15,Cash on Delivery,delivered,2024-07-25,2024-07-31,3,Mindanao
+ORD-0413,Pedro Navarro,PEDRO.NAVARRO@GMAIL.COM,Home & Living,Picture Frame,4,10659.42,0.2,Credit card,Cancelled,2024-07-26,,,Mindanao
+ORD-0357,Jasmine Lim,jasmine.lim@yahoo.com,Food & Grocery,Cooking Oil,4,120.0,,DebitCard,CANCELLED,2024-01-03,,,LUZON
+ORD-0923,Dante Torres,dante.torres@gmail.com,Home & Living,Electric Fan,1,1500.0,0.15,Cash on Delivery,DELIVERED,2024-07-18,2024-07-25,5,VISAYAS
+ORD-0441,Homer Magsaysay,homer.magsaysay@yahoo.com,Beauty,Sunscreen SPF50,1,450.0,0.05,credit card,RETURNED,2024-11-07,,5,visayas
+ORD-0481,Pedro dela Cruz,PEDRO.DELACRUZ@OUTLOOK.COM,Clothing,Running Shoes,4,2500.0,,gcash,shipped,2024-04-04,2024-04-10,5,MINDANAO
+ORD-0169,Arnold Aquino,arnold.aquino@yahoo.com,Electronics,Phone Case,944,199.0,0.2,CreditCard,RETURNED,2024-12-18,,5,MINDANAO
+ORD-0853,carla garcia,carla.garcia@yahoo.com,Food & Grocery,Cooking Oil,4,120.0,0.1,DebitCard,SHIPPED,2024-10-15,2024-10-22,4,visayas
+ORD-0539,MELISSA NAVARRO,melissa.navarro@gmail.com,Clothing,Dress,3,1200.0,0.15,gcash,Cancelled,2024-04-23,,,luzon
+ORD-0261,Dante Macapagal,dante.macapagal@yahoo.com,Electronics,Power Bank,5,799.0,0.2,DebitCard,Delivered,2024-12-02,2024-12-09,,Visayas
+ORD-0796,Gilbert Santos,gilbert.santos@yahoo.com,Beauty,Face Wash,3,320.0,0.1,CreditCard,Delivered,2024-10-17,2024-10-26,4,VISAYAS
+ORD-0135,KEVIN DELA CRUZ,kevin.delacruz@outlook.com,Home & Living,Rice Cooker,2,899.0,0.15,CreditCard,Delivered,2024-04-28,2024-05-07,3,Mindanao
+ORD-0537,gina tolentino,gina.tolentino@outlook.com,Home & Living,Picture Frame,5,220.0,0.05,COD,DELIVERED,2024-03-13,2024-03-21,4,Visayas
+ORD-0405,noel torres,noel.torres@outlook.com,Beauty,Lip Tint,1,199.0,0.15,debit card,Delivered,2024-06-15,2024-06-19,5,Mindanao
+ORD-0077,Marco Tan,marco.tan@yahoo.com,Electronics,Smart Watch,5,,0.05,CreditCard,Returned,2024-03-03,,2,luzon
+ORD-0708,Jose Uy,JOSE.UY@OUTLOOK.COM,Food & Grocery,Cooking Oil,2,120.0,0.1,COD,Shipped,2024-05-23,2024-06-02,2,LUZON
+ORD-0293,Maria Cruz,maria.cruz@gmail.com,Home & Living,Picture Frame,4,220.0,0.15,gcash,RETURNED,2024-10-21,,1,LUZON
+ORD-0491,Pedro Aguilar,pedro.aguilar@gmail.com,Beauty,Face Wash,3,320.0,0.15,Cash on Delivery,CANCELLED,2024-04-26,,,Luzon
+ORD-0510,marco padilla,marco.padilla@yahoo.com,Electronics,Power Bank,1,799.0,0.1,CreditCard,DELIVERED,2024-02-10,2024-02-16,1,mindanao
+ORD-0540,Noel dela Cruz,noel.delacruz@gmail.com,Clothing,Dress,2,1200.0,0.0,Credit card,DELIVERED,2024-06-08,2024-06-17,,Visayas
+ORD-0621,Luz Mendoza,luz.mendoza@yahoo.com,Electronics,USB Hub,3,450.0,0.0,Gcash,delivered,2024-07-10,2024-07-14,2,Luzon
+ORD-0376,Jasmine Espiritu,jasmine.espiritu@yahoo.com,Clothing,Dress,2,1200.0,0.15,Credit Card,SHIPPED,2024-01-23,2024-01-29,2,MINDANAO
+ORD-0317,Patricia Aguilar,patricia.aguilar@yahoo.com,Clothing,Jogger Pants,2,799.0,0.1,debit card,Deliverd,2024-07-12,2024-07-18,1,MINDANAO
+ORD-0797,Christine Garcia,christine.garcia@yahoo.com,Food & Grocery,Canned Goods,1,45.0,0.0,DebitCard,Delivered,2024-05-19,2024-05-23,4,Mindanao
+ORD-0105,Rowena Lim,rowena.lim@outlook.com,Beauty,Sunscreen SPF50,1,450.0,0.0,cod,Delivered,2024-09-14,2024-09-23,2,LUZON
+ORD-0704,Jenny Villafuerte,JENNY.VILLAFUERTE@OUTLOOK.COM,Beauty,Lip Tint,3,199.0,0.1,debit card,Deliverd,2024-04-22,2024-05-02,,LUZON
+ORD-0570,Tony Garcia,tony.garcia@yahoo.com,Clothing,Socks Pack,3,150.0,0.1,Debit Card,SHIPPED,2024-05-30,2024-06-02,5,Luzon
+ORD-0542,Sammy Macaraeg,sammy.macaraeg@outlook.com,Food & Grocery,Rice 5kg,1,250.0,0.2,Gcash,DELIVERED,2024-12-28,2025-01-04,2,MINDANAO
+ORD-0868,Eddie Garcia,EDDIE.GARCIA@OUTLOOK.COM,Electronics,Laptop Stand,3,850.0,0.1,COD,Deliverd,2024-10-30,2024-11-05,5,mindanao
+ORD-0037,Irene Tan,irene.tan@yahoo.com,Clothing,Jogger Pants,4,799.0,0.15,G-Cash,DELIVERED,2024-05-09,2024-05-17,1,VISAYAS
+ORD-0363,Trisha Mendoza,trisha.mendoza@yahoo.com,Home & Living,Picture Frame,5,220.0,0.15,G-Cash,Deliverd,2024-04-22,2024-04-25,2,VISAYAS
+ORD-0018,Nina Garcia,nina.garcia@outlook.com,Food & Grocery,Rice 5kg,1,250.0,0.05,COD,Deliverd,2024-06-25,2024-07-03,4,Mindanao
+ORD-0593,Nina Santos,nina.santos@gmail.com,Clothing,Dress,2,1200.0,0.0,debit card,SHIPPED,2024-10-09,2024-10-15,4,MINDANAO
+ORD-0157,RAMON CASTILLO,ramon.castillo@yahoo.com,Home & Living,Air Purifier,4,8500.0,0.15,debit card,RETURNED,2024-07-22,,5,MINDANAO
+ORD-0282,Alan Villafuerte,alan.villafuerte@outlook.com,Clothing,Socks Pack,1,150.0,0.0,COD,Deliverd,2024-07-06,2024-07-16,,Visayas
+ORD-0428,Rodrigo Corpus,rodrigo.corpus@outlook.com,Clothing,Dress,1,1200.0,0.05,DebitCard,DELIVERED,2024-01-11,2024-01-18,2,VISAYAS
+ORD-0314,Ronald Lim,ronald.lim@gmail.com,Beauty,Lip Tint,3,199.0,0.2,debit card,Deliverd,2024-05-10,2024-05-17,1,luzon
+ORD-0640,Mia dela Cruz,mia.delacruz@yahoo.com,Beauty,Lip Tint,4,199.0,0.05,DebitCard,delivered,2024-02-09,2024-02-13,1,Mindanao
+ORD-0411,Irene Villanueva,irene.villanueva@yahoo.com,Food & Grocery,Instant Noodles,1,15.0,0.15,debit card,DELIVERED,2024-01-05,2024-01-10,2,MINDANAO
+ORD-0459,Irene Villafuerte,irene.villafuerte@gmail.com,Clothing,Socks Pack,3,150.0,0.2,Credit card,shipped,2024-08-04,2024-08-11,3,mindanao
+ORD-0149,Gina Magsaysay,gina.magsaysay@gmail.com,Beauty,Face Wash,3,320.0,,debit card,delivered,2024-05-17,2024-05-20,2,Mindanao
+ORD-0824,Dante Castillo,dante.castillo@outlook.com,Home & Living,Rice Cooker,1,899.0,0.2,cod,cancelled,2024-02-16,,,luzon
+ORD-0685,Carla Magsaysay,carla.magsaysay@outlook.com,Food & Grocery,Canned Goods,3,45.0,0.15,COD,Shipped,2024-06-25,2024-06-29,,visayas
+ORD-0512,Jenny Fajardo,jenny.fajardo@gmail.com,Clothing,Running Shoes,4,2500.0,0.05,G-Cash,Deliverd,2024-11-19,2024-11-25,3,Mindanao
+ORD-0492,HOMER SANTOS,homer.santos@yahoo.com,Beauty,Moisturizer,5,550.0,0.2,Cash on Delivery,DELIVERED,2024-08-11,2024-08-14,2,Mindanao
+ORD-0369,Jose Espiritu,jose.espiritu@yahoo.com,Beauty,Lip Tint,4,199.0,0.05,cod,DELIVERED,2024-02-12,2024-02-19,5,Mindanao
+ORD-0866,Jasmine Lim,jasmine.lim@outlook.com,Beauty,Face Wash,1,320.0,0.0,debit card,delivered,2024-01-04,2024-01-14,3,mindanao
+ORD-0974,Sarah Medina,sarah.medina@yahoo.com,Electronics,Bluetooth Speaker,5,3200.0,0.15,Gcash,DELIVERED,2024-10-15,2024-10-25,5,visayas
+ORD-0554,Melissa Dizon,melissa.dizon@gmail.com,Electronics,Phone Case,4,199.0,0.0,debit card,Delivered,2024-03-15,2024-03-22,5,LUZON
+ORD-0098,mark dizon,mark.dizon@outlook.com,Electronics,Bluetooth Speaker,1,3200.0,0.05,Gcash,returned,2024-04-29,,5,MINDANAO
+ORD-0887,Gilbert Fajardo,gilbert.fajardo@gmail.com,Food & Grocery,Coffee Pack,3,85.0,0.2,Debit Card,cancelled,2024-06-22,,,Luzon
+ORD-0965,Lena dela Cruz,lena.delacruz@gmail.com,Food & Grocery,Cooking Oil,1,120.0,0.0,Credit Card,Cancelled,2024-02-11,,,Luzon
+ORD-0168,Gina Espiritu,gina.espiritu@yahoo.com,Clothing,Running Shoes,2,2500.0,0.05,DebitCard,cancelled,2024-11-08,,,Mindanao
+ORD-0049,carla ocampo,carla.ocampo@yahoo.com,Food & Grocery,Cooking Oil,5,120.0,0.15,DebitCard,shipped,2024-01-17,2024-01-25,2,luzon
+ORD-0322,Irene Bautista,irene.bautista@yahoo.com,Home & Living,Picture Frame,3,220.0,0.05,Debit Card,RETURNED,2024-11-21,,,Luzon
+ORD-0129,CARLA FAJARDO,carla.fajardo@gmail.com,Home & Living,Electric Fan,4,1500.0,0.1,Credit card,Delivered,2024-10-27,2024-10-31,1,Luzon
+ORD-0975,Carlo Reyes,carlo.reyes@yahoo.com,Beauty,Sunscreen SPF50,2,450.0,0.1,debit card,cancelled,2024-01-19,,,Luzon
+ORD-0351,MIA MACAPAGAL,mia.macapagal@outlook.com,Clothing,Jogger Pants,5,799.0,0.2,Debit Card,Deliverd,2024-11-13,2024-11-20,,visayas
+ORD-0936,Pedro Gutierrez,pedro.gutierrez@yahoo.com,Home & Living,Picture Frame,2,220.0,0.1,Debit Card,Delivered,2024-04-29,2024-05-02,,luzon
+ORD-0347,Jasmine Tan,jasmine.tan@outlook.com,Home & Living,Picture Frame,1,220.0,0.2,Gcash,Cancelled,2024-03-02,,,luzon
+ORD-0408,Kevin Dizon,kevin.dizon@gmail.com,Electronics,Bluetooth Speaker,1,3200.0,0.05,CreditCard,delivered,2024-11-14,2024-11-23,1,visayas
+ORD-0319,Nina Domingo,nina.domingo@yahoo.com,Food & Grocery,Coffee Pack,3,85.0,0.05,Credit Card,DELIVERED,2024-04-30,2024-05-10,2,MINDANAO
+ORD-0676,Anna Padilla,anna.padilla@yahoo.com,Food & Grocery,Instant Noodles,5,15.0,0.0,Credit card,Deliverd,2024-11-21,2024-11-28,2,Luzon
+ORD-0155,sheila macapagal,sheila.macapagal@gmail.com,Clothing,Running Shoes,2,2500.0,0.1,Cash on Delivery,Canceled,2024-11-21,,,luzon
+ORD-0636,Anna Padilla,anna.padilla@outlook.com,Electronics,USB Hub,2,450.0,0.1,GCash,delivered,2024-09-02,2024-09-05,1,Luzon
+ORD-0223,Arnold Torres,arnold.torres@outlook.com,Food & Grocery,Coffee Pack,5,85.0,0.0,cod,Canceled,2024-02-23,,,mindanao
+ORD-0404,Cynthia Corpus,cynthia.corpus@yahoo.com,Food & Grocery,Coffee Pack,4,85.0,0.0,debit card,CANCELLED,2024-01-06,,,luzon
+ORD-0953,Tony Pascual,tony.pascual@gmail.com,Home & Living,Electric Fan,3,1500.0,0.1,Cash on Delivery,Deliverd,2024-08-09,2024-08-19,2,Luzon
+ORD-0885,Kevin Medina,kevin.medina@gmail.com,Home & Living,Electric Fan,1,1500.0,0.05,Cash on Delivery,delivered,2024-01-15,2024-01-21,3,Luzon
+ORD-0750,Rodrigo Reyes,rodrigo.reyes@yahoo.com,Clothing,Jacket,4,1800.0,0.2,Credit Card,CANCELLED,2024-07-13,,,LUZON
+ORD-0424,Felix Evangelista,felix.evangelista@yahoo.com,Electronics,Laptop Stand,1,850.0,0.2,CreditCard,DELIVERED,2024-01-24,2024-01-27,2,visayas
+ORD-0264,Rodrigo Ocampo,rodrigo.ocampo@yahoo.com,Clothing,Jacket,974,1800.0,0.15,GCash,RETURNED,2024-06-30,,4,mindanao
+ORD-0773,Sarah Uy,sarah.uy@outlook.com,Beauty,Moisturizer,2,550.0,0.0,debit card,delivered,2024-04-02,2024-04-05,1,luzon
+ORD-0378,Homer Soriano,HOMER.SORIANO@YAHOO.COM,Home & Living,Rice Cooker,2,899.0,0.15,Gcash,cancelled,2024-08-29,,,Luzon
+ORD-0245,Arnold Fajardo,arnold.fajardo@outlook.com,Home & Living,Electric Fan,1,1500.0,0.0,Credit card,Shipped,2024-06-19,2024-06-27,5,Luzon
+ORD-0284,Noel Padilla,noel.padilla@outlook.com,Food & Grocery,Rice 5kg,4,250.0,0.0,Debit Card,Deliverd,2024-04-01,2024-04-08,1,Visayas
+ORD-0165,Gilbert Flores,gilbert.flores@gmail.com,Electronics,Power Bank,5,799.0,0.05,GCash,Delivered,2024-02-24,2024-03-05,2,VISAYAS
+ORD-0670,Pedro Villanueva,pedro.villanueva@outlook.com,Beauty,Serum,3,780.0,0.05,gcash,DELIVERED,2024-09-19,2024-09-22,5,luzon
+ORD-0127,Mark Villanueva,mark.villanueva@gmail.com,Clothing,Socks Pack,2,150.0,0.2,debit card,delivered,2024-07-29,2024-08-08,2,Luzon
+ORD-0281,jasmine tan,jasmine.tan@outlook.com,Beauty,Serum,5,780.0,0.05,Debit Card,Deliverd,2024-12-26,2024-12-29,1,mindanao
+ORD-0309,Noel Santiago,noel.santiago@gmail.com,Home & Living,Picture Frame,5,220.0,0.05,Credit card,Deliverd,2024-05-17,2024-05-26,5,LUZON
+ORD-0302,Lena Fajardo,lena.fajardo@outlook.com,Beauty,Lip Tint,4,199.0,0.15,Credit card,Delivered,2024-05-08,2024-05-18,4,Luzon
+ORD-0448,Gilbert Ramos,gilbert.ramos@outlook.com,Electronics,Smart Watch,5,5999.0,0.2,cod,Delivered,2024-03-18,2024-03-28,2,Visayas
+ORD-0308,Carlo Garcia,carlo.garcia@yahoo.com,Home & Living,Picture Frame,4,220.0,0.0,gcash,Delivered,2024-10-17,2024-10-27,4,LUZON
+ORD-0303,ANNA GARCIA,anna.garcia@gmail.com,Home & Living,Electric Fan,3,1500.0,0.0,debit card,DELIVERED,2024-12-04,2024-12-14,4,mindanao
+ORD-0933,Jose Mendoza,jose.mendoza@gmail.com,Clothing,Running Shoes,3,2500.0,0.15,gcash,DELIVERED,2024-08-20,2024-08-24,5,LUZON
+ORD-0929,Eddie Lim,eddie.lim@outlook.com,Food & Grocery,Instant Noodles,1,15.0,0.05,Debit Card,Shipped,2024-06-24,2024-07-04,2,Visayas
+ORD-0928,Christine dela Cruz,christine.delacruz@gmail.com,Beauty,Sunscreen SPF50,1,450.0,,credit card,CANCELLED,2024-03-09,,,LUZON
+ORD-0823,noel aquino,noel.aquino@outlook.com,Home & Living,Bed Sheets,1,27319.19,0.0,CreditCard,shipped,2024-01-28,2024-02-07,2,luzon
+ORD-0660,Mia Mendoza,mia.mendoza@yahoo.com,Food & Grocery,Cooking Oil,2,120.0,0.05,COD,DELIVERED,2024-04-14,2024-04-24,5,LUZON
+ORD-0364,Dante Soriano,dante.soriano@yahoo.com,Electronics,Phone Case,1,199.0,0.0,Debit Card,Delivered,2024-01-16,2024-01-22,2,luzon
+ORD-0627,Ramon Medina,ramon.medina@gmail.com,Electronics,Laptop Stand,2,850.0,0.05,debit card,DELIVERED,2024-06-21,2024-06-27,1,luzon
+ORD-0741,Dante Manalo,dante.manalo@outlook.com,Food & Grocery,Instant Noodles,3,15.0,0.2,credit card,Deliverd,2024-04-28,2024-05-02,2,visayas
+ORD-0860,ronald reyes,ronald.reyes@gmail.com,Clothing,Socks Pack,2,150.0,0.15,Credit Card,Shipped,2024-11-05,2024-11-12,2,Mindanao
+ORD-0766,Ana Uy,ana.uy@outlook.com,Food & Grocery,Canned Goods,2,45.0,0.1,credit card,Shipped,2024-02-21,2024-03-01,3,Mindanao
+ORD-0204,Carla Fernandez,carla.fernandez@gmail.com,Beauty,Serum,1,780.0,0.0,cod,Deliverd,2024-10-21,2024-10-28,4,mindanao
+ORD-0959,Arnold Santiago,arnold.santiago@gmail.com,Beauty,Sunscreen SPF50,4,450.0,0.05,Gcash,cancelled,2024-07-20,,,mindanao
+ORD-0657,Maria Mendoza,maria.mendoza@yahoo.com,Clothing,Socks Pack,2,150.0,0.2,credit card,returned,2024-09-11,,1,luzon
+ORD-0679,Lena Magsaysay,lena.magsaysay@yahoo.com,Beauty,Sunscreen SPF50,5,450.0,0.0,credit card,Deliverd,2024-03-19,2024-03-23,5,VISAYAS
+ORD-0374,alan padilla,alan.padilla@gmail.com,Electronics,Bluetooth Speaker,3,3200.0,0.05,Credit card,Cancelled,2024-07-18,,,luzon
+ORD-0318,Ben Tan,ben.tan@outlook.com,Electronics,Laptop Stand,5,850.0,0.0,Credit Card,Deliverd,2024-08-20,2024-08-30,1,Luzon
+ORD-0289,ROSA TORRES,rosa.torres@gmail.com,Clothing,Jacket,5,1800.0,0.1,G-Cash,Deliverd,2024-04-09,2024-04-19,3,Mindanao
+ORD-0545,Cynthia Dizon,cynthia.dizon@gmail.com,Electronics,Phone Case,3,199.0,0.1,G-Cash,delivered,2024-10-19,2024-10-26,3,Mindanao
+ORD-0809,Patricia Ramos,patricia.ramos@yahoo.com,Food & Grocery,Instant Noodles,1,15.0,0.05,Cash on Delivery,Delivered,2024-07-16,2024-07-22,3,Mindanao
+ORD-0480,Mark Domingo,mark.domingo@gmail.com,Food & Grocery,Canned Goods,1,45.0,0.2,Debit Card,delivered,2024-06-03,2024-06-10,1,MINDANAO
+ORD-0199,Cynthia Magsaysay,cynthia.magsaysay@gmail.com,Home & Living,Rice Cooker,5,899.0,0.15,cod,delivered,2024-11-23,2024-12-03,,MINDANAO
+ORD-0652,Cynthia Garcia,cynthia.garcia@gmail.com,Clothing,Dress,1,,0.2,Credit card,Delivered,2024-03-25,2024-03-30,2,MINDANAO
+ORD-0367,TINA FAJARDO,tina.fajardo@yahoo.com,Food & Grocery,Instant Noodles,2,15.0,0.2,Debit Card,DELIVERED,2024-09-26,2024-10-06,4,mindanao
+ORD-0566,Carla Ramos,carla.ramos@outlook.com,Electronics,USB Hub,4,450.0,0.15,Debit Card,Delivered,2024-11-23,2024-12-01,3,visayas
+ORD-0132,Sarah Santos,SARAH.SANTOS@OUTLOOK.COM,Food & Grocery,Instant Noodles,4,15.0,0.15,CreditCard,DELIVERED,2024-02-22,2024-02-26,2,Luzon
+ORD-0026,Homer Bautista,homer.bautista@yahoo.com,Beauty,Sunscreen SPF50,5,450.0,0.05,GCash,delivered,2024-01-11,2024-01-16,2,Mindanao
+ORD-0070,Carla Aguilar,carla.aguilar@gmail.com,Beauty,Serum,763,780.0,0.05,gcash,Deliverd,2024-04-05,2024-04-09,5,LUZON
+ORD-0497,Tina Uy,tina.uy@outlook.com,Beauty,Sunscreen SPF50,1,450.0,0.1,debit card,returned,2024-03-24,,4,Luzon
+ORD-0342,Eddie dela Cruz,eddie.delacruz@outlook.com,Food & Grocery,Canned Goods,5,45.0,0.2,DebitCard,Delivered,2024-06-16,2024-06-22,3,LUZON
+ORD-0472,Felix Garcia,felix.garcia@gmail.com,Beauty,Serum,1,780.0,,gcash,delivered,2024-03-16,2024-03-20,1,mindanao
+ORD-0291,Ricky Aquino,ricky.aquino@gmail.com,Beauty,Serum,3,780.0,0.15,DebitCard,Deliverd,2024-03-30,2024-04-09,5,Luzon
+ORD-0159,Alan Pascual,ALAN.PASCUAL@OUTLOOK.COM,Food & Grocery,Coffee Pack,3,85.0,0.2,DebitCard,DELIVERED,2024-03-28,2024-04-02,3,LUZON
+ORD-0854,Arnold Bautista,arnold.bautista@outlook.com,Clothing,Jogger Pants,2,,0.1,Debit Card,Shipped,2024-05-23,2024-05-28,1,visayas
+ORD-0191,ana reyes,ana.reyes@outlook.com,Food & Grocery,Rice 5kg,3,250.0,0.15,cod,DELIVERED,2024-07-11,2024-07-17,5,visayas
+ORD-0067,Carla Santiago,carla.santiago@gmail.com,Food & Grocery,Cooking Oil,4,120.0,0.2,credit card,DELIVERED,2024-01-27,2024-02-06,3,LUZON
+ORD-0753,Jenny Soriano,jenny.soriano@gmail.com,Beauty,Moisturizer,5,550.0,0.2,credit card,RETURNED,2024-10-21,,3,Luzon
+ORD-0628,Luz Bautista,luz.bautista@outlook.com,Beauty,Face Wash,4,320.0,,cod,CANCELLED,2024-03-13,,,Visayas
+ORD-0568,Paolo Lacson,paolo.lacson@gmail.com,Beauty,Face Wash,4,320.0,0.1,Gcash,Deliverd,2024-08-06,2024-08-15,4,Mindanao
+ORD-0453,ricky navarro,RICKY.NAVARRO@YAHOO.COM,Electronics,Bluetooth Speaker,3,3200.0,0.2,Credit card,Deliverd,2024-04-08,2024-04-17,1,mindanao
+ORD-0271,Pedro Ocampo,pedro.ocampo@yahoo.com,Electronics,Wireless Earbuds,3,1299.0,0.0,Credit card,Returned,2024-10-23,,2,LUZON
+ORD-0504,Christine Cruz,christine.cruz@yahoo.com,Home & Living,Picture Frame,5,220.0,0.15,debit card,delivered,2024-10-02,2024-10-08,4,Mindanao
+ORD-0617,Sarah Ocampo,sarah.ocampo@outlook.com,Beauty,Lip Tint,2,199.0,0.05,GCash,Deliverd,2024-08-30,2024-09-08,4,LUZON
+ORD-0594,Eddie Manalo,eddie.manalo@yahoo.com,Home & Living,Bed Sheets,3,650.0,0.05,COD,DELIVERED,2024-12-25,2024-12-31,5,LUZON
+ORD-0207,Arnold Bautista,arnold.bautista@yahoo.com,Clothing,Dress,1,1200.0,0.2,Cash on Delivery,DELIVERED,2024-10-14,2024-10-17,4,Luzon
+ORD-0176,Alan Dela Rosa,alan.delarosa@outlook.com,Clothing,Jacket,5,,0.0,DebitCard,SHIPPED,2024-09-30,2024-10-07,4,Mindanao
+ORD-0534,Sheila Macaraeg,SHEILA.MACARAEG@GMAIL.COM,Food & Grocery,Cooking Oil,2,120.0,0.15,COD,DELIVERED,2024-02-16,2024-02-22,3,Visayas
+ORD-0220,Sheila Flores,sheila.flores@outlook.com,Electronics,USB Hub,5,450.0,0.0,cod,DELIVERED,2024-02-02,2024-02-11,2,VISAYAS
+ORD-0119,Rowena Flores,rowena.flores@gmail.com,Beauty,Face Wash,4,320.0,0.05,debit card,delivered,2024-06-10,2024-06-20,,Visayas
+ORD-0900,gilbert padilla,gilbert.padilla@gmail.com,Clothing,Running Shoes,612,2500.0,0.15,Credit Card,Delivered,2024-06-27,2024-07-03,2,LUZON
+ORD-0988,Jenny Garcia,jenny.garcia@yahoo.com,Clothing,Jacket,1,1800.0,0.0,credit card,delivered,2024-05-06,2024-05-12,,Luzon
+ORD-0793,Noel Santiago,noel.santiago@gmail.com,Electronics,Laptop Stand,2,850.0,0.2,debit card,RETURNED,2024-03-05,,1,Mindanao
+ORD-0886,alan espiritu,alan.espiritu@outlook.com,Electronics,Wireless Earbuds,4,1299.0,0.05,COD,Canceled,2024-05-12,,,luzon
+ORD-0519,Alan Ocampo,alan.ocampo@yahoo.com,Home & Living,Picture Frame,1,220.0,0.0,Credit card,Deliverd,2024-10-15,2024-10-19,3,Mindanao
+ORD-0365,Trisha Evangelista,trisha.evangelista@gmail.com,Electronics,Wireless Earbuds,2,1299.0,0.0,CreditCard,cancelled,2024-07-08,,,MINDANAO
+ORD-0737,Luz Manalo,LUZ.MANALO@OUTLOOK.COM,Clothing,Running Shoes,5,2500.0,0.05,cod,Delivered,2024-05-08,2024-05-14,3,Luzon
+ORD-0190,Rosa Ramos,rosa.ramos@gmail.com,Food & Grocery,Coffee Pack,4,85.0,0.15,Cash on Delivery,Delivered,2024-12-08,2024-12-14,5,visayas
+ORD-0999,Nina Tan,NINA.TAN@OUTLOOK.COM,Electronics,Smart Watch,4,5999.0,,debit card,DELIVERED,2024-06-24,2024-06-27,5,Luzon
+ORD-0432,alan dela rosa,alan.delarosa@yahoo.com,Electronics,Wireless Earbuds,5,1299.0,0.1,Debit Card,DELIVERED,2024-06-27,2024-07-01,3,mindanao
+ORD-0256,jasmine lim,jasmine.lim@gmail.com,Electronics,USB Hub,2,450.0,0.1,Debit Card,DELIVERED,2024-06-02,2024-06-09,4,Visayas
+ORD-0831,Carlo Santiago,carlo.santiago@outlook.com,Clothing,Running Shoes,1,2500.0,0.2,GCash,DELIVERED,2024-05-31,2024-06-10,,Mindanao
+ORD-0756,noel macapagal,noel.macapagal@gmail.com,Food & Grocery,Cooking Oil,2,120.0,0.1,COD,DELIVERED,2024-04-17,2024-04-26,3,visayas
+ORD-0612,Homer Pascual,homer.pascual@gmail.com,Home & Living,Electric Fan,1,1500.0,0.2,Debit Card,delivered,2024-07-26,2024-08-04,4,visayas
+ORD-0794,Gina Ocampo,gina.ocampo@gmail.com,Clothing,Jogger Pants,4,799.0,0.2,G-Cash,Delivered,2024-02-15,2024-02-22,1,LUZON
+ORD-0678,dennis fajardo,dennis.fajardo@outlook.com,Home & Living,Picture Frame,3,220.0,0.1,cod,delivered,2024-12-07,2024-12-14,5,Luzon
+ORD-0076,carla cruz,carla.cruz@gmail.com,Beauty,Serum,1,780.0,0.15,cod,cancelled,2024-03-03,,,Visayas
+ORD-0280,Jose Reyes,JOSE.REYES@OUTLOOK.COM,Food & Grocery,Cooking Oil,4,120.0,0.0,Credit Card,Returned,2024-12-20,,4,luzon
+ORD-0897,Juan Villanueva,juan.villanueva@yahoo.com,Food & Grocery,Instant Noodles,4,15.0,0.05,GCash,Shipped,2024-10-18,2024-10-28,4,Visayas
+ORD-0140,Cynthia Reyes,cynthia.reyes@outlook.com,Beauty,Serum,4,780.0,0.05,Credit Card,SHIPPED,2024-07-02,2024-07-12,5,VISAYAS
+ORD-0804,mia corpus,mia.corpus@yahoo.com,Beauty,Sunscreen SPF50,1,450.0,0.0,cod,RETURNED,2024-07-17,,,Mindanao
+ORD-0563,Marco Soriano,marco.soriano@gmail.com,Electronics,USB Hub,2,450.0,0.1,Debit Card,delivered,2024-10-19,2024-10-24,3,Visayas
+ORD-0747,JUAN MANALO,juan.manalo@gmail.com,Home & Living,Air Purifier,2,8500.0,,cod,Cancelled,2024-12-17,,,LUZON
+ORD-0506,dennis garcia,dennis.garcia@outlook.com,Beauty,Lip Tint,2,199.0,0.1,cod,Delivered,2024-02-07,2024-02-15,4,mindanao
+ORD-0932,Eleanor Manalo,eleanor.manalo@gmail.com,Food & Grocery,Instant Noodles,4,15.0,,G-Cash,delivered,2024-06-20,2024-06-27,4,luzon
+ORD-0681,Irene Corpus,irene.corpus@gmail.com,Food & Grocery,Coffee Pack,3,85.0,0.15,GCash,Delivered,2024-03-17,2024-03-26,4,MINDANAO
+ORD-0899,Jose Domingo,jose.domingo@gmail.com,Electronics,Phone Case,4,199.0,0.2,GCash,Canceled,2024-03-19,,,MINDANAO
+ORD-0695,TONY DELA CRUZ,tony.delacruz@outlook.com,Home & Living,Bed Sheets,1,650.0,0.0,GCash,Deliverd,2024-09-10,2024-09-18,1,LUZON
+ORD-0983,Jenny Aguilar,JENNY.AGUILAR@OUTLOOK.COM,Home & Living,Electric Fan,4,1500.0,0.0,GCash,Canceled,2024-01-10,,,luzon
+ORD-0934,Rachel Santos,rachel.santos@gmail.com,Beauty,Lip Tint,5,199.0,0.0,CreditCard,returned,2024-05-18,,3,Visayas
+ORD-0359,Sheila Navarro,sheila.navarro@outlook.com,Electronics,Power Bank,4,799.0,0.0,debit card,delivered,2024-02-01,2024-02-11,1,mindanao
+ORD-0041,Homer Manalo,homer.manalo@outlook.com,Beauty,Sunscreen SPF50,2,450.0,0.0,Debit Card,returned,2024-01-08,,2,Mindanao
+ORD-0578,Rosa Villanueva,rosa.villanueva@outlook.com,Clothing,Jacket,2,1800.0,0.0,debit card,delivered,2024-04-25,2024-05-02,2,visayas
+ORD-0257,Rosa Gutierrez,ROSA.GUTIERREZ@YAHOO.COM,Food & Grocery,Instant Noodles,1,15.0,0.1,COD,Deliverd,2024-12-25,2025-01-03,3,visayas
+ORD-0131,Mia Villafuerte,mia.villafuerte@gmail.com,Beauty,Sunscreen SPF50,4,450.0,0.05,Credit Card,Deliverd,2024-06-26,2024-07-03,2,mindanao
+ORD-0815,Noel Dizon,noel.dizon@outlook.com,Beauty,Sunscreen SPF50,1,450.0,0.05,gcash,delivered,2024-10-10,2024-10-17,3,Mindanao
+ORD-0435,Maria Lacson,MARIA.LACSON@GMAIL.COM,Home & Living,Air Purifier,2,8500.0,0.2,Debit Card,delivered,2024-01-29,2024-02-03,1,Mindanao
+ORD-0986,Lisa Ramos,lisa.ramos@yahoo.com,Electronics,Phone Case,5,199.0,0.15,debit card,delivered,2024-08-20,2024-08-25,5,Visayas
+ORD-0072,DANTE CASTILLO,DANTE.CASTILLO@YAHOO.COM,Clothing,Running Shoes,2,2500.0,0.1,debit card,delivered,2024-05-26,2024-06-03,1,visayas
+ORD-0654,Dennis Tan,dennis.tan@yahoo.com,Food & Grocery,Rice 5kg,5,250.0,0.05,GCash,delivered,2024-03-16,2024-03-23,2,Visayas
+ORD-0181,Rowena Domingo,rowena.domingo@outlook.com,Food & Grocery,Instant Noodles,1,15.0,0.2,Credit Card,Deliverd,2024-02-28,2024-03-08,3,Visayas
+ORD-0022,Juan Villanueva,juan.villanueva@outlook.com,Electronics,Smart Watch,2,5999.0,0.05,Cash on Delivery,returned,2024-10-07,,4,mindanao
+ORD-0644,Lena Evangelista,lena.evangelista@gmail.com,Electronics,Phone Case,3,199.0,0.15,cod,delivered,2024-06-13,2024-06-21,4,visayas
+ORD-0907,Lena dela Cruz,lena.delacruz@gmail.com,Food & Grocery,Instant Noodles,4,15.0,0.2,COD,Canceled,2024-09-05,,,MINDANAO
+ORD-0392,Eleanor Aguilar,eleanor.aguilar@outlook.com,Clothing,Jogger Pants,2,799.0,0.05,G-Cash,delivered,2024-04-12,2024-04-15,2,luzon
+ORD-0508,Trisha Lim,trisha.lim@outlook.com,Beauty,Lip Tint,3,199.0,,Credit card,returned,2024-10-21,,5,visayas
+ORD-0163,Gilbert Dela Rosa,gilbert.delarosa@outlook.com,Clothing,Running Shoes,1,2500.0,0.2,Cash on Delivery,DELIVERED,2024-09-07,2024-09-15,2,Visayas
+ORD-0523,Cynthia Domingo,cynthia.domingo@outlook.com,Home & Living,Picture Frame,5,220.0,0.1,credit card,RETURNED,2024-08-30,,1,Luzon
+ORD-0125,Eddie Fajardo,EDDIE.FAJARDO@GMAIL.COM,Beauty,Sunscreen SPF50,1,450.0,,Debit Card,DELIVERED,2024-03-22,2024-03-29,1,Visayas
+ORD-0786,Irene Domingo,irene.domingo@outlook.com,Clothing,Polo Shirt,3,550.0,0.2,cod,Deliverd,2024-01-08,2024-01-12,3,VISAYAS
+ORD-0387,Rosa Villafuerte,ROSA.VILLAFUERTE@YAHOO.COM,Beauty,Moisturizer,1,550.0,0.2,CreditCard,shipped,2024-06-05,2024-06-15,3,mindanao
+ORD-0546,Anna Lacson,anna.lacson@yahoo.com,Clothing,Jogger Pants,5,799.0,0.05,COD,Shipped,2024-01-10,2024-01-19,2,VISAYAS
+ORD-0001,carlo cruz,carlo.cruz@yahoo.com,Clothing,Socks Pack,1,150.0,0.0,GCash,delivered,2024-04-29,2024-05-02,5,MINDANAO
+ORD-0230,cynthia tan,cynthia.tan@gmail.com,Food & Grocery,Coffee Pack,855,85.0,0.1,gcash,delivered,2024-04-14,2024-04-21,5,Mindanao
+ORD-0811,Anna Ocampo,anna.ocampo@yahoo.com,Beauty,Serum,5,780.0,0.2,COD,delivered,2024-10-01,2024-10-11,5,VISAYAS
+ORD-0333,paolo evangelista,paolo.evangelista@outlook.com,Beauty,Sunscreen SPF50,4,450.0,0.15,Gcash,delivered,2024-08-28,2024-09-05,4,LUZON
+ORD-0193,Ricky Santos,ricky.santos@outlook.com,Food & Grocery,Instant Noodles,5,15.0,0.05,DebitCard,DELIVERED,2024-02-13,2024-02-19,4,visayas
+ORD-0947,Juan Gutierrez,JUAN.GUTIERREZ@YAHOO.COM,Clothing,Dress,5,1200.0,0.0,debit card,Delivered,2024-08-11,2024-08-18,,MINDANAO
+ORD-0444,Rowena Gutierrez,ROWENA.GUTIERREZ@YAHOO.COM,Beauty,Serum,4,780.0,0.0,Gcash,Returned,2024-03-20,,1,LUZON
+ORD-0535,Sheila Castillo,sheila.castillo@yahoo.com,Beauty,Serum,1,780.0,0.1,Gcash,shipped,2024-06-20,2024-06-28,1,visayas
+ORD-0361,Trisha Tolentino,trisha.tolentino@outlook.com,Food & Grocery,Coffee Pack,5,85.0,0.1,Debit Card,delivered,2024-01-23,2024-01-26,2,VISAYAS
+ORD-0418,Tony Magsaysay,tony.magsaysay@gmail.com,Food & Grocery,Cooking Oil,2,120.0,0.15,Debit Card,Delivered,2024-01-11,2024-01-16,2,LUZON
+ORD-0757,paolo mendoza,paolo.mendoza@outlook.com,Food & Grocery,Coffee Pack,4,85.0,0.2,debit card,Delivered,2024-01-09,2024-01-16,2,Mindanao
+ORD-0208,FELIX MAGSAYSAY,felix.magsaysay@outlook.com,Home & Living,Air Purifier,5,8500.0,,gcash,delivered,2024-05-25,2024-06-02,3,VISAYAS
+ORD-0232,HOMER GUTIERREZ,homer.gutierrez@yahoo.com,Food & Grocery,Canned Goods,1,45.0,0.15,GCash,DELIVERED,2024-06-19,2024-06-29,4,luzon
+ORD-0292,HOMER DOMINGO,homer.domingo@yahoo.com,Home & Living,Bed Sheets,5,650.0,0.0,cod,Cancelled,2024-11-30,,,VISAYAS
+ORD-0137,Mark Ramos,mark.ramos@gmail.com,Clothing,Dress,3,1200.0,0.0,cod,delivered,2024-06-16,2024-06-21,1,visayas
+ORD-0622,Juan dela Cruz,JUAN.DELACRUZ@OUTLOOK.COM,Food & Grocery,Cooking Oil,3,120.0,,credit card,delivered,2024-02-16,2024-02-20,1,Mindanao
+ORD-0851,Ricky Aquino,ricky.aquino@outlook.com,Home & Living,Air Purifier,2,8500.0,0.2,G-Cash,Deliverd,2024-03-16,2024-03-22,3,Mindanao
+ORD-0005,Jasmine Fajardo,jasmine.fajardo@yahoo.com,Clothing,Polo Shirt,5,550.0,0.15,debit card,delivered,2024-09-17,2024-09-27,1,Luzon
+ORD-0128,Tina Manalo,tina.manalo@gmail.com,Electronics,Bluetooth Speaker,5,3200.0,0.1,gcash,delivered,2024-07-19,2024-07-26,1,luzon
+ORD-0187,trisha dela rosa,trisha.delarosa@outlook.com,Home & Living,Picture Frame,1,220.0,0.15,cod,DELIVERED,2024-06-10,2024-06-19,,Luzon
+ORD-0235,Arnold Cruz,arnold.cruz@gmail.com,Home & Living,Bed Sheets,4,650.0,0.1,Credit Card,delivered,2024-01-14,2024-01-21,5,LUZON
+ORD-0895,Jenny Fernandez,JENNY.FERNANDEZ@GMAIL.COM,Beauty,Sunscreen SPF50,3,450.0,0.0,COD,delivered,2024-02-24,2024-03-01,5,Luzon
+ORD-0673,Sarah Dizon,sarah.dizon@yahoo.com,Home & Living,Bed Sheets,2,650.0,0.05,CreditCard,Shipped,2024-03-13,2024-03-16,2,visayas
+ORD-0952,Patricia Torres,patricia.torres@gmail.com,Clothing,Dress,1,1200.0,0.0,cod,DELIVERED,2024-09-13,2024-09-18,5,Visayas
+ORD-0955,Paolo Aquino,paolo.aquino@yahoo.com,Clothing,Dress,3,1200.0,0.1,GCash,Delivered,2024-03-22,2024-03-26,5,MINDANAO
+ORD-0010,Carla Magsaysay,carla.magsaysay@gmail.com,Home & Living,Bed Sheets,4,650.0,,COD,delivered,2024-04-07,2024-04-17,2,visayas
+ORD-0555,ricky soriano,ricky.soriano@gmail.com,Clothing,Jogger Pants,1,799.0,0.15,Debit Card,DELIVERED,2024-05-31,2024-06-10,3,mindanao
+ORD-0551,Victor Soriano,victor.soriano@outlook.com,Beauty,Serum,4,780.0,0.0,Credit Card,Shipped,2024-06-15,2024-06-21,2,VISAYAS
+ORD-0111,Ricky Manalo,ricky.manalo@outlook.com,Clothing,Jacket,5,1800.0,0.05,Cash on Delivery,Delivered,2024-03-26,2024-04-04,3,Visayas
+ORD-0665,ben bautista,ben.bautista@gmail.com,Beauty,Serum,5,780.0,0.05,G-Cash,Canceled,2024-03-17,,,Visayas
+ORD-0496,mia tan,mia.tan@outlook.com,Electronics,USB Hub,4,450.0,0.05,DebitCard,DELIVERED,2024-01-17,2024-01-25,1,visayas
+ORD-0977,Melissa Espiritu,melissa.espiritu@gmail.com,Home & Living,Air Purifier,4,8500.0,0.05,CreditCard,Deliverd,2024-08-01,2024-08-10,3,VISAYAS
+ORD-0720,sheila castillo,sheila.castillo@gmail.com,Electronics,Wireless Earbuds,4,1299.0,0.2,gcash,delivered,2024-10-07,2024-10-17,4,LUZON
+ORD-0778,Tina Santos,tina.santos@yahoo.com,Electronics,Phone Case,3,199.0,0.0,COD,Delivered,2024-03-04,2024-03-07,5,visayas
+ORD-0074,Marco Dizon,marco.dizon@yahoo.com,Electronics,Power Bank,3,799.0,,debit card,RETURNED,2024-12-13,,2,LUZON
+ORD-0565,Gina Lim,gina.lim@gmail.com,Home & Living,Rice Cooker,2,899.0,0.1,gcash,shipped,2024-06-15,2024-06-21,2,visayas
+ORD-0339,Eleanor Ramos,eleanor.ramos@gmail.com,Clothing,Jacket,1,1800.0,0.2,debit card,returned,2024-06-09,,,VISAYAS
+ORD-0629,Juan Santiago,juan.santiago@yahoo.com,Beauty,Serum,1,780.0,0.1,CreditCard,Cancelled,2024-01-10,,,Luzon
+ORD-0152,Juan Fernandez,juan.fernandez@gmail.com,Clothing,Jacket,5,1800.0,0.0,gcash,returned,2024-07-29,,3,VISAYAS
+ORD-0383,ronald magsaysay,ronald.magsaysay@gmail.com,Food & Grocery,Cooking Oil,4,120.0,0.2,Gcash,Delivered,2024-06-07,2024-06-13,4,Mindanao
+ORD-0599,MARCO VILLANUEVA,MARCO.VILLANUEVA@OUTLOOK.COM,Food & Grocery,Instant Noodles,3,743.31,,debit card,DELIVERED,2024-02-05,2024-02-10,2,Visayas
+ORD-0611,Dante Macapagal,dante.macapagal@outlook.com,Clothing,Socks Pack,4,150.0,0.15,Credit card,returned,2024-04-24,,2,Mindanao
+ORD-0092,Juan Soriano,juan.soriano@gmail.com,Beauty,Moisturizer,5,550.0,0.0,Credit card,delivered,2024-01-04,2024-01-11,4,visayas
+ORD-0979,Ronald Santos,ronald.santos@outlook.com,Food & Grocery,Coffee Pack,2,85.0,0.1,COD,Delivered,2024-12-17,2024-12-22,4,VISAYAS
+ORD-0883,Paolo Lim,paolo.lim@yahoo.com,Clothing,Polo Shirt,5,,0.15,debit card,delivered,2024-04-12,2024-04-17,5,Mindanao
+ORD-0609,Tony Lim,tony.lim@yahoo.com,Clothing,Polo Shirt,2,550.0,0.0,Gcash,returned,2024-10-12,,2,Visayas
+ORD-0249,marco gutierrez,marco.gutierrez@yahoo.com,Clothing,Polo Shirt,3,,0.2,COD,delivered,2024-04-15,2024-04-18,4,Mindanao
+ORD-0449,Patricia Aguilar,patricia.aguilar@yahoo.com,Clothing,Socks Pack,4,150.0,0.0,Credit card,Returned,2024-11-03,,4,Luzon
+ORD-0725,cynthia villanueva,cynthia.villanueva@outlook.com,Food & Grocery,Cooking Oil,1,120.0,0.05,Gcash,cancelled,2024-03-09,,,Luzon
+ORD-0604,Patricia Villafuerte,patricia.villafuerte@gmail.com,Electronics,Bluetooth Speaker,1,3200.0,0.05,Gcash,cancelled,2024-10-19,,,Visayas
+ORD-0268,Cynthia Ocampo,cynthia.ocampo@outlook.com,Beauty,Lip Tint,1,199.0,0.1,G-Cash,Delivered,2024-01-20,2024-01-29,3,visayas
+ORD-0172,Noel Evangelista,noel.evangelista@yahoo.com,Electronics,USB Hub,2,450.0,0.2,cod,Cancelled,2024-02-19,,,VISAYAS
+ORD-0130,Gina Gutierrez,gina.gutierrez@yahoo.com,Beauty,Sunscreen SPF50,5,450.0,0.0,credit card,returned,2024-07-19,,5,MINDANAO
+ORD-0122,Sarah Navarro,sarah.navarro@outlook.com,Food & Grocery,Cooking Oil,2,120.0,0.05,cod,delivered,2024-06-14,2024-06-21,3,MINDANAO
+ORD-0095,Marco Cruz,MARCO.CRUZ@YAHOO.COM,Food & Grocery,Cooking Oil,1,120.0,0.15,DebitCard,Delivered,2024-07-21,2024-07-28,1,Mindanao
+ORD-0334,Trisha Dizon,trisha.dizon@yahoo.com,Home & Living,Bed Sheets,4,650.0,0.1,credit card,Delivered,2024-12-07,2024-12-17,2,LUZON
+ORD-0832,Maria Corpus,maria.corpus@gmail.com,Home & Living,Rice Cooker,2,899.0,0.05,cod,Delivered,2024-01-06,2024-01-11,4,Mindanao
+ORD-0196,Dante Manalo,dante.manalo@outlook.com,Beauty,Face Wash,3,320.0,0.0,debit card,Delivered,2024-12-29,2025-01-01,5,Mindanao
+ORD-0789,Kevin Padilla,kevin.padilla@outlook.com,Food & Grocery,Rice 5kg,4,250.0,0.0,cod,Deliverd,2024-08-30,2024-09-07,4,Luzon
+ORD-0498,nina bautista,nina.bautista@gmail.com,Home & Living,Air Purifier,5,,0.1,cod,Delivered,2024-06-06,2024-06-14,3,visayas
+ORD-0655,noel dela cruz,noel.delacruz@outlook.com,Food & Grocery,Instant Noodles,3,15.0,0.05,credit card,Canceled,2024-09-02,,,VISAYAS
+ORD-0112,Carla Fajardo,carla.fajardo@gmail.com,Electronics,Laptop Stand,3,850.0,0.1,DebitCard,DELIVERED,2024-06-13,2024-06-19,4,visayas
+ORD-0138,Patricia Santiago,patricia.santiago@gmail.com,Beauty,Serum,5,,0.05,Gcash,delivered,2024-07-24,2024-08-01,1,Visayas
+ORD-0144,Lena Fajardo,lena.fajardo@outlook.com,Food & Grocery,Rice 5kg,2,250.0,0.15,COD,Delivered,2024-12-25,2025-01-03,,mindanao
+ORD-0859,Cynthia Torres,cynthia.torres@gmail.com,Beauty,Lip Tint,4,199.0,0.0,GCash,delivered,2024-08-12,2024-08-16,1,visayas
+ORD-0980,Paolo Dizon,paolo.dizon@yahoo.com,Home & Living,Electric Fan,3,1500.0,0.15,debit card,DELIVERED,2024-05-10,2024-05-15,4,MINDANAO
+ORD-0462,Jasmine Aguilar,jasmine.aguilar@yahoo.com,Electronics,USB Hub,4,450.0,0.15,Debit Card,Deliverd,2024-05-01,2024-05-04,,Mindanao
+ORD-0345,Mia Lacson,mia.lacson@gmail.com,Food & Grocery,Cooking Oil,1,120.0,0.1,Debit Card,DELIVERED,2024-02-04,2024-02-07,4,VISAYAS
+ORD-0100,Cynthia Santiago,cynthia.santiago@yahoo.com,Clothing,Jogger Pants,2,799.0,0.2,DebitCard,Returned,2024-07-17,,2,VISAYAS
+ORD-0216,jose soriano,JOSE.SORIANO@GMAIL.COM,Beauty,Sunscreen SPF50,5,450.0,0.1,GCash,Deliverd,2024-08-14,2024-08-20,1,Mindanao
+ORD-0473,Christine Dela Rosa,christine.delarosa@yahoo.com,Beauty,Sunscreen SPF50,3,450.0,0.2,Debit Card,Delivered,2024-03-16,2024-03-25,2,luzon
+ORD-0620,Ronald Espiritu,ronald.espiritu@gmail.com,Food & Grocery,Instant Noodles,694,15.0,0.15,gcash,shipped,2024-07-06,2024-07-15,4,luzon
+ORD-0543,LENA LIM,lena.lim@yahoo.com,Electronics,Smart Watch,3,5999.0,0.1,gcash,DELIVERED,2024-07-01,2024-07-10,1,VISAYAS
+ORD-0884,Maria Aquino,maria.aquino@gmail.com,Electronics,Bluetooth Speaker,1,3200.0,0.15,G-Cash,CANCELLED,2024-01-06,,,luzon
+ORD-0326,sammy manalo,sammy.manalo@yahoo.com,Beauty,Sunscreen SPF50,1,450.0,0.15,Credit Card,Deliverd,2024-08-09,2024-08-16,5,Mindanao
+ORD-0030,Sammy Bautista,SAMMY.BAUTISTA@GMAIL.COM,Beauty,Moisturizer,5,550.0,0.15,GCash,delivered,2024-07-26,2024-08-01,3,visayas
+ORD-0869,JENNY LIM,JENNY.LIM@GMAIL.COM,Clothing,Dress,2,1200.0,0.15,Gcash,Delivered,2024-04-13,2024-04-19,4,mindanao
+ORD-0779,Eleanor Macaraeg,eleanor.macaraeg@yahoo.com,Home & Living,Bed Sheets,5,650.0,0.1,credit card,Deliverd,2024-02-24,2024-02-29,3,Luzon
+ORD-0320,juan magsaysay,juan.magsaysay@yahoo.com,Beauty,Face Wash,4,320.0,,GCash,delivered,2024-08-29,2024-09-06,5,MINDANAO
+ORD-0646,Victor Ramos,victor.ramos@gmail.com,Beauty,Sunscreen SPF50,4,450.0,,GCash,delivered,2024-04-26,2024-05-04,4,mindanao
+ORD-0009,Marco Padilla,marco.padilla@gmail.com,Food & Grocery,Canned Goods,2,1855.59,0.0,gcash,delivered,2024-05-22,2024-06-01,2,MINDANAO
+ORD-0726,Jose Garcia,jose.garcia@outlook.com,Beauty,Lip Tint,4,199.0,0.15,GCash,delivered,2024-01-14,2024-01-17,5,Visayas
+ORD-0010,Carla Magsaysay,carla.magsaysay@gmail.com,Home & Living,Bed Sheets,4,650.0,,COD,delivered,2024-04-07,2024-04-17,2,visayas
+ORD-0272,Jasmine Santos,jasmine.santos@gmail.com,Clothing,Running Shoes,2,2500.0,0.0,Credit Card,Delivered,2024-09-11,2024-09-17,1,visayas
+ORD-0732,Sheila Macaraeg,sheila.macaraeg@gmail.com,Food & Grocery,Canned Goods,2,45.0,0.1,GCash,DELIVERED,2024-08-19,2024-08-22,5,mindanao
+ORD-0848,Dennis Tolentino,dennis.tolentino@gmail.com,Electronics,Phone Case,2,,,debit card,delivered,2024-10-17,2024-10-21,2,visayas
+ORD-0108,Melissa Corpus,melissa.corpus@outlook.com,Beauty,Serum,3,780.0,0.0,COD,Deliverd,2024-04-28,2024-05-02,3,MINDANAO
+ORD-0136,Noel Aquino,noel.aquino@outlook.com,Beauty,Face Wash,2,320.0,0.15,Cash on Delivery,CANCELLED,2024-04-29,,,LUZON
+ORD-0402,Patricia Magsaysay,PATRICIA.MAGSAYSAY@YAHOO.COM,Home & Living,Air Purifier,2,8500.0,0.0,gcash,cancelled,2024-10-22,,,visayas
+ORD-0416,kevin villanueva,kevin.villanueva@outlook.com,Home & Living,Rice Cooker,1,899.0,0.2,Credit card,Deliverd,2024-01-04,2024-01-09,3,visayas
+ORD-0484,Noel Uy,noel.uy@yahoo.com,Clothing,Socks Pack,2,150.0,0.1,CreditCard,Deliverd,2024-02-04,2024-02-14,4,MINDANAO
+ORD-0719,Nina Gutierrez,NINA.GUTIERREZ@OUTLOOK.COM,Home & Living,Electric Fan,5,1500.0,0.0,G-Cash,delivered,2024-07-29,2024-08-08,5,LUZON
+ORD-0772,ronald santos,ronald.santos@gmail.com,Food & Grocery,Coffee Pack,1,85.0,0.0,Debit Card,Deliverd,2024-02-17,2024-02-21,2,Mindanao
+ORD-0762,Patricia Villanueva,patricia.villanueva@outlook.com,Beauty,Moisturizer,5,550.0,0.05,Credit card,Canceled,2024-05-29,,,Luzon
+ORD-0614,Marco Santiago,marco.santiago@outlook.com,Clothing,Polo Shirt,3,550.0,0.15,Debit Card,Cancelled,2024-12-21,,,Mindanao
+ORD-0634,Alan Ramos,alan.ramos@gmail.com,Home & Living,Picture Frame,4,220.0,0.15,DebitCard,Deliverd,2024-04-01,2024-04-09,5,LUZON
+ORD-0600,Kevin Villanueva,kevin.villanueva@outlook.com,Clothing,Dress,2,1200.0,,GCash,DELIVERED,2024-02-25,2024-03-04,2,Luzon
+ORD-0430,carlo dizon,carlo.dizon@gmail.com,Electronics,Smart Watch,3,5999.0,0.05,Debit Card,DELIVERED,2024-09-02,2024-09-07,,mindanao
+ORD-0701,Sarah Aguilar,sarah.aguilar@gmail.com,Beauty,Serum,2,780.0,0.2,Gcash,Delivered,2024-04-28,2024-05-04,1,mindanao
+ORD-0091,JENNY DOMINGO,jenny.domingo@outlook.com,Home & Living,Air Purifier,4,8500.0,0.15,Credit card,delivered,2024-02-27,2024-03-06,2,mindanao
+ORD-0903,Mark Navarro,MARK.NAVARRO@GMAIL.COM,Electronics,Bluetooth Speaker,2,3200.0,0.05,Credit Card,RETURNED,2024-04-24,,3,VISAYAS
+ORD-0838,Gina Castillo,gina.castillo@yahoo.com,Electronics,Power Bank,2,799.0,0.05,CreditCard,Delivered,2024-02-05,2024-02-08,1,mindanao
+ORD-0189,Tina Tolentino,tina.tolentino@gmail.com,Food & Grocery,Canned Goods,4,45.0,0.15,COD,Cancelled,2024-07-22,,,Mindanao
+ORD-0861,Rachel Corpus,rachel.corpus@gmail.com,Clothing,Running Shoes,2,2500.0,0.1,Credit card,Delivered,2024-11-03,2024-11-08,5,Visayas
+ORD-0775,Alan Santos,alan.santos@outlook.com,Home & Living,Rice Cooker,5,899.0,0.05,Debit Card,delivered,2024-12-24,2025-01-01,3,LUZON
+ORD-0871,Sheila Ocampo,sheila.ocampo@yahoo.com,Clothing,Socks Pack,5,150.0,0.1,G-Cash,DELIVERED,2024-04-06,2024-04-09,5,MINDANAO
+ORD-0588,ronald manalo,ronald.manalo@gmail.com,Electronics,Smart Watch,1,5999.0,0.1,debit card,DELIVERED,2024-11-27,2024-12-07,4,Mindanao
+ORD-0637,Ramon Gutierrez,ramon.gutierrez@outlook.com,Electronics,Smart Watch,3,5999.0,0.15,Gcash,delivered,2024-04-27,2024-05-07,1,LUZON
+ORD-0615,Christine Macapagal,christine.macapagal@outlook.com,Clothing,Polo Shirt,4,,0.05,debit card,RETURNED,2024-11-17,,1,Luzon
+ORD-0625,dennis garcia,dennis.garcia@yahoo.com,Electronics,Smart Watch,4,5999.0,,gcash,Delivered,2024-10-18,2024-10-25,3,mindanao
+ORD-0843,Tina Medina,tina.medina@yahoo.com,Electronics,Laptop Stand,5,850.0,0.1,DebitCard,Delivered,2024-10-07,2024-10-16,5,MINDANAO
+ORD-0927,Ronald Macapagal,ronald.macapagal@gmail.com,Food & Grocery,Instant Noodles,3,15.0,0.15,credit card,Delivered,2024-11-17,2024-11-25,5,LUZON
+ORD-0304,victor ocampo,victor.ocampo@gmail.com,Electronics,Laptop Stand,4,850.0,,CreditCard,Deliverd,2024-08-08,2024-08-13,3,Visayas
+ORD-0852,Eddie Manalo,eddie.manalo@yahoo.com,Clothing,Socks Pack,3,150.0,0.05,gcash,Returned,2024-04-25,,2,Luzon
+ORD-0583,Carlo Fernandez,carlo.fernandez@outlook.com,Food & Grocery,Cooking Oil,2,120.0,0.15,debit card,CANCELLED,2024-03-10,,,VISAYAS
+ORD-0892,TRISHA DELA CRUZ,TRISHA.DELACRUZ@GMAIL.COM,Home & Living,Picture Frame,4,220.0,0.0,COD,Canceled,2024-05-11,,,luzon
+ORD-0154,Ben Aquino,ben.aquino@yahoo.com,Beauty,Serum,1,780.0,0.15,COD,Returned,2024-02-03,,3,Visayas
+ORD-0662,Felix Fajardo,felix.fajardo@outlook.com,Food & Grocery,Canned Goods,4,45.0,0.15,DebitCard,Deliverd,2024-08-11,2024-08-20,3,Luzon
+ORD-0648,mark mendoza,mark.mendoza@gmail.com,Clothing,Polo Shirt,1,550.0,0.0,cod,Shipped,2024-12-23,2024-12-30,3,luzon
+ORD-0783,Lena Corpus,lena.corpus@yahoo.com,Food & Grocery,Coffee Pack,2,85.0,,Cash on Delivery,shipped,2024-02-21,2024-02-28,3,Luzon
+ORD-0068,sarah domingo,sarah.domingo@gmail.com,Food & Grocery,Coffee Pack,4,85.0,0.15,G-Cash,Deliverd,2024-09-14,2024-09-22,2,luzon
+ORD-0531,tony gutierrez,TONY.GUTIERREZ@YAHOO.COM,Beauty,Sunscreen SPF50,3,450.0,0.15,gcash,DELIVERED,2024-03-01,2024-03-09,4,Mindanao
+ORD-0963,Tony Ocampo,tony.ocampo@yahoo.com,Beauty,Face Wash,3,320.0,0.1,Credit Card,RETURNED,2024-05-21,,5,Mindanao
+ORD-0526,rosa flores,rosa.flores@yahoo.com,Home & Living,Rice Cooker,1,899.0,0.15,Cash on Delivery,Returned,2024-05-03,,5,VISAYAS
+ORD-0032,Mia dela Cruz,mia.delacruz@gmail.com,Food & Grocery,Rice 5kg,2,250.0,0.0,Cash on Delivery,Canceled,2024-06-23,,,visayas
+ORD-0857,Mia Medina,mia.medina@gmail.com,Beauty,Face Wash,4,320.0,,G-Cash,returned,2024-03-26,,2,luzon
+ORD-0050,Patricia Lacson,PATRICIA.LACSON@YAHOO.COM,Home & Living,Electric Fan,1,1500.0,0.0,GCash,delivered,2024-03-05,2024-03-11,1,Mindanao
+ORD-0457,Irene Garcia,irene.garcia@yahoo.com,Beauty,Face Wash,2,320.0,0.2,GCash,DELIVERED,2024-09-04,2024-09-07,2,Visayas
+ORD-0044,Ana Pascual,ana.pascual@yahoo.com,Food & Grocery,Coffee Pack,1,85.0,0.2,DebitCard,Deliverd,2024-06-03,2024-06-09,4,Luzon
+ORD-0306,Rodrigo Soriano,rodrigo.soriano@yahoo.com,Electronics,Power Bank,2,799.0,0.2,gcash,DELIVERED,2024-03-27,2024-03-30,5,VISAYAS
+ORD-0423,Mark Aquino,mark.aquino@gmail.com,Clothing,Polo Shirt,4,550.0,0.2,cod,cancelled,2024-09-30,,,luzon
+ORD-0160,Luz Castillo,LUZ.CASTILLO@OUTLOOK.COM,Home & Living,Electric Fan,3,1500.0,0.1,Cash on Delivery,Deliverd,2024-01-28,2024-02-01,4,Mindanao
+ORD-0751,Ana Fajardo,ana.fajardo@outlook.com,Food & Grocery,Canned Goods,4,45.0,0.05,CreditCard,RETURNED,2024-04-10,,4,LUZON
+ORD-0488,Arnold Padilla,arnold.padilla@outlook.com,Food & Grocery,Rice 5kg,3,250.0,0.05,debit card,Shipped,2024-10-18,2024-10-22,2,Visayas
+ORD-0136,Noel Aquino,noel.aquino@outlook.com,Beauty,Face Wash,2,320.0,0.15,Cash on Delivery,CANCELLED,2024-04-29,,,LUZON
+ORD-0875,Juan Castillo,juan.castillo@outlook.com,Beauty,Face Wash,4,320.0,0.1,cod,shipped,2024-05-24,2024-06-02,4,visayas
+ORD-0896,Victor Torres,VICTOR.TORRES@OUTLOOK.COM,Clothing,Running Shoes,2,2500.0,0.1,gcash,Returned,2024-08-10,,5,visayas
+ORD-0990,Alan Navarro,alan.navarro@yahoo.com,Food & Grocery,Instant Noodles,3,15.0,0.05,Cash on Delivery,delivered,2024-10-23,2024-10-26,4,mindanao
+ORD-0002,Ben Macaraeg,ben.macaraeg@gmail.com,Clothing,Socks Pack,4,150.0,0.1,Debit Card,DELIVERED,2024-11-05,2024-11-12,1,Mindanao
+ORD-0912,Tony Macaraeg,tony.macaraeg@yahoo.com,Food & Grocery,Instant Noodles,5,15.0,0.0,Debit Card,SHIPPED,2024-01-18,2024-01-21,1,luzon
+ORD-0996,Tina Tolentino,tina.tolentino@gmail.com,Food & Grocery,Instant Noodles,2,15.0,0.1,COD,returned,2024-11-21,,5,VISAYAS
+ORD-0940,GILBERT UY,gilbert.uy@outlook.com,Electronics,Wireless Earbuds,2,1299.0,0.0,Credit Card,Cancelled,2024-03-17,,,MINDANAO
+ORD-0146,Homer Macaraeg,homer.macaraeg@yahoo.com,Beauty,Lip Tint,5,199.0,0.2,credit card,Cancelled,2024-01-18,,,Visayas
+ORD-0259,Gilbert Dizon,gilbert.dizon@yahoo.com,Food & Grocery,Cooking Oil,4,120.0,,DebitCard,DELIVERED,2024-07-29,2024-08-06,1,mindanao
+ORD-0389,Eddie Ramos,eddie.ramos@yahoo.com,Home & Living,Picture Frame,4,220.0,0.0,DebitCard,delivered,2024-09-01,2024-09-04,3,Mindanao
+ORD-0106,Tony Fernandez,tony.fernandez@yahoo.com,Electronics,Phone Case,4,199.0,0.05,GCash,Deliverd,2024-07-13,2024-07-22,5,Mindanao
+ORD-0054,Mark Medina,mark.medina@yahoo.com,Beauty,Sunscreen SPF50,1,450.0,0.0,COD,Returned,2024-10-27,,5,Mindanao
+ORD-0541,Patricia Padilla,patricia.padilla@gmail.com,Electronics,Power Bank,4,23627.05,0.2,Debit Card,Canceled,2024-08-04,,,VISAYAS
+ORD-0352,Patricia Manalo,patricia.manalo@gmail.com,Food & Grocery,Rice 5kg,1,250.0,0.0,DebitCard,delivered,2024-10-11,2024-10-18,4,mindanao
+ORD-0117,Dennis Navarro,dennis.navarro@yahoo.com,Beauty,Face Wash,4,320.0,0.15,Credit card,shipped,2024-01-03,2024-01-09,2,Mindanao
+ORD-0821,Rowena Soriano,rowena.soriano@gmail.com,Beauty,Lip Tint,1,199.0,0.1,Credit Card,delivered,2024-05-23,2024-05-27,5,Visayas
+ORD-0278,Rowena Aquino,rowena.aquino@yahoo.com,Clothing,Jogger Pants,2,799.0,0.1,debit card,Shipped,2024-06-24,2024-06-30,3,MINDANAO
+ORD-0386,Rachel Navarro,rachel.navarro@yahoo.com,Clothing,Polo Shirt,4,550.0,0.1,CreditCard,Cancelled,2024-07-03,,,visayas
+ORD-0396,Christine Medina,christine.medina@yahoo.com,Food & Grocery,Instant Noodles,3,15.0,0.15,G-Cash,delivered,2024-12-30,2025-01-04,5,MINDANAO
+ORD-0006,Patricia Villafuerte,patricia.villafuerte@outlook.com,Food & Grocery,Rice 5kg,5,10405.41,0.2,COD,Deliverd,2024-03-21,2024-03-31,1,mindanao
+ORD-0709,Felix Dizon,FELIX.DIZON@GMAIL.COM,Home & Living,Picture Frame,2,,0.0,Debit Card,shipped,2024-02-21,2024-02-25,5,mindanao
+ORD-0703,Kevin Mendoza,kevin.mendoza@outlook.com,Beauty,Lip Tint,4,6747.59,0.0,G-Cash,returned,2024-04-14,,4,Visayas
+ORD-0700,Ricky dela Cruz,ricky.delacruz@outlook.com,Clothing,Dress,5,1200.0,0.2,CreditCard,delivered,2024-07-26,2024-08-04,5,LUZON
+ORD-0115,dennis fernandez,dennis.fernandez@outlook.com,Beauty,Lip Tint,4,199.0,0.05,Credit card,Deliverd,2024-08-25,2024-08-30,3,Visayas
+ORD-0603,Irene Villanueva,irene.villanueva@yahoo.com,Home & Living,Rice Cooker,5,899.0,0.0,CreditCard,Delivered,2024-01-25,2024-02-01,4,Mindanao
+ORD-0478,Eddie Espiritu,EDDIE.ESPIRITU@YAHOO.COM,Food & Grocery,Cooking Oil,3,120.0,0.1,debit card,shipped,2024-08-24,2024-08-27,,Visayas
+ORD-0078,Luz Macapagal,luz.macapagal@outlook.com,Electronics,Wireless Earbuds,3,1299.0,0.15,DebitCard,delivered,2024-06-11,2024-06-15,4,mindanao
+ORD-0192,Sammy dela Cruz,sammy.delacruz@gmail.com,Food & Grocery,Rice 5kg,2,250.0,0.2,Gcash,shipped,2024-02-28,2024-03-09,4,Mindanao
+ORD-0056,Rosa Fernandez,rosa.fernandez@outlook.com,Home & Living,Rice Cooker,2,899.0,0.1,credit card,Shipped,2024-03-13,2024-03-16,1,luzon
+ORD-0849,Anna Lacson,anna.lacson@yahoo.com,Beauty,Moisturizer,1,550.0,0.05,debit card,Delivered,2024-06-04,2024-06-11,3,luzon
+ORD-0950,Ana Navarro,ana.navarro@gmail.com,Food & Grocery,Canned Goods,1,45.0,,G-Cash,delivered,2024-03-12,2024-03-22,2,MINDANAO
+ORD-0717,Cynthia Dela Rosa,cynthia.delarosa@outlook.com,Home & Living,Air Purifier,2,8500.0,0.2,debit card,Cancelled,2024-03-18,,,VISAYAS
+ORD-0790,LISA SANTIAGO,lisa.santiago@outlook.com,Clothing,Jacket,4,1800.0,0.05,DebitCard,Returned,2024-08-25,,4,mindanao
+ORD-0238,Carla Padilla,carla.padilla@gmail.com,Food & Grocery,Instant Noodles,2,15.0,0.1,Cash on Delivery,Deliverd,2024-05-30,2024-06-02,5,VISAYAS
+ORD-0279,EDDIE EVANGELISTA,eddie.evangelista@outlook.com,Clothing,Jacket,4,1800.0,0.15,credit card,Deliverd,2024-10-23,2024-10-29,5,Mindanao
+ORD-0739,Maria Lim,maria.lim@gmail.com,Home & Living,Rice Cooker,3,899.0,,Debit Card,Returned,2024-10-25,,4,Mindanao
+ORD-0544,Sarah Dela Rosa,sarah.delarosa@yahoo.com,Electronics,Smart Watch,1,5999.0,0.15,Cash on Delivery,cancelled,2024-09-25,,,luzon
+ORD-0265,Nina Villanueva,nina.villanueva@yahoo.com,Clothing,Socks Pack,5,150.0,0.05,GCash,Delivered,2024-07-29,2024-08-02,5,visayas
+ORD-0915,Dante Manalo,dante.manalo@yahoo.com,Clothing,Jacket,4,1800.0,0.05,COD,Cancelled,2024-03-11,,,Visayas
+ORD-0003,Homer Tan,homer.tan@outlook.com,Home & Living,Picture Frame,2,220.0,0.05,Gcash,Deliverd,2024-05-22,2024-06-01,3,Visayas
+ORD-0195,cynthia dizon,cynthia.dizon@yahoo.com,Food & Grocery,Instant Noodles,5,15.0,0.15,G-Cash,returned,2024-07-08,,1,Visayas
+ORD-0450,Eddie dela Cruz,eddie.delacruz@yahoo.com,Food & Grocery,Instant Noodles,4,15.0,0.15,DebitCard,Delivered,2024-03-31,2024-04-10,4,MINDANAO
+ORD-0552,Rowena Santos,rowena.santos@outlook.com,Food & Grocery,Coffee Pack,2,85.0,0.05,CreditCard,DELIVERED,2024-02-03,2024-02-06,2,Visayas
+ORD-0942,eddie dela cruz,eddie.delacruz@yahoo.com,Beauty,Sunscreen SPF50,2,450.0,0.15,GCash,Deliverd,2024-10-16,2024-10-19,5,LUZON
+ORD-0066,christine padilla,christine.padilla@yahoo.com,Food & Grocery,Coffee Pack,5,85.0,0.2,Credit card,Deliverd,2024-07-05,2024-07-11,4,mindanao
+ORD-0184,juan fernandez,juan.fernandez@outlook.com,Electronics,Phone Case,5,199.0,0.1,Cash on Delivery,shipped,2024-12-04,2024-12-07,4,Luzon
+ORD-0390,Jasmine Flores,jasmine.flores@outlook.com,Clothing,Jacket,5,1800.0,0.0,G-Cash,SHIPPED,2024-10-27,2024-10-31,5,Visayas
+ORD-0742,Dennis Mendoza,dennis.mendoza@gmail.com,Electronics,Laptop Stand,1,850.0,0.05,Gcash,Deliverd,2024-02-27,2024-03-04,4,MINDANAO
+ORD-0461,cynthia medina,cynthia.medina@yahoo.com,Home & Living,Electric Fan,4,1500.0,0.05,debit card,delivered,2024-02-22,2024-02-29,5,Mindanao
+ORD-0643,Irene Villafuerte,irene.villafuerte@gmail.com,Electronics,Power Bank,1,799.0,0.1,CreditCard,DELIVERED,2024-04-06,2024-04-12,4,Mindanao
+ORD-0580,Juan Macapagal,juan.macapagal@gmail.com,Food & Grocery,Cooking Oil,4,120.0,0.1,gcash,returned,2024-06-21,,2,VISAYAS
+ORD-0891,Homer Castillo,homer.castillo@yahoo.com,Beauty,Face Wash,2,11579.95,0.05,Cash on Delivery,Deliverd,2024-01-10,2024-01-17,5,VISAYAS
+ORD-0998,Dennis Castillo,dennis.castillo@gmail.com,Home & Living,Bed Sheets,2,650.0,0.15,Debit Card,delivered,2024-11-26,2024-11-29,1,Luzon
+ORD-0116,Lisa Cruz,lisa.cruz@yahoo.com,Beauty,Face Wash,5,320.0,0.15,debit card,DELIVERED,2024-01-23,2024-01-27,1,Mindanao
+ORD-0020,Tony Aguilar,tony.aguilar@outlook.com,Food & Grocery,Canned Goods,3,45.0,0.1,DebitCard,Deliverd,2024-08-14,2024-08-24,2,Mindanao
+ORD-0616,Anna Soriano,anna.soriano@yahoo.com,Clothing,Polo Shirt,3,550.0,0.1,debit card,delivered,2024-05-28,2024-06-04,1,Luzon
+ORD-0684,Jasmine Corpus,jasmine.corpus@yahoo.com,Clothing,Polo Shirt,4,550.0,,Gcash,Deliverd,2024-03-05,2024-03-10,1,VISAYAS
+ORD-0335,Ricky Fajardo,ricky.fajardo@gmail.com,Home & Living,Air Purifier,3,8500.0,,gcash,Shipped,2024-11-12,2024-11-18,1,visayas
+ORD-0244,Sheila Uy,sheila.uy@gmail.com,Food & Grocery,Instant Noodles,4,15.0,0.1,Cash on Delivery,RETURNED,2024-11-15,,3,MINDANAO
+ORD-0787,rachel espiritu,rachel.espiritu@yahoo.com,Food & Grocery,Coffee Pack,1,85.0,0.05,gcash,Delivered,2024-04-30,2024-05-08,5,MINDANAO
+ORD-0847,Anna Dela Rosa,anna.delarosa@yahoo.com,Home & Living,Bed Sheets,5,650.0,0.05,Gcash,Deliverd,2024-12-15,2024-12-19,4,Mindanao
+ORD-0888,Sammy Reyes,sammy.reyes@outlook.com,Beauty,Serum,3,780.0,0.05,Debit Card,Deliverd,2024-10-20,2024-10-24,2,Luzon
+ORD-0606,Ricky dela Cruz,ricky.delacruz@yahoo.com,Clothing,Dress,3,1200.0,,Debit Card,Delivered,2024-11-22,2024-11-26,1,Visayas
+ORD-0212,Gilbert Ocampo,gilbert.ocampo@outlook.com,Food & Grocery,Cooking Oil,5,,0.1,Credit Card,CANCELLED,2024-07-06,,,Visayas
+ORD-0865,rachel flores,rachel.flores@gmail.com,Food & Grocery,Instant Noodles,1,15.0,0.05,credit card,DELIVERED,2024-07-26,2024-07-29,4,mindanao
+ORD-0162,Rachel Ramos,rachel.ramos@gmail.com,Beauty,Moisturizer,4,550.0,,CreditCard,DELIVERED,2024-09-28,2024-10-04,1,MINDANAO
+ORD-0299,Tony Domingo,tony.domingo@gmail.com,Electronics,Bluetooth Speaker,5,3200.0,0.2,Gcash,Deliverd,2024-08-05,2024-08-11,5,luzon
+ORD-0602,TINA VILLANUEVA,tina.villanueva@outlook.com,Food & Grocery,Canned Goods,5,45.0,0.2,Cash on Delivery,Deliverd,2024-04-11,2024-04-18,4,Visayas
+ORD-0734,Rowena Tolentino,rowena.tolentino@gmail.com,Food & Grocery,Instant Noodles,3,15.0,0.1,credit card,Delivered,2024-04-04,2024-04-10,3,visayas
+ORD-0176,Alan Dela Rosa,alan.delarosa@outlook.com,Clothing,Jacket,5,,0.0,DebitCard,SHIPPED,2024-09-30,2024-10-07,4,Mindanao
+ORD-0677,NINA CORPUS,nina.corpus@gmail.com,Clothing,Dress,5,1200.0,0.05,COD,Delivered,2024-03-24,2024-03-27,3,Luzon
+ORD-0626,Mia Fajardo,mia.fajardo@gmail.com,Clothing,Running Shoes,3,2500.0,0.1,debit card,Canceled,2024-03-19,,,visayas
+ORD-0769,Sheila Fajardo,sheila.fajardo@outlook.com,Home & Living,Electric Fan,5,1500.0,0.2,Credit Card,delivered,2024-07-05,2024-07-14,1,Luzon
+ORD-0101,marco lacson,marco.lacson@outlook.com,Electronics,Phone Case,4,199.0,0.0,Credit card,DELIVERED,2024-06-04,2024-06-07,2,Mindanao
+ORD-0835,Lena Reyes,LENA.REYES@YAHOO.COM,Food & Grocery,Rice 5kg,5,250.0,0.1,CreditCard,delivered,2024-07-10,2024-07-18,,Visayas
+ORD-0007,Rodrigo Castillo,rodrigo.castillo@outlook.com,Food & Grocery,Canned Goods,2,45.0,0.2,gcash,Cancelled,2024-02-27,,,Visayas
+ORD-0814,Jenny Padilla,jenny.padilla@outlook.com,Clothing,Polo Shirt,2,550.0,0.0,Credit Card,Delivered,2024-12-20,2024-12-29,4,Luzon
+ORD-0034,Rosa Villanueva,rosa.villanueva@gmail.com,Electronics,Bluetooth Speaker,2,3200.0,0.0,debit card,delivered,2024-05-27,2024-06-03,,luzon
+ORD-0475,Jose Tolentino,jose.tolentino@outlook.com,Beauty,Serum,3,,0.15,Credit card,DELIVERED,2024-11-15,2024-11-20,3,luzon
+ORD-0239,arnold gutierrez,arnold.gutierrez@outlook.com,Food & Grocery,Coffee Pack,4,85.0,0.05,Credit card,DELIVERED,2024-06-14,2024-06-19,1,mindanao
+ORD-0209,Lisa Manalo,lisa.manalo@gmail.com,Home & Living,Bed Sheets,5,650.0,,COD,DELIVERED,2024-11-30,2024-12-07,3,visayas
+ORD-0687,Ramon Navarro,ramon.navarro@yahoo.com,Clothing,Dress,1,1200.0,0.1,Cash on Delivery,Delivered,2024-09-04,2024-09-10,2,MINDANAO
+ORD-0961,ANNA UY,anna.uy@gmail.com,Home & Living,Picture Frame,5,220.0,0.05,Cash on Delivery,DELIVERED,2024-01-28,2024-02-04,4,VISAYAS
+ORD-0158,Rowena Evangelista,rowena.evangelista@yahoo.com,Beauty,Sunscreen SPF50,3,450.0,0.1,COD,delivered,2024-01-30,2024-02-08,3,Mindanao
+ORD-0763,Noel Ramos,noel.ramos@gmail.com,Clothing,Socks Pack,5,150.0,0.05,Gcash,delivered,2024-11-26,2024-11-29,3,luzon
+ORD-0123,Ramon Aguilar,ramon.aguilar@outlook.com,Clothing,Polo Shirt,2,550.0,0.15,cod,shipped,2024-08-19,2024-08-23,1,mindanao
+ORD-0503,Ben Macapagal,ben.macapagal@outlook.com,Food & Grocery,Instant Noodles,5,15.0,0.2,Cash on Delivery,DELIVERED,2024-05-04,2024-05-12,2,Visayas
+ORD-0164,ARNOLD AQUINO,arnold.aquino@outlook.com,Home & Living,Rice Cooker,4,899.0,0.2,GCash,Delivered,2024-12-19,2024-12-23,4,LUZON
+ORD-0550,Dennis Corpus,dennis.corpus@gmail.com,Food & Grocery,Rice 5kg,3,250.0,0.1,Debit Card,shipped,2024-08-25,2024-09-01,4,luzon
+ORD-0581,Mark Soriano,mark.soriano@yahoo.com,Electronics,Smart Watch,2,5999.0,0.0,COD,DELIVERED,2024-08-19,2024-08-28,5,LUZON
+ORD-0083,Gina Gutierrez,gina.gutierrez@outlook.com,Electronics,Phone Case,4,199.0,0.15,GCash,Shipped,2024-05-15,2024-05-23,4,Visayas
+ORD-0931,Homer Manalo,homer.manalo@gmail.com,Electronics,Wireless Earbuds,4,1299.0,,credit card,Canceled,2024-04-03,,,LUZON
+ORD-0745,Mark Mendoza,mark.mendoza@yahoo.com,Food & Grocery,Rice 5kg,4,250.0,0.15,Debit Card,Returned,2024-02-28,,5,mindanao
+ORD-0182,Eleanor Lacson,ELEANOR.LACSON@YAHOO.COM,Clothing,Jogger Pants,5,799.0,0.2,Gcash,Deliverd,2024-02-23,2024-02-29,5,mindanao
+ORD-0951,Eleanor Macapagal,ELEANOR.MACAPAGAL@OUTLOOK.COM,Electronics,Smart Watch,3,5999.0,0.0,debit card,Deliverd,2024-05-05,2024-05-08,,MINDANAO
+ORD-0595,victor medina,victor.medina@outlook.com,Home & Living,Picture Frame,2,220.0,0.0,debit card,Shipped,2024-03-28,2024-03-31,5,Mindanao
+ORD-0197,Rachel Medina,rachel.medina@yahoo.com,Home & Living,Air Purifier,5,8500.0,0.1,Debit Card,SHIPPED,2024-10-12,2024-10-22,2,mindanao
+ORD-0486,Jenny Manalo,JENNY.MANALO@GMAIL.COM,Home & Living,Rice Cooker,1,899.0,0.1,Gcash,Delivered,2024-12-23,2025-01-02,4,MINDANAO
+ORD-0016,Victor Reyes,victor.reyes@gmail.com,Electronics,Phone Case,3,199.0,0.0,credit card,DELIVERED,2024-10-13,2024-10-22,5,Luzon
+ORD-0592,Victor Castillo,VICTOR.CASTILLO@GMAIL.COM,Food & Grocery,Cooking Oil,3,120.0,0.1,Debit Card,Delivered,2024-06-14,2024-06-20,4,LUZON
+ORD-0167,Mark Castillo,mark.castillo@yahoo.com,Home & Living,Bed Sheets,1,650.0,,credit card,DELIVERED,2024-08-12,2024-08-19,1,Visayas
+ORD-0671,Anna Magsaysay,anna.magsaysay@outlook.com,Food & Grocery,Rice 5kg,4,250.0,0.0,Credit Card,Deliverd,2024-03-10,2024-03-13,3,VISAYAS
+ORD-0946,Ronald Cruz,ronald.cruz@outlook.com,Electronics,Bluetooth Speaker,4,3200.0,0.1,debit card,Canceled,2024-09-20,,,visayas
+ORD-0063,Sammy Magsaysay,sammy.magsaysay@yahoo.com,Home & Living,Rice Cooker,5,899.0,0.15,CreditCard,DELIVERED,2024-07-17,2024-07-26,3,LUZON
+ORD-0192,Sammy dela Cruz,sammy.delacruz@gmail.com,Food & Grocery,Rice 5kg,2,250.0,0.2,Gcash,shipped,2024-02-28,2024-03-09,4,Mindanao
+ORD-0702,Rachel Bautista,rachel.bautista@outlook.com,Electronics,USB Hub,1,450.0,0.15,gcash,Deliverd,2024-07-12,2024-07-19,4,Mindanao
+ORD-0850,Gina Mendoza,gina.mendoza@gmail.com,Food & Grocery,Cooking Oil,831,120.0,0.05,credit card,Shipped,2024-08-10,2024-08-14,1,luzon
+ORD-0417,Lena Castillo,lena.castillo@yahoo.com,Beauty,Face Wash,2,320.0,0.1,Credit Card,DELIVERED,2024-01-21,2024-01-26,4,Visayas
+ORD-0003,Homer Tan,homer.tan@outlook.com,Home & Living,Picture Frame,2,220.0,0.05,Gcash,Deliverd,2024-05-22,2024-06-01,3,Visayas
+ORD-0454,Carlo Manalo,carlo.manalo@yahoo.com,Beauty,Face Wash,1,320.0,0.0,DebitCard,delivered,2024-06-14,2024-06-20,1,Visayas
+ORD-0412,Arnold Lacson,arnold.lacson@outlook.com,Beauty,Face Wash,4,320.0,0.2,DebitCard,DELIVERED,2024-11-21,2024-11-25,3,Visayas
+ORD-0559,Jose Corpus,JOSE.CORPUS@OUTLOOK.COM,Food & Grocery,Canned Goods,5,45.0,0.0,credit card,delivered,2024-12-19,2024-12-25,2,Visayas
+ORD-0834,Kevin Tolentino,kevin.tolentino@gmail.com,Electronics,Wireless Earbuds,1,1299.0,0.2,cod,delivered,2024-12-19,2024-12-23,1,Luzon
+ORD-0991,Rosa Dizon,rosa.dizon@gmail.com,Beauty,Moisturizer,2,550.0,0.2,Credit Card,Deliverd,2024-04-03,2024-04-10,1,visayas
+ORD-0575,paolo reyes,paolo.reyes@gmail.com,Electronics,Bluetooth Speaker,5,3200.0,,CreditCard,Deliverd,2024-03-21,2024-03-30,2,Mindanao
+ORD-0827,Sheila Espiritu,sheila.espiritu@gmail.com,Beauty,Lip Tint,2,199.0,0.15,DebitCard,delivered,2024-08-30,2024-09-05,3,Luzon
+ORD-0817,Nina Soriano,nina.soriano@yahoo.com,Home & Living,Rice Cooker,1,899.0,0.15,GCash,Deliverd,2024-07-08,2024-07-15,1,Mindanao
+ORD-0061,Jasmine Flores,jasmine.flores@gmail.com,Clothing,Socks Pack,1,150.0,0.15,DebitCard,DELIVERED,2024-03-18,2024-03-28,1,mindanao
+ORD-0820,EDDIE ESPIRITU,eddie.espiritu@outlook.com,Electronics,Wireless Earbuds,2,1299.0,0.1,Credit card,DELIVERED,2024-02-10,2024-02-13,5,Luzon
+ORD-0121,Irene Evangelista,irene.evangelista@yahoo.com,Home & Living,Picture Frame,1,220.0,0.05,Gcash,Delivered,2024-08-18,2024-08-25,3,luzon
+ORD-0143,Dante dela Cruz,dante.delacruz@gmail.com,Clothing,Jogger Pants,1,799.0,0.05,COD,Deliverd,2024-10-27,2024-10-31,3,Luzon
+ORD-0142,Jenny Castillo,jenny.castillo@outlook.com,Food & Grocery,Instant Noodles,3,,0.2,DebitCard,delivered,2024-09-08,2024-09-11,,Mindanao
+ORD-0781,Arnold Villanueva,ARNOLD.VILLANUEVA@YAHOO.COM,Food & Grocery,Instant Noodles,4,15.0,0.15,COD,DELIVERED,2024-07-03,2024-07-10,4,Visayas
+ORD-0310,Ana Flores,ana.flores@yahoo.com,Beauty,Lip Tint,1,199.0,0.1,CreditCard,Deliverd,2024-05-02,2024-05-06,2,luzon
+ORD-0688,Christine Gutierrez,christine.gutierrez@outlook.com,Food & Grocery,Canned Goods,2,45.0,0.0,cod,Cancelled,2024-05-25,,,MINDANAO
+ORD-0735,ANNA AGUILAR,anna.aguilar@outlook.com,Beauty,Sunscreen SPF50,4,450.0,0.0,credit card,delivered,2024-09-23,2024-09-29,3,mindanao
+ORD-0331,Gilbert Mendoza,gilbert.mendoza@outlook.com,Clothing,Dress,5,1200.0,0.15,Debit Card,delivered,2024-03-19,2024-03-29,4,VISAYAS
+ORD-0653,Irene Lacson,irene.lacson@outlook.com,Home & Living,Picture Frame,1,220.0,0.15,Debit Card,Delivered,2024-05-14,2024-05-22,4,Luzon
+ORD-0323,Jose Magsaysay,jose.magsaysay@yahoo.com,Beauty,Sunscreen SPF50,4,450.0,0.15,Gcash,DELIVERED,2024-02-17,2024-02-23,3,LUZON
+ORD-0025,Trisha Corpus,trisha.corpus@gmail.com,Food & Grocery,Instant Noodles,4,15.0,0.0,Credit card,Delivered,2024-05-13,2024-05-22,3,visayas
+ORD-0056,Rosa Fernandez,rosa.fernandez@outlook.com,Home & Living,Rice Cooker,2,899.0,0.1,credit card,Shipped,2024-03-13,2024-03-16,1,luzon
+ORD-0855,Gilbert dela Cruz,gilbert.delacruz@outlook.com,Home & Living,Picture Frame,1,220.0,0.15,Cash on Delivery,shipped,2024-06-03,2024-06-13,2,Luzon
+ORD-0516,Sheila Uy,sheila.uy@gmail.com,Beauty,Face Wash,3,320.0,0.1,Credit Card,Delivered,2024-09-26,2024-09-30,5,Visayas
+ORD-1000,alan reyes,alan.reyes@gmail.com,Electronics,Power Bank,1,799.0,0.05,credit card,DELIVERED,2024-08-25,2024-08-29,1,luzon
+ORD-0528,Kevin Villafuerte,kevin.villafuerte@gmail.com,Clothing,Socks Pack,1,150.0,,Cash on Delivery,DELIVERED,2024-05-09,2024-05-12,5,mindanao
+ORD-0174,Tina Cruz,tina.cruz@outlook.com,Food & Grocery,Coffee Pack,876,85.0,0.15,DebitCard,delivered,2024-03-06,2024-03-10,4,mindanao
+ORD-0697,ALAN MEDINA,alan.medina@gmail.com,Food & Grocery,Canned Goods,1,45.0,0.1,COD,delivered,2024-10-25,2024-10-29,,VISAYAS
+ORD-0312,Ronald Tan,ronald.tan@gmail.com,Food & Grocery,Canned Goods,1,45.0,0.2,Gcash,DELIVERED,2024-06-17,2024-06-26,2,Luzon
+ORD-0210,Eleanor Lacson,eleanor.lacson@yahoo.com,Clothing,Running Shoes,2,2500.0,0.0,Debit Card,Delivered,2024-08-30,2024-09-02,1,Mindanao
+ORD-0801,Mia Aquino,mia.aquino@yahoo.com,Home & Living,Bed Sheets,4,650.0,0.2,debit card,Shipped,2024-06-16,2024-06-25,3,visayas
+ORD-0898,Sheila Medina,sheila.medina@outlook.com,Beauty,Lip Tint,1,199.0,0.05,Credit Card,Deliverd,2024-03-15,2024-03-20,1,luzon
+ORD-0103,Ricky Reyes,RICKY.REYES@GMAIL.COM,Food & Grocery,Canned Goods,5,45.0,0.05,DebitCard,Deliverd,2024-10-08,2024-10-16,3,VISAYAS
+ORD-0995,Lisa Gutierrez,lisa.gutierrez@yahoo.com,Home & Living,Picture Frame,1,220.0,0.0,debit card,Deliverd,2024-09-09,2024-09-18,5,Luzon
+ORD-0397,Irene Tan,irene.tan@outlook.com,Beauty,Face Wash,4,320.0,0.2,credit card,Delivered,2024-08-10,2024-08-13,2,visayas
+ORD-0048,homer lacson,homer.lacson@gmail.com,Food & Grocery,Canned Goods,3,45.0,0.0,DebitCard,Deliverd,2024-02-29,2024-03-05,1,visayas
+ORD-0613,Ana Lacson,ana.lacson@gmail.com,Clothing,Polo Shirt,2,550.0,0.2,DebitCard,shipped,2024-11-25,2024-12-02,2,Visayas
+ORD-0693,Lisa Dela Rosa,lisa.delarosa@yahoo.com,Food & Grocery,Rice 5kg,1,,0.0,credit card,delivered,2024-09-24,2024-09-30,4,mindanao
+ORD-0338,Ricky Lacson,ricky.lacson@outlook.com,Clothing,Polo Shirt,4,550.0,0.15,COD,cancelled,2024-01-06,,,luzon
+ORD-0515,BEN SORIANO,ben.soriano@yahoo.com,Food & Grocery,Coffee Pack,5,85.0,0.2,Credit Card,Deliverd,2024-02-16,2024-02-24,3,Mindanao
+ORD-0224,Ronald Ramos,ronald.ramos@yahoo.com,Food & Grocery,Rice 5kg,3,,0.1,Credit card,RETURNED,2024-05-10,,3,visayas
+ORD-0337,Alan Macaraeg,alan.macaraeg@gmail.com,Home & Living,Air Purifier,2,8500.0,0.15,Gcash,CANCELLED,2024-05-26,,,visayas
+ORD-0442,Trisha Domingo,TRISHA.DOMINGO@YAHOO.COM,Beauty,Face Wash,2,320.0,0.05,Debit Card,delivered,2024-06-07,2024-06-11,4,Visayas
+ORD-0520,Dennis Uy,DENNIS.UY@GMAIL.COM,Beauty,Serum,4,780.0,,debit card,shipped,2024-06-21,2024-06-26,1,MINDANAO
+ORD-0663,Anna Reyes,anna.reyes@outlook.com,Clothing,Running Shoes,4,2500.0,,gcash,DELIVERED,2024-08-08,2024-08-14,2,MINDANAO
+ORD-0521,Juan Bautista,juan.bautista@yahoo.com,Home & Living,Electric Fan,3,1500.0,0.2,GCash,SHIPPED,2024-02-09,2024-02-18,2,LUZON
+ORD-0083,Gina Gutierrez,gina.gutierrez@outlook.com,Electronics,Phone Case,4,199.0,0.15,GCash,Shipped,2024-05-15,2024-05-23,4,Visayas
+ORD-0525,Gina Pascual,GINA.PASCUAL@GMAIL.COM,Clothing,Running Shoes,2,2500.0,0.0,debit card,Deliverd,2024-04-17,2024-04-22,1,Luzon
+ORD-0842,sammy ramos,sammy.ramos@outlook.com,Food & Grocery,Canned Goods,4,45.0,0.2,GCash,returned,2024-04-18,,5,MINDANAO
+ORD-0630,Gilbert Torres,gilbert.torres@outlook.com,Beauty,Lip Tint,5,199.0,0.05,cod,delivered,2024-05-07,2024-05-17,5,luzon
+ORD-0084,TONY LACSON,tony.lacson@outlook.com,Food & Grocery,Rice 5kg,5,250.0,0.0,cod,delivered,2024-04-11,2024-04-20,,Luzon
+ORD-0876,Alan Torres,alan.torres@gmail.com,Home & Living,Picture Frame,1,,0.2,CreditCard,Deliverd,2024-05-25,2024-05-31,5,visayas
+ORD-0658,LISA FLORES,lisa.flores@yahoo.com,Beauty,Lip Tint,3,199.0,0.1,DebitCard,Canceled,2024-12-18,,,MINDANAO
+ORD-0589,CARLO VILLAFUERTE,carlo.villafuerte@outlook.com,Home & Living,Rice Cooker,3,899.0,0.15,Cash on Delivery,DELIVERED,2024-05-07,2024-05-14,4,visayas
+ORD-0776,Juan Uy,juan.uy@yahoo.com,Food & Grocery,Cooking Oil,1,120.0,0.15,COD,shipped,2024-10-08,2024-10-16,5,Visayas
+ORD-0825,victor lacson,VICTOR.LACSON@GMAIL.COM,Home & Living,Picture Frame,1,220.0,0.0,Debit Card,DELIVERED,2024-04-05,2024-04-14,1,LUZON
+ORD-0967,Sheila Soriano,sheila.soriano@outlook.com,Clothing,Dress,3,1200.0,,Credit card,RETURNED,2024-01-02,,4,VISAYAS
+ORD-0728,Carlo Macapagal,carlo.macapagal@gmail.com,Food & Grocery,Cooking Oil,3,120.0,0.15,credit card,Returned,2024-02-07,,2,visayas
+ORD-0925,Ronald Garcia,ronald.garcia@outlook.com,Food & Grocery,Cooking Oil,1,120.0,0.2,Cash on Delivery,DELIVERED,2024-04-15,2024-04-24,4,LUZON
+ORD-0139,Pedro Mendoza,PEDRO.MENDOZA@GMAIL.COM,Home & Living,Rice Cooker,1,899.0,0.2,debit card,Deliverd,2024-12-15,2024-12-24,2,luzon
+ORD-0562,Alan Santiago,alan.santiago@yahoo.com,Food & Grocery,Canned Goods,3,45.0,0.05,cod,Canceled,2024-03-24,,,VISAYAS
+ORD-0124,Rowena Espiritu,rowena.espiritu@gmail.com,Electronics,Power Bank,4,799.0,0.0,Debit Card,Shipped,2024-09-10,2024-09-17,3,VISAYAS
+ORD-0718,JOSE MEDINA,jose.medina@yahoo.com,Electronics,Smart Watch,633,5999.0,0.15,COD,DELIVERED,2024-09-28,2024-10-03,4,Luzon
+ORD-0483,Mark Espiritu,mark.espiritu@gmail.com,Electronics,Smart Watch,655,5999.0,0.2,COD,Canceled,2024-05-21,,,VISAYAS
+ORD-0415,Sarah Soriano,sarah.soriano@outlook.com,Electronics,Phone Case,3,199.0,0.0,Debit Card,Delivered,2024-08-25,2024-09-04,1,mindanao
+ORD-0023,Rodrigo Navarro,rodrigo.navarro@outlook.com,Clothing,Jogger Pants,4,799.0,0.1,Gcash,delivered,2024-07-15,2024-07-20,,visayas
+ORD-0743,Ana Fajardo,ana.fajardo@yahoo.com,Clothing,Dress,1,1200.0,0.1,Gcash,Delivered,2024-03-13,2024-03-22,3,luzon
+ORD-0682,ANNA DELA CRUZ,anna.delacruz@yahoo.com,Home & Living,Air Purifier,5,8500.0,0.1,GCash,Delivered,2024-04-08,2024-04-13,4,Visayas
+ORD-0451,Lena Manalo,lena.manalo@outlook.com,Home & Living,Picture Frame,1,220.0,0.0,G-Cash,Deliverd,2024-11-15,2024-11-19,4,LUZON
+ORD-0661,Alan Navarro,alan.navarro@yahoo.com,Beauty,Lip Tint,2,199.0,0.2,COD,Delivered,2024-05-09,2024-05-13,4,Visayas
+ORD-0495,Rachel Aquino,rachel.aquino@yahoo.com,Clothing,Running Shoes,3,2500.0,0.0,DebitCard,Cancelled,2024-01-11,,,visayas
+ORD-0178,Ronald Lim,ronald.lim@outlook.com,Food & Grocery,Instant Noodles,1,15.0,0.15,cod,RETURNED,2024-11-04,,2,luzon
+ORD-0028,Sarah Macapagal,sarah.macapagal@yahoo.com,Electronics,Smart Watch,715,5999.0,0.0,cod,cancelled,2024-08-10,,,mindanao
+ORD-0217,Rachel Magsaysay,rachel.magsaysay@yahoo.com,Electronics,Power Bank,5,799.0,0.1,Gcash,delivered,2024-11-20,2024-11-29,,VISAYAS
+ORD-0252,Anna Tan,anna.tan@outlook.com,Beauty,Serum,3,780.0,,DebitCard,Delivered,2024-12-23,2025-01-02,1,MINDANAO
+ORD-0522,Dennis Mendoza,dennis.mendoza@gmail.com,Beauty,Face Wash,5,320.0,0.2,gcash,Deliverd,2024-05-30,2024-06-06,5,VISAYAS
+ORD-0607,Paolo Ramos,paolo.ramos@outlook.com,Beauty,Lip Tint,5,199.0,0.1,G-Cash,Delivered,2024-10-11,2024-10-21,2,luzon
+ORD-0015,Rachel Soriano,rachel.soriano@yahoo.com,Home & Living,Rice Cooker,1,899.0,,CreditCard,Deliverd,2024-10-09,2024-10-18,,LUZON
+ORD-0914,eleanor aquino,eleanor.aquino@yahoo.com,Beauty,Moisturizer,2,550.0,0.05,Credit Card,DELIVERED,2024-04-30,2024-05-06,3,luzon
+ORD-0455,tina flores,tina.flores@outlook.com,Electronics,Smart Watch,4,5999.0,0.15,COD,delivered,2024-06-01,2024-06-07,5,mindanao
+ORD-0254,sammy macapagal,sammy.macapagal@gmail.com,Electronics,Phone Case,5,199.0,0.2,Debit Card,delivered,2024-09-03,2024-09-12,1,MINDANAO
+ORD-0723,Arnold Santos,arnold.santos@yahoo.com,Home & Living,Air Purifier,5,8500.0,0.2,Gcash,DELIVERED,2024-05-03,2024-05-08,3,luzon
+ORD-0234,Carlo Torres,carlo.torres@yahoo.com,Food & Grocery,Rice 5kg,4,250.0,0.05,credit card,delivered,2024-08-08,2024-08-13,5,Visayas
+ORD-0038,JUAN OCAMPO,juan.ocampo@outlook.com,Beauty,Moisturizer,1,550.0,0.1,Debit Card,delivered,2024-12-29,2025-01-03,3,mindanao
+ORD-0858,Marco Tan,marco.tan@yahoo.com,Home & Living,Air Purifier,2,8500.0,0.15,Debit Card,Deliverd,2024-04-09,2024-04-14,1,visayas
+ORD-0882,Ronald Corpus,RONALD.CORPUS@GMAIL.COM,Home & Living,Electric Fan,5,1500.0,0.2,Credit Card,Canceled,2024-05-26,,,Luzon
+ORD-0906,Homer Lacson,homer.lacson@outlook.com,Clothing,Jacket,3,1800.0,0.1,cod,RETURNED,2024-10-16,,2,LUZON
+ORD-0422,Jenny Pascual,jenny.pascual@yahoo.com,Electronics,Power Bank,5,799.0,0.1,cod,RETURNED,2024-07-09,,2,LUZON
+ORD-0373,Gina Manalo,gina.manalo@outlook.com,Beauty,Sunscreen SPF50,3,450.0,0.1,Gcash,Deliverd,2024-01-14,2024-01-19,,visayas
+ORD-0242,Luz Bautista,LUZ.BAUTISTA@GMAIL.COM,Clothing,Running Shoes,3,2500.0,0.2,Cash on Delivery,Delivered,2024-02-25,2024-03-05,2,VISAYAS
+ORD-0298,Sarah Dizon,sarah.dizon@gmail.com,Electronics,Wireless Earbuds,2,1299.0,0.2,credit card,RETURNED,2024-02-04,,1,LUZON
+ORD-0937,Carlo Aguilar,carlo.aguilar@gmail.com,Home & Living,Air Purifier,2,8500.0,0.0,credit card,Delivered,2024-11-30,2024-12-08,4,luzon
+ORD-0395,Gilbert Corpus,GILBERT.CORPUS@GMAIL.COM,Electronics,USB Hub,5,450.0,0.05,DebitCard,SHIPPED,2024-04-06,2024-04-09,,Visayas
+ORD-0576,Ronald Castillo,RONALD.CASTILLO@GMAIL.COM,Clothing,Jogger Pants,4,799.0,0.1,GCash,Delivered,2024-08-28,2024-08-31,2,LUZON
+ORD-0666,Nina Uy,nina.uy@outlook.com,Electronics,Laptop Stand,5,850.0,0.2,Credit Card,Shipped,2024-07-25,2024-07-31,2,visayas
+ORD-0466,Ronald Cruz,ronald.cruz@yahoo.com,Home & Living,Air Purifier,4,,0.1,cod,delivered,2024-12-21,2024-12-25,1,Luzon
+ORD-0926,sheila villanueva,sheila.villanueva@outlook.com,Electronics,Bluetooth Speaker,5,3200.0,0.2,Gcash,Cancelled,2024-05-20,,,LUZON
+ORD-0042,Felix Soriano,felix.soriano@gmail.com,Food & Grocery,Cooking Oil,3,120.0,0.15,GCash,DELIVERED,2024-04-26,2024-04-30,4,MINDANAO
+ORD-0343,ricky tan,ricky.tan@yahoo.com,Beauty,Face Wash,4,320.0,0.15,debit card,Canceled,2024-08-13,,,Visayas
+ORD-0972,Victor Domingo,victor.domingo@gmail.com,Electronics,Power Bank,4,799.0,0.0,Credit Card,Delivered,2024-07-07,2024-07-11,4,VISAYAS
+ORD-0784,Anna Macaraeg,anna.macaraeg@gmail.com,Electronics,Wireless Earbuds,3,1299.0,,cod,DELIVERED,2024-05-07,2024-05-11,3,luzon
+ORD-0893,Ronald Uy,ronald.uy@outlook.com,Clothing,Jogger Pants,2,799.0,0.1,CreditCard,Delivered,2024-08-02,2024-08-06,4,Luzon
+ORD-0113,Gilbert Fajardo,gilbert.fajardo@yahoo.com,Beauty,Lip Tint,1,199.0,0.2,G-Cash,Deliverd,2024-05-29,2024-06-02,4,LUZON
+ORD-0591,Rosa Fajardo,rosa.fajardo@gmail.com,Beauty,Lip Tint,3,199.0,0.05,COD,delivered,2024-10-24,2024-10-31,5,mindanao
+ORD-0171,Jasmine Manalo,jasmine.manalo@yahoo.com,Food & Grocery,Cooking Oil,1,120.0,0.0,GCash,shipped,2024-01-19,2024-01-22,1,MINDANAO
+ORD-0713,Sammy Uy,sammy.uy@gmail.com,Home & Living,Bed Sheets,5,650.0,0.2,Credit Card,Delivered,2024-10-13,2024-10-23,4,MINDANAO
+ORD-0487,Tony Pascual,tony.pascual@gmail.com,Clothing,Dress,5,1200.0,,Gcash,delivered,2024-01-03,2024-01-11,4,luzon
+ORD-0464,Ana Fajardo,ana.fajardo@gmail.com,Food & Grocery,Instant Noodles,1,15.0,0.05,cod,Shipped,2024-03-28,2024-04-01,2,VISAYAS
+ORD-0153,Jose Castillo,jose.castillo@outlook.com,Beauty,Sunscreen SPF50,4,450.0,,debit card,Delivered,2024-06-21,2024-06-28,3,VISAYAS
+ORD-0062,TINA LIM,tina.lim@yahoo.com,Electronics,Phone Case,3,199.0,0.0,debit card,RETURNED,2024-01-22,,4,MINDANAO
+ORD-0035,Carlo Tolentino,carlo.tolentino@yahoo.com,Clothing,Socks Pack,2,150.0,,cod,Deliverd,2024-03-04,2024-03-14,3,VISAYAS
+ORD-0585,Sarah Tolentino,sarah.tolentino@yahoo.com,Home & Living,Air Purifier,1,8500.0,0.2,Debit Card,CANCELLED,2024-03-04,,,Visayas
+ORD-0624,GILBERT CRUZ,gilbert.cruz@gmail.com,Clothing,Polo Shirt,4,550.0,0.2,COD,shipped,2024-06-25,2024-07-01,,mindanao
+ORD-0765,nina magsaysay,nina.magsaysay@gmail.com,Electronics,Phone Case,2,199.0,0.15,Credit Card,Shipped,2024-10-08,2024-10-13,4,mindanao
+ORD-0530,Sarah Lim,SARAH.LIM@YAHOO.COM,Food & Grocery,Rice 5kg,2,250.0,0.1,cod,DELIVERED,2024-09-21,2024-09-24,4,MINDANAO
+ORD-0382,rowena reyes,rowena.reyes@gmail.com,Food & Grocery,Cooking Oil,1,120.0,0.2,gcash,SHIPPED,2024-12-21,2024-12-26,3,mindanao
+ORD-0532,ana tan,ana.tan@gmail.com,Electronics,Bluetooth Speaker,3,3200.0,0.05,CreditCard,Cancelled,2024-05-06,,,Mindanao
+ORD-0090,patricia aquino,patricia.aquino@outlook.com,Clothing,Dress,4,1200.0,0.1,GCash,Delivered,2024-03-30,2024-04-08,2,luzon
+ORD-0711,ben fernandez,ben.fernandez@gmail.com,Clothing,Jogger Pants,3,799.0,0.0,Credit card,Shipped,2024-03-28,2024-04-05,1,mindanao
+ORD-0305,Irene Evangelista,irene.evangelista@yahoo.com,Clothing,Jacket,1,1800.0,0.15,Cash on Delivery,Delivered,2024-01-15,2024-01-18,2,VISAYAS
+ORD-0973,Homer Domingo,homer.domingo@gmail.com,Food & Grocery,Rice 5kg,2,250.0,0.0,gcash,Canceled,2024-05-12,,,mindanao
+ORD-0377,Pedro Uy,pedro.uy@outlook.com,Home & Living,Rice Cooker,1,899.0,0.15,COD,Returned,2024-08-24,,,MINDANAO
+ORD-0069,Paolo Villanueva,paolo.villanueva@gmail.com,Home & Living,Bed Sheets,2,650.0,,GCash,delivered,2024-03-17,2024-03-26,1,luzon
+ORD-0567,Ramon Garcia,ramon.garcia@yahoo.com,Clothing,Jacket,3,1800.0,0.15,cod,returned,2024-12-19,,1,LUZON
+ORD-0414,Gilbert Ocampo,gilbert.ocampo@outlook.com,Food & Grocery,Canned Goods,1,45.0,0.2,Credit Card,delivered,2024-09-20,2024-09-28,1,Visayas
+ORD-0240,Lisa Padilla,lisa.padilla@outlook.com,Clothing,Dress,5,1200.0,0.1,credit card,delivered,2024-12-30,2025-01-02,4,mindanao
+ORD-0774,Trisha Padilla,trisha.padilla@gmail.com,Clothing,Running Shoes,3,2500.0,0.1,Gcash,CANCELLED,2024-09-23,,,Visayas
+ORD-0971,rowena flores,rowena.flores@gmail.com,Beauty,Lip Tint,2,9518.63,0.05,gcash,DELIVERED,2024-04-18,2024-04-22,5,LUZON
+ORD-0696,Mia Ocampo,MIA.OCAMPO@GMAIL.COM,Home & Living,Electric Fan,3,,0.1,Debit Card,returned,2024-02-08,,4,visayas
+ORD-0135,KEVIN DELA CRUZ,kevin.delacruz@outlook.com,Home & Living,Rice Cooker,2,899.0,0.15,CreditCard,Delivered,2024-04-28,2024-05-07,3,Mindanao
+ORD-0874,Carla Dela Rosa,CARLA.DELAROSA@GMAIL.COM,Beauty,Lip Tint,5,199.0,0.15,gcash,Deliverd,2024-04-24,2024-05-02,,VISAYAS
+ORD-0425,Noel Garcia,noel.garcia@yahoo.com,Beauty,Moisturizer,5,550.0,0.05,G-Cash,RETURNED,2024-09-25,,3,luzon
+ORD-0263,Sammy Flores,sammy.flores@yahoo.com,Clothing,Socks Pack,4,150.0,0.2,COD,Delivered,2024-01-27,2024-02-01,4,visayas
+ORD-0426,LUZ CRUZ,luz.cruz@gmail.com,Clothing,Jogger Pants,2,799.0,0.05,Credit Card,DELIVERED,2024-11-19,2024-11-27,3,MINDANAO
+ORD-0360,Patricia Lim,patricia.lim@yahoo.com,Food & Grocery,Cooking Oil,2,120.0,,debit card,SHIPPED,2024-11-13,2024-11-17,3,Mindanao
+ORD-0668,Rowena Pascual,rowena.pascual@outlook.com,Food & Grocery,Canned Goods,2,45.0,,Credit Card,Delivered,2024-11-11,2024-11-14,,visayas
+ORD-0463,Alan Aquino,alan.aquino@outlook.com,Electronics,Phone Case,1,199.0,0.15,Cash on Delivery,Deliverd,2024-02-10,2024-02-18,4,visayas
+ORD-0964,GINA PASCUAL,gina.pascual@gmail.com,Electronics,Bluetooth Speaker,1,3200.0,0.1,COD,delivered,2024-01-16,2024-01-20,,MINDANAO
+ORD-0073,Rowena Villafuerte,rowena.villafuerte@yahoo.com,Clothing,Dress,4,1200.0,0.1,Debit Card,SHIPPED,2024-04-02,2024-04-09,3,VISAYAS
+ORD-0085,Dante Padilla,dante.padilla@outlook.com,Food & Grocery,Rice 5kg,2,250.0,0.1,DebitCard,Deliverd,2024-01-09,2024-01-17,3,VISAYAS
+ORD-0385,rachel ocampo,rachel.ocampo@outlook.com,Clothing,Jacket,4,1800.0,,Debit Card,Delivered,2024-11-20,2024-11-25,2,LUZON
+ORD-0746,Trisha Torres,TRISHA.TORRES@OUTLOOK.COM,Food & Grocery,Canned Goods,4,45.0,0.0,G-Cash,cancelled,2024-07-26,,,Luzon
+ORD-0406,Victor Padilla,victor.padilla@outlook.com,Electronics,USB Hub,2,450.0,0.05,Credit Card,returned,2024-06-09,,,Mindanao
+ORD-0053,paolo dizon,paolo.dizon@gmail.com,Food & Grocery,Canned Goods,3,45.0,0.1,Debit Card,delivered,2024-08-08,2024-08-18,2,visayas
+ORD-0469,Rachel Flores,RACHEL.FLORES@YAHOO.COM,Home & Living,Air Purifier,1,8500.0,0.15,Credit card,DELIVERED,2024-09-28,2024-10-08,5,Mindanao
+ORD-0218,Carla dela Cruz,carla.delacruz@outlook.com,Food & Grocery,Coffee Pack,3,85.0,0.15,cod,Delivered,2024-07-01,2024-07-06,5,luzon
+ORD-0985,Luz dela Cruz,luz.delacruz@gmail.com,Home & Living,Air Purifier,1,8500.0,0.2,COD,delivered,2024-03-06,2024-03-16,2,Visayas
+ORD-0833,Sarah Soriano,sarah.soriano@gmail.com,Home & Living,Picture Frame,3,220.0,,COD,Cancelled,2024-08-14,,,VISAYAS
+ORD-0970,Jenny Ramos,JENNY.RAMOS@OUTLOOK.COM,Beauty,Serum,4,780.0,0.1,Debit Card,shipped,2024-12-15,2024-12-23,1,Mindanao
+ORD-0518,Cynthia Villanueva,cynthia.villanueva@gmail.com,Home & Living,Air Purifier,4,8500.0,0.1,gcash,Canceled,2024-05-29,,,VISAYAS
+ORD-0467,Rachel Espiritu,rachel.espiritu@gmail.com,Food & Grocery,Canned Goods,5,45.0,0.1,Credit Card,delivered,2024-07-05,2024-07-14,4,Mindanao
+ORD-0228,LISA MAGSAYSAY,lisa.magsaysay@yahoo.com,Beauty,Serum,4,780.0,0.05,Credit card,SHIPPED,2024-10-19,2024-10-25,5,MINDANAO
+ORD-0890,Rosa Pascual,rosa.pascual@yahoo.com,Electronics,Laptop Stand,1,850.0,0.15,COD,Deliverd,2024-04-03,2024-04-08,1,Visayas
+ORD-0097,Arnold Torres,arnold.torres@yahoo.com,Food & Grocery,Cooking Oil,5,120.0,0.15,COD,Delivered,2024-12-04,2024-12-13,5,Luzon
+ORD-0755,ben gutierrez,ben.gutierrez@outlook.com,Home & Living,Rice Cooker,4,899.0,0.2,Cash on Delivery,DELIVERED,2024-04-24,2024-04-27,2,Mindanao
+ORD-0037,Irene Tan,irene.tan@yahoo.com,Clothing,Jogger Pants,4,799.0,0.15,G-Cash,DELIVERED,2024-05-09,2024-05-17,1,VISAYAS
+ORD-0651,Patricia Santos,patricia.santos@outlook.com,Home & Living,Picture Frame,4,220.0,0.0,G-Cash,Deliverd,2024-05-30,2024-06-04,1,visayas
+ORD-0664,Luz Dela Rosa,luz.delarosa@outlook.com,Clothing,Polo Shirt,4,550.0,0.05,Cash on Delivery,Delivered,2024-05-06,2024-05-15,2,Mindanao
+ORD-0501,Pedro Gutierrez,pedro.gutierrez@gmail.com,Food & Grocery,Rice 5kg,4,250.0,0.1,cod,DELIVERED,2024-07-27,2024-08-04,4,VISAYAS
+ORD-0313,Rachel Bautista,RACHEL.BAUTISTA@OUTLOOK.COM,Food & Grocery,Rice 5kg,1,250.0,0.05,CreditCard,CANCELLED,2024-06-06,,,Mindanao
+ORD-0052,Pedro Magsaysay,pedro.magsaysay@outlook.com,Food & Grocery,Coffee Pack,5,85.0,0.2,GCash,Canceled,2024-08-06,,,Visayas
+ORD-0438,Nina Tan,nina.tan@gmail.com,Beauty,Serum,1,780.0,0.2,G-Cash,CANCELLED,2024-11-30,,,Luzon
+ORD-0689,Pedro Magsaysay,pedro.magsaysay@yahoo.com,Food & Grocery,Canned Goods,2,45.0,0.05,cod,delivered,2024-12-08,2024-12-15,4,Mindanao
+ORD-0269,Noel Fajardo,noel.fajardo@outlook.com,Electronics,Smart Watch,988,5999.0,0.15,Cash on Delivery,Deliverd,2024-01-29,2024-02-02,3,Visayas
+ORD-0913,gilbert cruz,gilbert.cruz@yahoo.com,Home & Living,Air Purifier,2,8500.0,0.15,Cash on Delivery,returned,2024-07-10,,2,luzon
+ORD-0547,carlo medina,CARLO.MEDINA@GMAIL.COM,Home & Living,Electric Fan,1,1500.0,0.2,DebitCard,Deliverd,2024-08-31,2024-09-03,3,visayas
+ORD-0968,Melissa Torres,melissa.torres@gmail.com,Food & Grocery,Canned Goods,1,45.0,0.05,Credit card,Deliverd,2024-09-08,2024-09-12,5,Visayas
+ORD-0226,Mia Tan,mia.tan@gmail.com,Home & Living,Bed Sheets,2,650.0,0.2,gcash,Deliverd,2024-02-10,2024-02-13,3,visayas
+ORD-0905,Sammy Macaraeg,sammy.macaraeg@outlook.com,Home & Living,Picture Frame,4,220.0,0.05,Cash on Delivery,cancelled,2024-12-11,,,Mindanao
+ORD-0596,dante flores,DANTE.FLORES@YAHOO.COM,Home & Living,Picture Frame,3,220.0,0.2,Credit card,Deliverd,2024-06-07,2024-06-14,3,mindanao
+ORD-0034,Rosa Villanueva,rosa.villanueva@gmail.com,Electronics,Bluetooth Speaker,2,3200.0,0.0,debit card,delivered,2024-05-27,2024-06-03,,luzon
+ORD-0818,Juan Macaraeg,juan.macaraeg@outlook.com,Food & Grocery,Rice 5kg,5,250.0,0.0,Credit card,SHIPPED,2024-04-13,2024-04-20,5,MINDANAO
+ORD-0017,jenny aguilar,jenny.aguilar@outlook.com,Beauty,Face Wash,3,320.0,0.15,Debit Card,Deliverd,2024-06-28,2024-07-05,2,Mindanao
+ORD-0618,Rowena Macaraeg,rowena.macaraeg@gmail.com,Food & Grocery,Rice 5kg,3,250.0,0.0,cod,Shipped,2024-02-26,2024-03-03,3,luzon
+ORD-0605,sarah domingo,sarah.domingo@gmail.com,Home & Living,Electric Fan,4,1500.0,,credit card,Deliverd,2024-12-14,2024-12-21,2,MINDANAO
+ORD-0799,Lisa Medina,lisa.medina@yahoo.com,Electronics,Wireless Earbuds,1,1299.0,,debit card,Deliverd,2024-12-21,2024-12-24,3,Visayas
+ORD-0329,FELIX DELA ROSA,FELIX.DELAROSA@OUTLOOK.COM,Beauty,Face Wash,2,320.0,0.15,Cash on Delivery,Canceled,2024-11-15,,,Luzon
+ORD-0241,Jenny Cruz,jenny.cruz@gmail.com,Home & Living,Rice Cooker,4,899.0,0.0,Debit Card,Deliverd,2024-08-20,2024-08-29,,Mindanao
+ORD-0286,Luz Macaraeg,luz.macaraeg@yahoo.com,Home & Living,Electric Fan,4,1500.0,0.0,Cash on Delivery,delivered,2024-12-30,2025-01-06,2,MINDANAO
+ORD-0744,Anna Navarro,anna.navarro@gmail.com,Food & Grocery,Instant Noodles,2,15.0,0.15,credit card,Delivered,2024-03-23,2024-03-27,4,MINDANAO
+ORD-0401,Melissa Macapagal,melissa.macapagal@yahoo.com,Beauty,Sunscreen SPF50,3,450.0,0.05,Gcash,Canceled,2024-06-02,,,mindanao
+ORD-0094,Sammy Lacson,sammy.lacson@yahoo.com,Clothing,Polo Shirt,5,550.0,0.15,COD,Delivered,2024-10-07,2024-10-13,5,luzon
+ORD-0179,Patricia Garcia,patricia.garcia@outlook.com,Electronics,Laptop Stand,3,850.0,0.2,gcash,cancelled,2024-01-21,,,Mindanao
+ORD-0275,Jose Dizon,jose.dizon@gmail.com,Home & Living,Air Purifier,620,8500.0,0.2,cod,Returned,2024-08-25,,2,Luzon
+ORD-0760,Christine Bautista,christine.bautista@outlook.com,Home & Living,Air Purifier,5,8500.0,0.1,GCash,shipped,2024-01-14,2024-01-19,1,Luzon
+ORD-0494,Victor Uy,victor.uy@yahoo.com,Clothing,Dress,3,1200.0,0.1,CreditCard,Delivered,2024-01-28,2024-02-05,4,mindanao
+ORD-0321,Jose dela Cruz,jose.delacruz@yahoo.com,Home & Living,Electric Fan,5,1500.0,0.05,Cash on Delivery,Delivered,2024-06-11,2024-06-20,2,Visayas
+ORD-0641,Nina dela Cruz,nina.delacruz@outlook.com,Electronics,Wireless Earbuds,3,1299.0,0.15,COD,Deliverd,2024-11-30,2024-12-03,3,luzon
+ORD-0346,Trisha Manalo,trisha.manalo@outlook.com,Clothing,Jacket,4,1800.0,0.05,COD,shipped,2024-04-29,2024-05-08,3,mindanao
+ORD-0513,Ben Domingo,ben.domingo@outlook.com,Home & Living,Picture Frame,4,220.0,0.1,debit card,Deliverd,2024-02-29,2024-03-05,4,Mindanao
+ORD-0233,Kevin Santiago,kevin.santiago@outlook.com,Electronics,Power Bank,3,799.0,0.0,COD,DELIVERED,2024-07-20,2024-07-25,1,MINDANAO
+ORD-0348,Carla Tolentino,carla.tolentino@outlook.com,Food & Grocery,Instant Noodles,4,15.0,0.15,gcash,shipped,2024-02-16,2024-02-20,1,Visayas
+ORD-0610,PEDRO AGUILAR,pedro.aguilar@outlook.com,Home & Living,Air Purifier,1,8500.0,,GCash,SHIPPED,2024-03-02,2024-03-08,1,Luzon
+ORD-0004,Gilbert Garcia,gilbert.garcia@outlook.com,Beauty,Moisturizer,3,550.0,0.2,COD,Delivered,2024-06-10,2024-06-19,,MINDANAO
+ORD-0006,Patricia Villafuerte,patricia.villafuerte@outlook.com,Food & Grocery,Rice 5kg,5,10405.41,0.2,COD,Deliverd,2024-03-21,2024-03-31,1,mindanao
+ORD-0669,Cynthia Villafuerte,cynthia.villafuerte@gmail.com,Clothing,Jacket,1,1800.0,0.0,CreditCard,returned,2024-08-04,,2,LUZON
+ORD-0065,ronald padilla,ronald.padilla@outlook.com,Home & Living,Rice Cooker,3,899.0,0.1,Debit Card,delivered,2024-03-20,2024-03-24,3,LUZON
+ORD-0273,Christine Corpus,christine.corpus@outlook.com,Home & Living,Electric Fan,1,1500.0,0.0,Debit Card,delivered,2024-08-12,2024-08-18,,LUZON
+ORD-0724,Gilbert Lim,gilbert.lim@yahoo.com,Electronics,USB Hub,3,450.0,0.05,COD,returned,2024-10-27,,3,luzon
+ORD-0752,patricia padilla,patricia.padilla@outlook.com,Clothing,Jogger Pants,1,799.0,0.1,debit card,Deliverd,2024-10-18,2024-10-21,1,luzon
+ORD-0445,Pedro Torres,pedro.torres@gmail.com,Beauty,Serum,4,780.0,0.0,debit card,Deliverd,2024-06-17,2024-06-21,3,mindanao
+ORD-0529,Gina Reyes,gina.reyes@yahoo.com,Food & Grocery,Instant Noodles,4,15.0,0.15,GCash,Delivered,2024-11-09,2024-11-14,2,Luzon
+ORD-0125,Eddie Fajardo,EDDIE.FAJARDO@GMAIL.COM,Beauty,Sunscreen SPF50,1,450.0,,Debit Card,DELIVERED,2024-03-22,2024-03-29,1,Visayas
+ORD-0178,Ronald Lim,ronald.lim@outlook.com,Food & Grocery,Instant Noodles,1,15.0,0.15,cod,RETURNED,2024-11-04,,2,luzon
+ORD-0479,Rosa Santiago,rosa.santiago@yahoo.com,Food & Grocery,Canned Goods,3,45.0,0.05,G-Cash,returned,2024-01-28,,,Mindanao
+ORD-0705,Ben Evangelista,ben.evangelista@gmail.com,Home & Living,Picture Frame,3,220.0,0.2,Debit Card,Delivered,2024-05-03,2024-05-10,3,MINDANAO
+ORD-0288,Eleanor Flores,ELEANOR.FLORES@GMAIL.COM,Food & Grocery,Canned Goods,3,,0.1,Credit card,Delivered,2024-09-02,2024-09-05,2,luzon
+ORD-0924,Ronald Fernandez,ronald.fernandez@yahoo.com,Home & Living,Bed Sheets,3,650.0,0.2,GCash,delivered,2024-02-06,2024-02-16,5,MINDANAO
+ORD-0582,noel mendoza,noel.mendoza@outlook.com,Electronics,Bluetooth Speaker,3,3200.0,0.2,gcash,Returned,2024-12-21,,5,Luzon
+ORD-0573,Anna Macaraeg,anna.macaraeg@yahoo.com,Electronics,Wireless Earbuds,2,1299.0,0.2,Credit Card,CANCELLED,2024-06-11,,,LUZON
+ORD-0429,pedro flores,pedro.flores@gmail.com,Beauty,Sunscreen SPF50,5,450.0,0.0,debit card,Delivered,2024-01-07,2024-01-10,2,luzon
+ORD-0992,mark tolentino,mark.tolentino@yahoo.com,Clothing,Running Shoes,4,,0.05,Cash on Delivery,delivered,2024-12-07,2024-12-16,3,LUZON
+ORD-0894,Ramon Santos,ramon.santos@gmail.com,Home & Living,Rice Cooker,1,899.0,0.15,CreditCard,Deliverd,2024-04-29,2024-05-08,2,Mindanao
+ORD-0863,Lena Tan,lena.tan@yahoo.com,Electronics,Smart Watch,4,5999.0,0.2,Gcash,Deliverd,2024-01-20,2024-01-24,1,luzon
+ORD-0388,Ramon Magsaysay,RAMON.MAGSAYSAY@GMAIL.COM,Food & Grocery,Rice 5kg,4,250.0,0.15,Cash on Delivery,CANCELLED,2024-11-24,,,Luzon
+ORD-0231,Ronald Santos,RONALD.SANTOS@OUTLOOK.COM,Clothing,Running Shoes,3,2500.0,,GCash,SHIPPED,2024-05-18,2024-05-26,,mindanao
+ORD-0764,Lisa Padilla,lisa.padilla@gmail.com,Food & Grocery,Cooking Oil,3,120.0,0.15,G-Cash,delivered,2024-06-28,2024-07-08,4,mindanao
+ORD-0379,jenny domingo,jenny.domingo@outlook.com,Electronics,Power Bank,1,799.0,0.1,Gcash,Cancelled,2024-11-21,,,MINDANAO
+ORD-0549,Cynthia Fernandez,cynthia.fernandez@outlook.com,Electronics,USB Hub,3,450.0,0.05,Credit card,Delivered,2024-07-21,2024-07-27,2,mindanao
+ORD-0792,Mark Espiritu,mark.espiritu@outlook.com,Beauty,Face Wash,3,320.0,0.15,cod,shipped,2024-10-06,2024-10-12,3,Visayas
+ORD-0301,Dante Lacson,dante.lacson@yahoo.com,Beauty,Moisturizer,5,550.0,0.05,Gcash,DELIVERED,2024-04-11,2024-04-19,2,Visayas
+ORD-0368,Tina Reyes,tina.reyes@yahoo.com,Beauty,Face Wash,3,320.0,0.05,Cash on Delivery,Returned,2024-03-09,,1,mindanao
+ORD-0170,kevin manalo,kevin.manalo@outlook.com,Food & Grocery,Instant Noodles,1,15.0,0.15,Credit Card,CANCELLED,2024-05-03,,,LUZON
+ORD-0012,Gilbert Evangelista,gilbert.evangelista@gmail.com,Electronics,Smart Watch,5,5999.0,0.0,Credit Card,Returned,2024-04-05,,1,Mindanao
+ORD-0780,Anna Cruz,anna.cruz@gmail.com,Beauty,Serum,2,780.0,0.0,DebitCard,Delivered,2024-09-21,2024-09-25,3,LUZON
+ORD-0584,Mia Uy,MIA.UY@GMAIL.COM,Beauty,Face Wash,2,320.0,0.05,Credit card,SHIPPED,2024-04-09,2024-04-15,,Visayas
+ORD-0460,Eddie Dela Rosa,eddie.delarosa@gmail.com,Electronics,Smart Watch,3,5999.0,0.2,GCash,DELIVERED,2024-08-07,2024-08-12,3,LUZON
+ORD-0262,Pedro Bautista,pedro.bautista@yahoo.com,Electronics,Power Bank,1,799.0,0.05,COD,delivered,2024-09-05,2024-09-10,5,Visayas
+ORD-0587,Nina Bautista,nina.bautista@yahoo.com,Home & Living,Air Purifier,865,8500.0,0.05,Credit card,Delivered,2024-12-28,2025-01-07,5,mindanao
+ORD-0987,Felix Fernandez,felix.fernandez@gmail.com,Electronics,Smart Watch,5,5999.0,0.15,Cash on Delivery,delivered,2024-01-23,2024-01-26,1,LUZON
+ORD-0844,Jenny Gutierrez,jenny.gutierrez@yahoo.com,Electronics,Smart Watch,2,5999.0,,credit card,delivered,2024-11-16,2024-11-22,2,Luzon
+ORD-0514,Gina Aquino,gina.aquino@yahoo.com,Clothing,Running Shoes,3,2500.0,,Cash on Delivery,Deliverd,2024-07-19,2024-07-29,4,luzon
+ORD-0978,patricia uy,patricia.uy@gmail.com,Clothing,Jogger Pants,2,799.0,0.15,CreditCard,delivered,2024-09-27,2024-10-06,5,Mindanao
+ORD-0816,Rodrigo Lim,rodrigo.lim@outlook.com,Clothing,Jogger Pants,3,799.0,0.1,GCash,delivered,2024-01-09,2024-01-19,4,luzon
+ORD-0344,Ramon Fajardo,ramon.fajardo@outlook.com,Food & Grocery,Instant Noodles,2,15.0,0.05,COD,Shipped,2024-03-02,2024-03-10,5,Mindanao
+ORD-0800,Arnold Lim,arnold.lim@outlook.com,Clothing,Dress,3,1200.0,0.05,Cash on Delivery,Delivered,2024-07-13,2024-07-23,,MINDANAO
+ORD-0948,Sheila Mendoza,sheila.mendoza@outlook.com,Clothing,Jogger Pants,2,799.0,0.15,Gcash,delivered,2024-10-20,2024-10-29,3,Luzon
+ORD-0354,gina ocampo,gina.ocampo@outlook.com,Food & Grocery,Instant Noodles,4,15.0,0.15,Cash on Delivery,Delivered,2024-03-04,2024-03-14,3,Visayas
+ORD-0276,Patricia Magsaysay,PATRICIA.MAGSAYSAY@GMAIL.COM,Home & Living,Air Purifier,2,8500.0,,Gcash,Delivered,2024-09-05,2024-09-09,1,mindanao
+ORD-0919,Mia Macapagal,mia.macapagal@outlook.com,Home & Living,Electric Fan,4,1500.0,0.05,Credit card,Delivered,2024-12-18,2024-12-24,2,MINDANAO
+ORD-0984,Marco Reyes,marco.reyes@gmail.com,Clothing,Polo Shirt,2,550.0,0.1,DebitCard,Delivered,2024-08-13,2024-08-18,5,visayas
+ORD-0509,Alan Bautista,alan.bautista@gmail.com,Home & Living,Picture Frame,1,220.0,0.05,Credit Card,delivered,2024-01-04,2024-01-14,1,VISAYAS
+ORD-0788,Eleanor Tolentino,ELEANOR.TOLENTINO@GMAIL.COM,Beauty,Sunscreen SPF50,5,450.0,0.1,GCash,returned,2024-05-13,,3,Luzon
+ORD-0080,Mia Fernandez,mia.fernandez@gmail.com,Food & Grocery,Coffee Pack,2,85.0,0.2,GCash,Delivered,2024-11-24,2024-12-01,2,VISAYAS
+ORD-0966,Dante Cruz,dante.cruz@yahoo.com,Food & Grocery,Cooking Oil,5,120.0,0.0,Debit Card,Delivered,2024-09-16,2024-09-23,1,VISAYAS
+ORD-0791,anna bautista,anna.bautista@yahoo.com,Electronics,Phone Case,1,199.0,0.1,DebitCard,delivered,2024-09-06,2024-09-13,5,VISAYAS
+ORD-0274,eleanor ramos,ELEANOR.RAMOS@YAHOO.COM,Electronics,Bluetooth Speaker,1,3200.0,0.1,DebitCard,delivered,2024-03-14,2024-03-21,5,Luzon
+ORD-0316,LUZ MEDINA,luz.medina@gmail.com,Clothing,Socks Pack,4,150.0,0.15,Cash on Delivery,Delivered,2024-03-21,2024-03-27,5,Mindanao
+ORD-0112,Carla Fajardo,carla.fajardo@gmail.com,Electronics,Laptop Stand,3,850.0,0.1,DebitCard,DELIVERED,2024-06-13,2024-06-19,4,visayas
+ORD-0225,Jose Domingo,JOSE.DOMINGO@YAHOO.COM,Clothing,Polo Shirt,3,550.0,0.1,Credit Card,Deliverd,2024-07-01,2024-07-06,2,Mindanao
+ORD-0574,felix gutierrez,FELIX.GUTIERREZ@YAHOO.COM,Beauty,Moisturizer,4,550.0,0.1,G-Cash,delivered,2024-12-25,2024-12-29,4,luzon
+ORD-0294,Paolo Espiritu,PAOLO.ESPIRITU@GMAIL.COM,Home & Living,Bed Sheets,3,650.0,0.0,Credit Card,DELIVERED,2024-06-10,2024-06-17,3,mindanao
+ORD-0173,Alan Evangelista,alan.evangelista@gmail.com,Beauty,Face Wash,4,320.0,0.05,Debit Card,cancelled,2024-06-22,,,LUZON
+ORD-0904,Pedro Padilla,pedro.padilla@outlook.com,Electronics,Laptop Stand,4,850.0,0.0,cod,Delivered,2024-11-21,2024-11-25,3,LUZON
+ORD-0043,Marco Ramos,marco.ramos@gmail.com,Electronics,Phone Case,3,199.0,0.2,credit card,Delivered,2024-11-08,2024-11-17,5,VISAYAS
+ORD-0188,Jasmine Villafuerte,jasmine.villafuerte@outlook.com,Beauty,Moisturizer,4,550.0,0.2,gcash,delivered,2024-05-14,2024-05-18,1,MINDANAO
+ORD-0715,Jose Villafuerte,jose.villafuerte@gmail.com,Clothing,Socks Pack,1,150.0,0.0,gcash,cancelled,2024-12-14,,,Visayas
+ORD-0993,rosa villafuerte,ROSA.VILLAFUERTE@GMAIL.COM,Food & Grocery,Canned Goods,2,45.0,0.1,CreditCard,delivered,2024-03-26,2024-03-30,1,luzon
+ORD-0177,Cynthia Lim,cynthia.lim@gmail.com,Home & Living,Electric Fan,1,1500.0,,Debit Card,Returned,2024-11-27,,5,MINDANAO
+ORD-0194,ricky dizon,ricky.dizon@outlook.com,Clothing,Jacket,5,1800.0,0.1,Gcash,shipped,2024-03-08,2024-03-12,1,MINDANAO
+ORD-0579,Ana Tolentino,ana.tolentino@yahoo.com,Clothing,Jogger Pants,4,799.0,0.0,DebitCard,delivered,2024-04-03,2024-04-06,2,Luzon
+ORD-0631,Mark Manalo,mark.manalo@gmail.com,Beauty,Serum,3,780.0,0.05,cod,DELIVERED,2024-01-31,2024-02-10,2,luzon
+ORD-0635,eddie macapagal,EDDIE.MACAPAGAL@OUTLOOK.COM,Clothing,Dress,1,1200.0,0.0,Credit Card,DELIVERED,2024-06-22,2024-06-26,4,luzon
+ORD-0507,Lena Domingo,lena.domingo@outlook.com,Food & Grocery,Canned Goods,1,1700.62,0.15,Debit Card,RETURNED,2024-10-28,,3,Luzon
+ORD-0867,JASMINE EVANGELISTA,JASMINE.EVANGELISTA@OUTLOOK.COM,Beauty,Face Wash,4,320.0,0.1,Credit card,Deliverd,2024-02-02,2024-02-10,3,luzon
+ORD-0856,Nina Aquino,nina.aquino@outlook.com,Home & Living,Electric Fan,4,1500.0,0.0,cod,RETURNED,2024-04-10,,2,luzon
+ORD-0089,Melissa Tan,melissa.tan@yahoo.com,Clothing,Polo Shirt,5,550.0,0.1,credit card,delivered,2024-11-22,2024-11-28,1,VISAYAS
+ORD-0021,Alan Gutierrez,alan.gutierrez@gmail.com,Clothing,Socks Pack,3,150.0,,DebitCard,Deliverd,2024-07-31,2024-08-06,4,Luzon
+ORD-0452,Ricky Uy,ricky.uy@yahoo.com,Beauty,Sunscreen SPF50,3,450.0,0.15,Debit Card,delivered,2024-09-16,2024-09-23,3,visayas
+ORD-0564,Rosa Ramos,rosa.ramos@yahoo.com,Beauty,Lip Tint,2,199.0,0.1,Cash on Delivery,DELIVERED,2024-08-18,2024-08-25,4,Visayas
+ORD-0524,Juan Santiago,juan.santiago@gmail.com,Home & Living,Rice Cooker,1,899.0,0.0,CreditCard,delivered,2024-05-20,2024-05-27,4,visayas
+ORD-0103,Ricky Reyes,RICKY.REYES@GMAIL.COM,Food & Grocery,Canned Goods,5,45.0,0.05,DebitCard,Deliverd,2024-10-08,2024-10-16,3,VISAYAS
+ORD-0349,Eleanor Tan,eleanor.tan@outlook.com,Food & Grocery,Rice 5kg,2,250.0,0.15,Credit card,DELIVERED,2024-07-11,2024-07-15,1,MINDANAO
+ORD-0879,CYNTHIA FERNANDEZ,cynthia.fernandez@gmail.com,Home & Living,Rice Cooker,2,899.0,0.15,debit card,RETURNED,2024-10-31,,4,mindanao
+ORD-0336,Kevin Reyes,kevin.reyes@gmail.com,Food & Grocery,Canned Goods,1,45.0,0.15,GCash,Delivered,2024-09-16,2024-09-20,2,luzon
+ORD-0485,Melissa Gutierrez,melissa.gutierrez@gmail.com,Food & Grocery,Canned Goods,3,45.0,,credit card,Delivered,2024-09-12,2024-09-22,3,Mindanao
+ORD-0072,DANTE CASTILLO,DANTE.CASTILLO@YAHOO.COM,Clothing,Running Shoes,2,2500.0,0.1,debit card,delivered,2024-05-26,2024-06-03,1,visayas
+ORD-0829,Gina Bautista,gina.bautista@outlook.com,Clothing,Jacket,5,1800.0,0.1,CreditCard,DELIVERED,2024-04-26,2024-05-05,3,LUZON
+ORD-0439,Jasmine Villafuerte,jasmine.villafuerte@gmail.com,Home & Living,Rice Cooker,2,899.0,0.0,gcash,delivered,2024-11-22,2024-11-25,2,MINDANAO
+ORD-0902,Rodrigo Villafuerte,rodrigo.villafuerte@gmail.com,Clothing,Jacket,5,1800.0,0.05,debit card,DELIVERED,2024-11-21,2024-11-25,5,Visayas
+ORD-0285,Irene Flores,IRENE.FLORES@OUTLOOK.COM,Beauty,Serum,2,780.0,0.0,GCash,DELIVERED,2024-07-29,2024-08-06,3,MINDANAO
+ORD-0839,Jose Dela Rosa,jose.delarosa@outlook.com,Beauty,Serum,3,780.0,0.0,debit card,delivered,2024-11-11,2024-11-14,3,visayas
+ORD-0047,Dante Domingo,dante.domingo@gmail.com,Electronics,Bluetooth Speaker,2,3200.0,0.15,COD,Shipped,2024-05-15,2024-05-19,4,MINDANAO
+ORD-0639,Jasmine Gutierrez,JASMINE.GUTIERREZ@GMAIL.COM,Electronics,Power Bank,2,799.0,0.1,CreditCard,Deliverd,2024-01-28,2024-02-03,5,Visayas
+ORD-0185,Victor Domingo,victor.domingo@outlook.com,Home & Living,Rice Cooker,5,899.0,,DebitCard,Returned,2024-06-05,,2,mindanao
+ORD-0300,sarah padilla,sarah.padilla@yahoo.com,Food & Grocery,Instant Noodles,1,15.0,0.1,cod,cancelled,2024-10-10,,,Visayas
+ORD-0619,Irene Santos,irene.santos@gmail.com,Home & Living,Electric Fan,5,1500.0,0.0,Credit Card,DELIVERED,2024-05-14,2024-05-24,4,VISAYAS
+ORD-0258,Rachel Castillo,rachel.castillo@yahoo.com,Home & Living,Bed Sheets,2,650.0,0.05,GCash,Deliverd,2024-12-02,2024-12-11,2,mindanao
+ORD-0810,Ben Soriano,BEN.SORIANO@GMAIL.COM,Electronics,Smart Watch,1,5999.0,0.15,G-Cash,delivered,2024-05-22,2024-05-29,3,visayas
+ORD-0214,Homer Torres,homer.torres@gmail.com,Food & Grocery,Rice 5kg,3,250.0,0.1,Gcash,DELIVERED,2024-02-26,2024-03-07,5,MINDANAO
+ORD-0710,Gilbert Dela Rosa,gilbert.delarosa@outlook.com,Electronics,Power Bank,1,799.0,0.1,credit card,delivered,2024-04-10,2024-04-16,2,Visayas
+ORD-0880,Dante dela Cruz,dante.delacruz@gmail.com,Food & Grocery,Coffee Pack,1,85.0,0.1,Cash on Delivery,Shipped,2024-02-13,2024-02-17,2,mindanao
+ORD-0433,Melissa Garcia,melissa.garcia@gmail.com,Clothing,Jogger Pants,2,799.0,0.15,G-Cash,delivered,2024-02-16,2024-02-24,2,visayas
+ORD-0033,Pedro Corpus,PEDRO.CORPUS@OUTLOOK.COM,Clothing,Jacket,3,1800.0,0.2,Credit card,Canceled,2024-06-01,,,VISAYAS
+ORD-0771,Rodrigo Reyes,rodrigo.reyes@yahoo.com,Beauty,Sunscreen SPF50,5,450.0,0.0,COD,Delivered,2024-01-12,2024-01-17,5,MINDANAO
+ORD-0941,cynthia reyes,cynthia.reyes@yahoo.com,Clothing,Dress,4,1200.0,0.1,GCash,Deliverd,2024-08-31,2024-09-08,,Visayas
+ORD-0916,gilbert dizon,gilbert.dizon@outlook.com,Clothing,Socks Pack,2,150.0,0.0,Debit Card,Deliverd,2024-09-10,2024-09-15,4,MINDANAO
+ORD-0431,Sarah Santos,sarah.santos@yahoo.com,Beauty,Face Wash,1,320.0,0.15,cod,delivered,2024-12-16,2024-12-25,1,Luzon
+ORD-0489,Ben Lim,ben.lim@gmail.com,Home & Living,Air Purifier,4,8500.0,0.05,Gcash,RETURNED,2024-09-13,,3,LUZON
+ORD-0371,Jasmine Gutierrez,jasmine.gutierrez@yahoo.com,Clothing,Dress,2,1200.0,0.15,debit card,DELIVERED,2024-04-06,2024-04-15,4,VISAYAS
+ORD-0536,Victor Castillo,victor.castillo@outlook.com,Food & Grocery,Cooking Oil,4,120.0,0.1,DebitCard,shipped,2024-01-21,2024-01-27,5,visayas
+ORD-0398,Ben Pascual,ben.pascual@outlook.com,Clothing,Jacket,4,1800.0,0.05,gcash,SHIPPED,2024-07-14,2024-07-23,2,luzon
+ORD-0917,Carla Fernandez,carla.fernandez@outlook.com,Home & Living,Electric Fan,2,1500.0,0.1,COD,Shipped,2024-09-14,2024-09-22,4,luzon
+ORD-0108,Melissa Corpus,melissa.corpus@outlook.com,Beauty,Serum,3,780.0,0.0,COD,Deliverd,2024-04-28,2024-05-02,3,MINDANAO
+ORD-0482,ronald fernandez,ronald.fernandez@gmail.com,Clothing,Polo Shirt,2,550.0,0.2,debit card,Delivered,2024-10-28,2024-11-07,3,visayas
+ORD-0476,Jose Uy,jose.uy@gmail.com,Electronics,Laptop Stand,3,23411.55,0.1,Credit Card,delivered,2024-04-10,2024-04-19,5,Visayas
+ORD-0183,pedro flores,pedro.flores@outlook.com,Electronics,Wireless Earbuds,1,1299.0,0.0,CreditCard,shipped,2024-08-18,2024-08-27,4,VISAYAS
+ORD-0471,MELISSA DIZON,melissa.dizon@gmail.com,Food & Grocery,Cooking Oil,3,,0.05,Gcash,DELIVERED,2024-08-21,2024-08-26,1,visayas
+ORD-0202,Victor Macapagal,victor.macapagal@yahoo.com,Clothing,Jogger Pants,4,799.0,0.0,COD,SHIPPED,2024-04-22,2024-04-28,3,VISAYAS
+ORD-0767,Carla Evangelista,carla.evangelista@gmail.com,Home & Living,Electric Fan,5,1500.0,0.1,Cash on Delivery,Shipped,2024-09-07,2024-09-17,4,visayas
+ORD-0938,pedro santos,pedro.santos@outlook.com,Food & Grocery,Rice 5kg,1,250.0,0.1,Credit Card,Deliverd,2024-11-11,2024-11-18,1,Luzon
+ORD-0120,Tony Manalo,tony.manalo@yahoo.com,Beauty,Moisturizer,4,550.0,0.0,CreditCard,DELIVERED,2024-04-25,2024-05-02,2,MINDANAO
+ORD-0295,TINA DELA ROSA,tina.delarosa@outlook.com,Beauty,Moisturizer,3,550.0,0.05,credit card,RETURNED,2024-12-19,,5,MINDANAO
+ORD-0837,Alan Santiago,alan.santiago@yahoo.com,Electronics,Wireless Earbuds,4,1299.0,0.05,Gcash,DELIVERED,2024-01-06,2024-01-10,4,visayas
+ORD-0922,Dennis Tolentino,dennis.tolentino@gmail.com,Clothing,Polo Shirt,4,550.0,0.1,debit card,Delivered,2024-11-08,2024-11-11,1,MINDANAO
+ORD-0283,Melissa Garcia,melissa.garcia@gmail.com,Clothing,Jacket,1,1800.0,0.2,credit card,DELIVERED,2024-05-16,2024-05-25,,visayas
+ORD-0358,Christine Torres,christine.torres@gmail.com,Clothing,Polo Shirt,3,550.0,,Debit Card,DELIVERED,2024-05-06,2024-05-10,4,Visayas
+ORD-0399,Lisa Soriano,lisa.soriano@outlook.com,Food & Grocery,Rice 5kg,2,250.0,0.2,COD,Returned,2024-07-17,,4,VISAYAS
+ORD-0102,Rodrigo Magsaysay,rodrigo.magsaysay@outlook.com,Clothing,Jacket,3,1800.0,0.2,Cash on Delivery,Deliverd,2024-08-26,2024-08-30,4,Visayas
+ORD-0733,Tina Garcia,tina.garcia@gmail.com,Beauty,Lip Tint,5,199.0,0.2,DebitCard,SHIPPED,2024-05-31,2024-06-10,1,Visayas
+ORD-0205,rodrigo macapagal,rodrigo.macapagal@outlook.com,Beauty,Serum,1,780.0,0.05,G-Cash,Delivered,2024-01-07,2024-01-13,4,visayas
+ORD-0962,sarah flores,sarah.flores@outlook.com,Home & Living,Picture Frame,3,220.0,,DebitCard,DELIVERED,2024-11-25,2024-11-29,1,MINDANAO
+ORD-0141,Homer Bautista,HOMER.BAUTISTA@GMAIL.COM,Home & Living,Rice Cooker,4,899.0,0.05,Gcash,DELIVERED,2024-09-30,2024-10-03,2,visayas
+ORD-0307,Eddie Gutierrez,eddie.gutierrez@outlook.com,Electronics,Phone Case,4,199.0,0.0,Gcash,Deliverd,2024-09-14,2024-09-22,2,visayas
+ORD-0446,christine magsaysay,CHRISTINE.MAGSAYSAY@YAHOO.COM,Clothing,Dress,2,1200.0,0.0,Debit Card,Deliverd,2024-08-30,2024-09-05,1,LUZON
+ORD-0989,Jose Flores,jose.flores@yahoo.com,Electronics,Wireless Earbuds,5,1299.0,0.1,Gcash,SHIPPED,2024-09-15,2024-09-22,2,Luzon
+ORD-0096,KEVIN GARCIA,kevin.garcia@gmail.com,Beauty,Sunscreen SPF50,3,450.0,0.15,debit card,shipped,2024-02-11,2024-02-16,3,mindanao
+ORD-0730,Mark Cruz,mark.cruz@gmail.com,Clothing,Running Shoes,5,2500.0,0.15,GCash,Shipped,2024-12-16,2024-12-26,1,Mindanao
+ORD-0290,rowena corpus,rowena.corpus@yahoo.com,Home & Living,Rice Cooker,3,899.0,0.15,Gcash,Canceled,2024-08-14,,,mindanao
+ORD-0266,ALAN PASCUAL,ALAN.PASCUAL@GMAIL.COM,Food & Grocery,Coffee Pack,5,85.0,0.0,Credit card,Delivered,2024-12-22,2024-12-27,3,Mindanao
+ORD-0633,Juan Santiago,JUAN.SANTIAGO@GMAIL.COM,Beauty,Sunscreen SPF50,3,450.0,0.05,DebitCard,Deliverd,2024-06-09,2024-06-13,3,LUZON
+ORD-0812,Rosa Macapagal,rosa.macapagal@outlook.com,Clothing,Socks Pack,5,150.0,0.1,Credit card,DELIVERED,2024-08-18,2024-08-23,3,Luzon
+ORD-0960,Melissa Manalo,melissa.manalo@yahoo.com,Clothing,Jogger Pants,1,799.0,0.15,DebitCard,CANCELLED,2024-11-15,,,LUZON
+ORD-0659,EDDIE AQUINO,eddie.aquino@yahoo.com,Food & Grocery,Canned Goods,5,45.0,0.1,cod,Returned,2024-06-09,,3,Mindanao
+ORD-0013,EDDIE NAVARRO,eddie.navarro@gmail.com,Food & Grocery,Canned Goods,5,45.0,0.1,Debit Card,Deliverd,2024-06-10,2024-06-14,1,Mindanao
+ORD-0118,Victor Castillo,victor.castillo@gmail.com,Beauty,Serum,3,780.0,0.2,Cash on Delivery,DELIVERED,2024-11-10,2024-11-14,2,luzon
+ORD-0421,BEN SORIANO,ben.soriano@yahoo.com,Home & Living,Rice Cooker,3,899.0,0.15,Gcash,Delivered,2024-01-27,2024-02-04,2,VISAYAS
+ORD-0806,ARNOLD CRUZ,arnold.cruz@outlook.com,Beauty,Lip Tint,2,199.0,0.15,G-Cash,returned,2024-11-21,,2,VISAYAS
+ORD-0203,GILBERT PASCUAL,gilbert.pascual@outlook.com,Home & Living,Rice Cooker,5,899.0,0.1,COD,Deliverd,2024-04-12,2024-04-18,2,Luzon
+ORD-0908,Patricia Fajardo,patricia.fajardo@outlook.com,Home & Living,Bed Sheets,3,650.0,0.2,COD,shipped,2024-05-04,2024-05-11,4,mindanao
+ORD-0889,Sarah Padilla,sarah.padilla@gmail.com,Food & Grocery,Cooking Oil,5,120.0,0.0,G-Cash,Delivered,2024-11-18,2024-11-24,5,LUZON
+ORD-0119,Rowena Flores,rowena.flores@gmail.com,Beauty,Face Wash,4,320.0,0.05,debit card,delivered,2024-06-10,2024-06-20,,Visayas
+ORD-0211,rosa flores,rosa.flores@yahoo.com,Clothing,Socks Pack,3,150.0,0.2,GCash,DELIVERED,2024-08-31,2024-09-10,5,mindanao
+ORD-0114,Felix Flores,felix.flores@gmail.com,Food & Grocery,Cooking Oil,5,120.0,0.15,cod,RETURNED,2024-11-22,,1,LUZON
+ORD-0690,Marco Navarro,marco.navarro@gmail.com,Home & Living,Picture Frame,5,10132.4,0.1,G-Cash,DELIVERED,2024-02-29,2024-03-06,4,Visayas
+ORD-0229,Pedro Bautista,PEDRO.BAUTISTA@OUTLOOK.COM,Beauty,Moisturizer,3,550.0,0.2,COD,Deliverd,2024-11-15,2024-11-20,,Luzon
+ORD-0878,Dante Reyes,dante.reyes@outlook.com,Home & Living,Bed Sheets,3,650.0,0.05,Credit Card,Delivered,2024-01-22,2024-01-29,3,visayas
+ORD-0151,rosa flores,rosa.flores@yahoo.com,Clothing,Polo Shirt,2,550.0,0.15,CreditCard,Delivered,2024-02-14,2024-02-23,5,visayas
+ORD-0675,Dante Garcia,dante.garcia@outlook.com,Electronics,Bluetooth Speaker,5,3200.0,0.05,COD,Canceled,2024-06-20,,,mindanao
+ORD-0436,Maria Villafuerte,maria.villafuerte@outlook.com,Beauty,Serum,2,780.0,0.0,G-Cash,delivered,2024-08-28,2024-09-02,5,visayas
+ORD-0846,ben aquino,ben.aquino@yahoo.com,Clothing,Socks Pack,1,150.0,0.0,Credit Card,shipped,2024-01-25,2024-02-03,3,LUZON
+ORD-0456,Ronald Lim,RONALD.LIM@OUTLOOK.COM,Food & Grocery,Instant Noodles,1,15.0,0.0,COD,Delivered,2024-09-10,2024-09-18,2,Visayas
+ORD-0093,arnold macapagal,arnold.macapagal@outlook.com,Clothing,Running Shoes,1,2500.0,0.2,cod,DELIVERED,2024-07-07,2024-07-13,2,Visayas
+ORD-0434,Lena Magsaysay,lena.magsaysay@outlook.com,Clothing,Dress,4,1200.0,0.15,Credit card,Deliverd,2024-09-26,2024-10-02,1,Luzon
+ORD-0556,Sammy Reyes,SAMMY.REYES@YAHOO.COM,Home & Living,Picture Frame,3,220.0,0.05,Cash on Delivery,CANCELLED,2024-03-20,,,visayas
+ORD-0410,Victor Cruz,victor.cruz@yahoo.com,Home & Living,Air Purifier,3,8500.0,,Debit Card,Shipped,2024-03-04,2024-03-09,5,VISAYAS
+ORD-0356,Luz Mendoza,luz.mendoza@outlook.com,Clothing,Running Shoes,5,2500.0,0.1,CreditCard,Delivered,2024-12-20,2024-12-27,5,luzon
+ORD-0949,juan ramos,juan.ramos@gmail.com,Beauty,Face Wash,1,320.0,0.05,GCash,Delivered,2024-10-07,2024-10-16,2,MINDANAO
+ORD-0468,Tony Garcia,tony.garcia@yahoo.com,Food & Grocery,Instant Noodles,2,15.0,0.0,Debit Card,Delivered,2024-08-31,2024-09-10,3,Mindanao
+ORD-0667,Alan Torres,alan.torres@gmail.com,Food & Grocery,Coffee Pack,1,85.0,0.15,Cash on Delivery,Deliverd,2024-08-11,2024-08-21,4,visayas
+ORD-0031,Kevin Villafuerte,kevin.villafuerte@yahoo.com,Home & Living,Air Purifier,3,8500.0,0.1,credit card,Deliverd,2024-05-21,2024-05-28,1,Visayas
