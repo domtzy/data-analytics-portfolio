@@ -1,0 +1,516 @@
+order_id,order_date,customer_id,product_name,category,region,channel,quantity,unit_price,discount_pct,order_status
+ORD-1489,3/28/2025,CUST-240,Standing Desk,Furniture,Central,Partner,4,249.99,0.15,Completed
+ORD-1429,6/3/2025,CUST-272,Standing Desk,FURNITURE,South,Partner,2,,0,Completed
+ORD-1082,5/4/2025,CUST-137,Backpack,Lifestyle,South,In-Store,2,39.99,0.15,Refunded
+ORD-1120,5/26/2025,CUST-293,Backpack,Lifestyle,North,Online,3,39.99,0,Completed
+ORD-1221,4/1/2025,CUST-238,Desk Lamp,Furniture,Central,In-Store,1,22,0.15,Completed
+ORD-1147,4/18/2025,CUST-128,Standing Desk,Furniture,Central,In-Store,1,,0.15,Completed
+ORD-1032,7/23/2025,CUST-274,Wireless Mouse,Electronics,North,In-Store,2,19.99,0.15,Completed
+ORD-1385,1/31/2025,CUST-167,USB-C Cable,Electronics,West,In-Store,1,9.99,0,Refunded
+ORD-1200,5/21/2025,CUST-155,Desk Lamp,Furniture,Central,Partner,3,22,0.15,Pending
+ORD-1481,2/24/2025,CUST-192,Water Bottle,Lifestyle,Central,Partner,2,12,0.1,Completed
+ORD-1295,1/24/2025,CUST-254,Desk Lamp,FURNITURE,East,Partner,2,22,0,Cancelled
+ORD-1261,7/26/2025,CUST-252,USB-C Cable,Electronics,East,Partner,2,9.99,0.2,Completed
+ORD-1433,4/7/2025,CUST-217,Standing Desk,Furniture,South,In-Store,2,249.99,0,Pending
+ORD-1474,1/9/2025,CUST-108,Wireless Mouse,Electronics,West,Online,1,19.99,0.2,Completed
+ORD-1459,1/18/2025,CUST-216,Laptop Stand,Electronics,East,Online,2,34.99,0.15,Cancelled
+ORD-1457,2/18/2025,CUST-163,Office Chair,Furniture,Central,In-Store,1,129.99,0.1,Completed
+ORD-1355,5/21/2025,CUST-275,Ballpoint Pens (12pk),Stationery,South,Online,5,4.25,0.2,Cancelled
+ORD-1466,7/23/2025,CUST-162,Ballpoint Pens (12pk)  ,STATIONERY,North,In-Store,3,,0.2,Pending
+ORD-1115,6/20/2025,CUST-173,Yoga Mat,Lifestyle,West,Partner,1,18.75,0.15,Completed
+ORD-1403,4/3/2025,CUST-214,Yoga Mat,Lifestyle,East,In-Store,4,18.75,0.15,Completed
+ORD-1013,5/6/2025,CUST-114,USB-C Cable,Electronics,East,In-Store,1,9.99,0,Completed
+ORD-1274,4/9/2025,CUST-135,USB-C Cable,Electronics,West,In-Store,1,9.99,0,Pending
+ORD-1308,2/15/2025,CUST-137,Office Chair,Furniture,East,Online,1,129.99,0,Completed
+ORD-1485,6/26/2025,CUST-176,USB-C Cable,ELECTRONICS,North,Partner,5,9.99,0.1,Cancelled
+ORD-1336,4/9/2025,CUST-156,Backpack,Lifestyle,Central,Online,1,39.99,0,Pending
+ORD-1497,1/3/2025,CUST-268,Wireless Mouse,Electronics,East,Partner,5,19.99,0,Pending
+ORD-1132,5/27/2025,CUST-228,Wireless Mouse  ,Electronics,East,Partner,5,19.99,0,Completed
+ORD-1375,1/2/2025,CUST-249,Desk Lamp,Furniture,North,Partner,1,22,0,Completed
+ORD-1259,1/27/2025,CUST-108,Desk Lamp,Furniture,South,In-Store,2,22,0,Pending
+ORD-1268,4/20/2025,CUST-140,Desk Lamp,Furniture,South,Partner,5,,0,Completed
+ORD-1278,2/25/2025,CUST-173,Wireless Mouse,Electronics,North,In-Store,1,,0.1,Refunded
+ORD-1496,6/19/2025,CUST-172,Wireless Mouse,Electronics,East,Online,4,19.99,0,Completed
+ORD-1301,5/8/2025,CUST-122,Wireless Mouse,Electronics,Central,In-Store,2,19.99,0,Completed
+ORD-1146,2/25/2025,CUST-235,Wireless Mouse,Electronics,Central,Partner,1,,0,Refunded
+ORD-1025,4/18/2025,CUST-166,Office Chair,Furniture,Central,Partner,1,129.99,0,Completed
+ORD-1484,7/27/2025,CUST-155,Notebook Set,Stationery,Central,In-Store,2,6.5,0.1,Refunded
+ORD-1313,3/23/2025,CUST-263,Backpack,Lifestyle,North,Partner,1,39.99,0,Cancelled
+ORD-1246,4/11/2025,CUST-138,Laptop Stand  ,Electronics,Central,Partner,2,34.99,0,Refunded
+ORD-1346,2/19/2025,CUST-205,Water Bottle,LIFESTYLE,West,Partner,1,12,0,Completed
+ORD-1222,6/21/2025,CUST-261,Wireless Mouse,Electronics,North,In-Store,1,19.99,0,Completed
+ORD-1418,5/10/2025,CUST-145,Wireless Mouse,Electronics,South,Partner,2,19.99,0,Completed
+ORD-1051,6/1/2025,CUST-209,Water Bottle,Lifestyle,North,Online,1,12,0,Cancelled
+ORD-1258,1/29/2025,CUST-193,Water Bottle,Lifestyle,East,Partner,5,12,0.2,Pending
+ORD-1427,3/9/2025,CUST-285,Desk Lamp,Furniture,North,Partner,4,22,0.15,Completed
+ORD-1040,2/14/2025,CUST-100,Yoga Mat,Lifestyle,East,In-Store,4,18.75,0.15,Refunded
+ORD-1089,3/15/2025,CUST-294,Bluetooth Speaker,Electronics,North,In-Store,2,45.5,0.1,Completed
+ORD-1206,3/31/2025,CUST-132,Bluetooth Speaker,Electronics,Central,In-Store,1,45.5,0,Refunded
+ORD-1239,7/30/2025,CUST-182,Desk Lamp,Furniture,Central,Online,3,22,0.1,Completed
+ORD-1482,6/2/2025,CUST-176,Wireless Mouse,Electronics,South,In-Store,1,19.99,0,Completed
+ORD-1238,2/20/2025,CUST-201,Office Chair,Furniture,South,In-Store,5,129.99,0,Completed
+ORD-1479,2/12/2025,CUST-186,Desk Lamp,Furniture,Central,In-Store,4,22,0.15,Refunded
+ORD-1310,5/5/2025,CUST-277,Backpack,Lifestyle,South,Partner,4,39.99,0,Refunded
+ORD-1003,4/2/2025,CUST-111,Bluetooth Speaker,Electronics,Central,In-Store,1,45.5,0.1,Pending
+ORD-1179,5/12/2025,CUST-200,Laptop Stand,Electronics,Central,In-Store,5,34.99,0,Completed
+ORD-1248,7/4/2025,CUST-111,Notebook Set,Stationery,East,Online,5,6.5,0,Completed
+ORD-1292,4/11/2025,CUST-269,Bluetooth Speaker,Electronics,Central,Online,1,45.5,0,Completed
+ORD-1065,2/19/2025,CUST-103,Water Bottle,Lifestyle,East,Online,2,12,0,Completed
+ORD-1138,7/21/2025,CUST-109,USB-C Cable,Electronics,Central,Partner,1,9.99,0.15,Refunded
+ORD-1436,5/27/2025,CUST-151,Desk Lamp,Furniture,South,In-Store,3,22,0,Cancelled
+ORD-1303,2/16/2025,CUST-299,Notebook Set,Stationery,Central,Online,3,6.5,0.1,Completed
+ORD-1113,7/6/2025,CUST-165,Notebook Set,Stationery,West,In-Store,5,6.5,0.1,Cancelled
+ORD-1468,2/9/2025,CUST-159,Wireless Mouse,Electronics,North,Online,1,19.99,0.2,Completed
+ORD-1168,2/13/2025,CUST-268,Standing Desk,Furniture,Central,Online,1,249.99,0,Completed
+ORD-1101,1/30/2025,CUST-129,Backpack,LIFESTYLE,North,In-Store,2,39.99,0,Completed
+ORD-1372,7/14/2025,CUST-262,Notebook Set,Stationery,North,In-Store,5,6.5,0.15,Completed
+ORD-1213,2/6/2025,CUST-206,Office Chair,Furniture,North,Partner,2,129.99,0,Completed
+ORD-1405,6/11/2025,CUST-296,Bluetooth Speaker,Electronics,Central,Partner,1,45.5,0.15,Completed
+ORD-1340,3/12/2025,CUST-282,Desk Lamp,Furniture,East,In-Store,1,22,0,Cancelled
+ORD-1460,2/8/2025,CUST-126,Desk Lamp,Furniture,Central,Online,2,22,0.1,Completed
+ORD-1337,7/19/2025,CUST-265,Yoga Mat,Lifestyle,North,In-Store,4,18.75,0,Completed
+ORD-1451,1/27/2025,CUST-106,Bluetooth Speaker,Electronics,West,Partner,2,45.5,0,Completed
+ORD-1193,1/10/2025,CUST-291,Ballpoint Pens (12pk),Stationery,West,In-Store,1,4.25,0,Completed
+ORD-1060,5/7/2025,CUST-190,Water Bottle,Lifestyle,South,In-Store,4,12,0.15,Completed
+ORD-1416,5/1/2025,CUST-205,Office Chair,Furniture,South,Online,5,129.99,0,Pending
+ORD-1314,1/18/2025,CUST-112,Standing Desk,Furniture,North,Partner,2,249.99,0,Completed
+ORD-1118,6/29/2025,CUST-146,Standing Desk,Furniture,East,In-Store,1,249.99,0.1,Completed
+ORD-1369,4/25/2025,CUST-104,Desk Lamp,Furniture,West,Partner,1,22,0.15,Cancelled
+ORD-1425,6/18/2025,CUST-279,Backpack,Lifestyle,South,In-Store,4,39.99,0.15,Pending
+ORD-1109,2/26/2025,CUST-268,Water Bottle,Lifestyle,North,Partner,1,12,0,Pending
+ORD-1347,5/26/2025,CUST-283,Office Chair,Furniture,West,Online,3,129.99,0,Completed
+ORD-1449,3/22/2025,CUST-254,Bluetooth Speaker,Electronics,East,Partner,1,45.5,0.1,Completed
+ORD-1361,6/19/2025,CUST-259,Wireless Mouse,Electronics,East,In-Store,1,19.99,0,Completed
+ORD-1090,1/12/2025,CUST-195,USB-C Cable,Electronics,North,In-Store,2,9.99,0.1,Completed
+ORD-1155,6/4/2025,CUST-182,Bluetooth Speaker,Electronics,South,Partner,4,45.5,0,Completed
+ORD-1263,7/2/2025,CUST-225,USB-C Cable,Electronics,South,Partner,1,9.99,0.2,Completed
+ORD-1306,4/1/2025,CUST-148,Water Bottle,Lifestyle,Central,Online,1,12,0.1,Refunded
+ORD-1030,1/12/2025,CUST-141,Yoga Mat,Lifestyle,South,Partner,4,18.75,0.1,Completed
+ORD-1022,7/20/2025,CUST-242,Ballpoint Pens (12pk),Stationery,West,Partner,2,4.25,0,Cancelled
+ORD-1305,7/24/2025,CUST-251,Wireless Mouse,Electronics,South,Online,2,19.99,0,Completed
+ORD-1031,6/26/2025,CUST-194,Laptop Stand,Electronics,Central,Online,1,34.99,0,Pending
+ORD-1237,2/7/2025,CUST-176,Standing Desk  ,Furniture,West,In-Store,2,249.99,0,Completed
+ORD-1326,6/10/2025,CUST-286,Ballpoint Pens (12pk)  ,Stationery,Central,In-Store,2,4.25,0.1,Completed
+ORD-1052,4/27/2025,CUST-207,Standing Desk,Furniture,West,In-Store,4,249.99,0,Pending
+ORD-1490,5/4/2025,CUST-246,Ballpoint Pens (12pk),Stationery,West,In-Store,1,4.25,0.2,Cancelled
+ORD-1164,1/23/2025,CUST-222,Desk Lamp,Furniture,West,Partner,1,22,0.15,Cancelled
+ORD-1216,2/18/2025,CUST-222,Standing Desk,Furniture,North,Partner,1,249.99,0.2,Pending
+ORD-1162,7/27/2025,CUST-281,USB-C Cable,ELECTRONICS,East,Partner,5,9.99,0,Completed
+ORD-1365,6/23/2025,CUST-157,Standing Desk,Furniture,Central,Partner,3,,0,Refunded
+ORD-1056,6/26/2025,CUST-297,Ballpoint Pens (12pk),Stationery,South,Online,2,4.25,0,Cancelled
+ORD-1470,5/6/2025,CUST-182,Laptop Stand,Electronics,South,Partner,2,34.99,0.15,Completed
+ORD-1002,7/27/2025,CUST-187,Office Chair,Furniture,South,Partner,5,129.99,0,Completed
+ORD-1058,6/12/2025,CUST-211,Bluetooth Speaker,Electronics,West,Partner,4,45.5,0.2,Completed
+ORD-1371,7/29/2025,CUST-296,Notebook Set,Stationery,West,In-Store,3,6.5,0.2,Refunded
+ORD-1240,3/23/2025,CUST-162,Notebook Set,Stationery,West,Partner,1,6.5,0.1,Pending
+ORD-1267,7/15/2025,CUST-217,Desk Lamp,FURNITURE,North,Partner,3,22,0,Pending
+ORD-1499,5/16/2025,CUST-140,Desk Lamp,FURNITURE,West,In-Store,1,,0,Cancelled
+ORD-1074,3/11/2025,CUST-253,Backpack,LIFESTYLE,West,In-Store,2,39.99,0,Completed
+ORD-1330,3/26/2025,CUST-168,Yoga Mat  ,Lifestyle,North,Partner,4,,0,Completed
+ORD-1476,7/10/2025,CUST-281,Desk Lamp,FURNITURE,West,In-Store,1,22,0.15,Pending
+ORD-1421,3/7/2025,CUST-253,Backpack,Lifestyle,South,Online,1,39.99,0,Completed
+ORD-1277,2/3/2025,CUST-239,Wireless Mouse,Electronics,Central,In-Store,3,19.99,0,Completed
+ORD-1080,5/5/2025,CUST-140,Standing Desk  ,Furniture,Central,Online,5,249.99,0.1,Cancelled
+ORD-1242,3/16/2025,CUST-227,Backpack,Lifestyle,North,In-Store,2,39.99,0,Cancelled
+ORD-1026,6/15/2025,CUST-217,Standing Desk,Furniture,East,Online,4,249.99,0,Completed
+ORD-1202,5/14/2025,CUST-225,USB-C Cable,ELECTRONICS,South,Partner,1,9.99,0,Refunded
+ORD-1212,3/23/2025,CUST-196,Notebook Set,Stationery,West,Online,4,6.5,0,Completed
+ORD-1281,1/30/2025,CUST-270,Office Chair,Furniture,Central,Online,1,129.99,0,Completed
+ORD-1353,2/3/2025,CUST-143,Wireless Mouse,Electronics,North,Partner,2,19.99,0,Refunded
+ORD-1364,6/6/2025,CUST-128,USB-C Cable,Electronics,South,In-Store,4,9.99,0,Completed
+ORD-1145,2/5/2025,CUST-135,Yoga Mat,Lifestyle,West,Partner,3,18.75,0.15,Pending
+ORD-1420,1/12/2025,CUST-223,Ballpoint Pens (12pk),Stationery,West,Online,4,4.25,0.15,Pending
+ORD-1108,2/2/2025,CUST-116,Wireless Mouse,Electronics,Central,Online,1,19.99,0.15,Cancelled
+ORD-1050,5/5/2025,CUST-203,Desk Lamp,Furniture,East,Partner,2,22,0,Cancelled
+ORD-1435,3/9/2025,CUST-291,Laptop Stand  ,Electronics,North,In-Store,1,34.99,0,Cancelled
+ORD-1300,4/8/2025,CUST-147,Backpack,Lifestyle,South,In-Store,4,39.99,0,Completed
+ORD-1014,7/14/2025,CUST-221,Bluetooth Speaker,Electronics,South,Online,5,45.5,0.15,Cancelled
+ORD-1464,2/23/2025,CUST-261,Desk Lamp,Furniture,East,In-Store,1,22,0.15,Completed
+ORD-1390,3/14/2025,CUST-230,Ballpoint Pens (12pk)  ,Stationery,Central,In-Store,2,4.25,0.2,Refunded
+ORD-1114,1/24/2025,CUST-115,Bluetooth Speaker,Electronics,East,Online,1,45.5,0,Refunded
+ORD-1243,7/22/2025,CUST-249,Yoga Mat,Lifestyle,West,Partner,1,18.75,0.2,Completed
+ORD-1059,7/7/2025,CUST-122,Standing Desk,Furniture,East,Online,5,249.99,0.1,Pending
+ORD-1173,6/7/2025,CUST-284,Wireless Mouse,Electronics,South,In-Store,2,19.99,0.1,Refunded
+ORD-1098,4/30/2025,CUST-273,Standing Desk,Furniture,South,Online,3,249.99,0.15,Pending
+ORD-1159,6/23/2025,CUST-295,Ballpoint Pens (12pk),STATIONERY,East,In-Store,1,4.25,0,Completed
+ORD-1249,2/12/2025,CUST-241,Yoga Mat,Lifestyle,South,Partner,1,18.75,0.1,Completed
+ORD-1041,4/24/2025,CUST-288,Water Bottle,Lifestyle,Central,In-Store,3,12,0.15,Pending
+ORD-1270,1/1/2025,CUST-157,Ballpoint Pens (12pk),Stationery,North,Online,1,4.25,0,Refunded
+ORD-1204,1/12/2025,CUST-117,Backpack,Lifestyle,North,Partner,2,39.99,0,Completed
+ORD-1217,5/22/2025,CUST-236,Office Chair,Furniture,East,In-Store,4,129.99,0,Completed
+ORD-1079,5/13/2025,CUST-294,Desk Lamp,FURNITURE,West,Partner,4,22,0,Completed
+ORD-1028,5/22/2025,CUST-129,Standing Desk,Furniture,North,Online,1,249.99,0,Completed
+ORD-1344,7/5/2025,CUST-267,Desk Lamp,FURNITURE,South,Partner,1,22,0.2,Completed
+ORD-1363,1/16/2025,CUST-251,Bluetooth Speaker,Electronics,South,Online,1,45.5,0.1,Completed
+ORD-1256,4/9/2025,CUST-204,Desk Lamp,Furniture,Central,Partner,1,22,0.1,Completed
+ORD-1465,6/13/2025,CUST-270,Laptop Stand,Electronics,East,Online,1,34.99,0.2,Pending
+ORD-1057,4/20/2025,CUST-187,Water Bottle,LIFESTYLE,North,Partner,1,12,0.1,Cancelled
+ORD-1426,6/7/2025,CUST-262,Ballpoint Pens (12pk),STATIONERY,North,Online,3,4.25,0,Completed
+ORD-1062,1/5/2025,CUST-162,Desk Lamp,Furniture,South,In-Store,5,22,0.1,Cancelled
+ORD-1387,5/21/2025,CUST-147,Standing Desk,Furniture,East,Partner,5,249.99,0,Completed
+ORD-1111,6/12/2025,CUST-235,Bluetooth Speaker,Electronics,East,In-Store,1,45.5,0.1,Refunded
+ORD-1084,4/25/2025,CUST-295,Standing Desk,Furniture,East,In-Store,5,249.99,0,Refunded
+ORD-1236,4/10/2025,CUST-233,Ballpoint Pens (12pk),Stationery,Central,Online,1,4.25,0,Refunded
+ORD-1271,4/19/2025,CUST-198,Backpack,LIFESTYLE,West,Online,3,39.99,0,Completed
+ORD-1342,4/18/2025,CUST-246,Desk Lamp,Furniture,North,Partner,2,22,0.2,Cancelled
+ORD-1227,1/3/2025,CUST-211,Ballpoint Pens (12pk),Stationery,North,In-Store,5,4.25,0,Pending
+ORD-1129,7/14/2025,CUST-259,Desk Lamp,Furniture,Central,Partner,5,22,0,Cancelled
+ORD-1165,6/14/2025,CUST-188,Bluetooth Speaker,Electronics,West,Partner,1,45.5,0.15,Refunded
+ORD-1096,6/10/2025,CUST-248,Yoga Mat,Lifestyle,East,In-Store,1,18.75,0,Completed
+ORD-1488,6/22/2025,CUST-252,Backpack,Lifestyle,West,In-Store,2,39.99,0.1,Pending
+ORD-1296,4/2/2025,CUST-166,USB-C Cable,Electronics,North,Partner,1,9.99,0.1,Completed
+ORD-1479,2/12/2025,CUST-186,Desk Lamp,Furniture,Central,In-Store,4,22,0.15,Refunded
+ORD-1141,5/27/2025,CUST-197,Office Chair,Furniture,West,In-Store,3,129.99,0,Pending
+ORD-1463,2/1/2025,CUST-213,Standing Desk,Furniture,South,In-Store,4,249.99,0,Pending
+ORD-1187,5/6/2025,CUST-284,Backpack,Lifestyle,East,Partner,2,39.99,0.2,Pending
+ORD-1368,2/27/2025,CUST-160,Notebook Set,STATIONERY,West,In-Store,2,6.5,0.15,Pending
+ORD-1220,6/17/2025,CUST-225,Water Bottle,Lifestyle,East,In-Store,2,12,0.1,Pending
+ORD-1228,6/27/2025,CUST-119,Laptop Stand,Electronics,West,In-Store,1,34.99,0.15,Completed
+ORD-1322,3/9/2025,CUST-168,Notebook Set,Stationery,East,Online,1,6.5,0.2,Pending
+ORD-1395,1/19/2025,CUST-275,Backpack,Lifestyle,Central,Online,1,39.99,0.1,Completed
+ORD-1359,7/19/2025,CUST-159,Desk Lamp,Furniture,North,In-Store,1,22,0,Cancelled
+ORD-1081,1/30/2025,CUST-139,Bluetooth Speaker,Electronics,North,Partner,2,45.5,0.15,Pending
+ORD-1354,6/9/2025,CUST-267,Ballpoint Pens (12pk)  ,Stationery,North,Partner,2,4.25,0,Completed
+ORD-1321,4/12/2025,CUST-239,Desk Lamp,Furniture,East,Online,1,22,0.1,Cancelled
+,,,,,,,,,,
+ORD-1434,4/8/2025,CUST-158,Desk Lamp,Furniture,South,Partner,1,22,0,Cancelled
+ORD-1414,5/27/2025,CUST-110,Wireless Mouse,Electronics,South,Partner,2,,0,Refunded
+ORD-1188,4/12/2025,CUST-173,Laptop Stand  ,Electronics,South,In-Store,4,34.99,0.1,Completed
+ORD-1334,1/13/2025,CUST-218,Wireless Mouse,Electronics,South,In-Store,2,,0,Completed
+ORD-1053,3/31/2025,CUST-293,Backpack,LIFESTYLE,North,Partner,1,39.99,0,Completed
+ORD-1171,5/4/2025,CUST-180,Wireless Mouse,Electronics,East,Partner,1,19.99,0,Completed
+ORD-1384,5/20/2025,CUST-175,Office Chair,Furniture,South,Partner,3,129.99,0,Completed
+ORD-1139,2/16/2025,CUST-212,USB-C Cable,ELECTRONICS,Central,Online,4,9.99,0.2,Cancelled
+ORD-1273,7/4/2025,CUST-275,Yoga Mat,Lifestyle,South,In-Store,1,18.75,0,Refunded
+ORD-1284,4/3/2025,CUST-140,Bluetooth Speaker,Electronics,Central,Online,5,45.5,0.15,Completed
+ORD-1066,2/2/2025,CUST-103,Wireless Mouse,Electronics,West,Online,2,19.99,0.1,Pending
+ORD-1438,5/19/2025,CUST-180,Desk Lamp,Furniture,West,In-Store,1,22,0.15,Refunded
+ORD-1031,6/26/2025,CUST-194,Laptop Stand,Electronics,Central,Online,1,34.99,0,Pending
+ORD-1294,4/26/2025,CUST-191,Bluetooth Speaker,Electronics,West,Online,1,45.5,0,Refunded
+ORD-1232,3/11/2025,CUST-191,Ballpoint Pens (12pk),Stationery,West,In-Store,3,,0,Completed
+ORD-1099,1/4/2025,CUST-272,Notebook Set,Stationery,North,In-Store,1,6.5,0.1,Completed
+ORD-1283,1/8/2025,CUST-116,Standing Desk,Furniture,West,In-Store,1,249.99,0.2,Refunded
+ORD-1148,3/16/2025,CUST-246,Wireless Mouse,Electronics,Central,In-Store,2,19.99,0,Completed
+ORD-1015,5/19/2025,CUST-202,Water Bottle,Lifestyle,South,Partner,4,12,0.1,Completed
+ORD-1163,5/11/2025,CUST-226,USB-C Cable,ELECTRONICS,South,Online,1,9.99,0,Completed
+ORD-1289,4/15/2025,CUST-277,Office Chair,Furniture,Central,In-Store,2,129.99,0,Cancelled
+ORD-1046,6/13/2025,CUST-161,Desk Lamp  ,Furniture,Central,In-Store,2,22,0,Cancelled
+ORD-1086,1/10/2025,CUST-125,Ballpoint Pens (12pk),Stationery,Central,In-Store,1,4.25,0.15,Pending
+ORD-1037,7/21/2025,CUST-198,Bluetooth Speaker,Electronics,Central,Partner,4,45.5,0,Completed
+ORD-1422,1/31/2025,CUST-276,Wireless Mouse,Electronics,West,Partner,1,19.99,0,Completed
+ORD-1370,7/22/2025,CUST-230,Laptop Stand,Electronics,Central,Partner,1,34.99,0.1,Completed
+ORD-1424,5/23/2025,CUST-223,Office Chair,Furniture,East,Partner,4,129.99,0,Refunded
+ORD-1445,6/26/2025,CUST-261,Standing Desk,FURNITURE,South,In-Store,1,249.99,0,Completed
+ORD-1293,7/8/2025,CUST-119,Notebook Set,Stationery,West,In-Store,4,6.5,0.15,Completed
+ORD-1172,5/12/2025,CUST-131,Ballpoint Pens (12pk),Stationery,East,Online,1,4.25,0,Completed
+ORD-1073,1/19/2025,CUST-245,USB-C Cable,Electronics,East,Partner,2,9.99,0.1,Cancelled
+ORD-1280,6/12/2025,CUST-211,Laptop Stand,Electronics,North,In-Store,3,34.99,0,Cancelled
+ORD-1104,6/15/2025,CUST-131,Yoga Mat,Lifestyle,West,In-Store,3,18.75,0,Completed
+ORD-1357,7/19/2025,CUST-280,Desk Lamp,Furniture,Central,Online,2,22,0.15,Completed
+ORD-1253,6/30/2025,CUST-272,Desk Lamp,Furniture,Central,Partner,1,22,0,Completed
+ORD-1016,2/27/2025,CUST-158,Laptop Stand  ,Electronics,North,Partner,5,34.99,0.2,Refunded
+ORD-1446,7/27/2025,CUST-189,Notebook Set,Stationery,North,In-Store,3,6.5,0,Completed
+ORD-1091,1/21/2025,CUST-161,Water Bottle,Lifestyle,West,Partner,1,12,0,Cancelled
+ORD-1088,5/17/2025,CUST-294,Bluetooth Speaker,Electronics,East,Partner,3,45.5,0.15,Cancelled
+ORD-1386,2/9/2025,CUST-298,Wireless Mouse,Electronics,East,Partner,3,19.99,0.2,Completed
+ORD-1140,7/12/2025,CUST-161,Office Chair,Furniture,West,Online,5,129.99,0.1,Refunded
+ORD-1194,1/28/2025,CUST-264,Wireless Mouse,Electronics,East,In-Store,2,19.99,0,Completed
+ORD-1205,7/16/2025,CUST-214,Ballpoint Pens (12pk),Stationery,West,In-Store,1,4.25,0.1,Completed
+ORD-1102,7/10/2025,CUST-290,Ballpoint Pens (12pk),Stationery,Central,In-Store,5,4.25,0.2,Refunded
+ORD-1264,6/12/2025,CUST-291,Ballpoint Pens (12pk),Stationery,North,In-Store,4,4.25,0,Refunded
+ORD-1174,3/20/2025,CUST-217,Laptop Stand,Electronics,North,In-Store,5,34.99,0,Refunded
+ORD-1170,5/20/2025,CUST-275,Wireless Mouse,Electronics,East,In-Store,5,19.99,0.2,Completed
+ORD-1388,2/26/2025,CUST-175,Ballpoint Pens (12pk),Stationery,East,In-Store,4,4.25,0.15,Completed
+ORD-1157,7/22/2025,CUST-203,Ballpoint Pens (12pk),Stationery,North,Partner,2,4.25,0.2,Cancelled
+ORD-1070,2/23/2025,CUST-140,Wireless Mouse,Electronics,East,Partner,1,19.99,0,Completed
+ORD-1133,2/14/2025,CUST-233,Notebook Set,Stationery,West,In-Store,1,6.5,0,Refunded
+ORD-1454,4/27/2025,CUST-263,Backpack,Lifestyle,Central,In-Store,1,39.99,0,Refunded
+ORD-1249,2/12/2025,CUST-241,Yoga Mat,Lifestyle,South,Partner,1,18.75,0.1,Completed
+ORD-1378,5/22/2025,CUST-282,Standing Desk,Furniture,South,Online,3,249.99,0.2,Refunded
+ORD-1362,4/13/2025,CUST-222,Notebook Set,Stationery,East,In-Store,1,6.5,0,Cancelled
+ORD-1245,1/12/2025,CUST-210,Notebook Set,Stationery,West,In-Store,1,6.5,0,Pending
+ORD-1469,1/6/2025,CUST-164,Notebook Set,Stationery,East,Partner,5,6.5,0.1,Completed
+ORD-1431,5/24/2025,CUST-170,Bluetooth Speaker,Electronics,East,In-Store,2,45.5,0.1,Pending
+ORD-1352,2/4/2025,CUST-148,Notebook Set,Stationery,West,In-Store,4,6.5,0.1,Pending
+ORD-1244,4/3/2025,CUST-121,Ballpoint Pens (12pk),Stationery,Central,Partner,1,4.25,0.2,Cancelled
+ORD-1018,5/2/2025,CUST-268,Backpack,Lifestyle,South,Online,5,39.99,0.1,Completed
+ORD-1177,3/13/2025,CUST-130,Laptop Stand,Electronics,Central,Partner,5,34.99,0,Refunded
+ORD-1409,7/22/2025,CUST-110,Wireless Mouse,Electronics,West,In-Store,2,19.99,0.2,Completed
+ORD-1020,4/29/2025,CUST-240,USB-C Cable,ELECTRONICS,North,In-Store,4,9.99,0.15,Pending
+ORD-1055,2/11/2025,CUST-179,Water Bottle,Lifestyle,North,Partner,1,12,0.1,Completed
+ORD-1319,1/25/2025,CUST-225,Yoga Mat,Lifestyle,Central,Partner,2,18.75,0.1,Pending
+ORD-1461,2/8/2025,CUST-179,Backpack,Lifestyle,South,In-Store,1,39.99,0,Completed
+ORD-1367,2/10/2025,CUST-142,Water Bottle,LIFESTYLE,West,In-Store,1,,0,Pending
+ORD-1034,7/21/2025,CUST-220,Yoga Mat,Lifestyle,West,Online,2,18.75,0.1,Pending
+ORD-1181,7/5/2025,CUST-167,Water Bottle,Lifestyle,North,Partner,2,12,0.15,Completed
+ORD-1184,7/8/2025,CUST-243,Laptop Stand,Electronics,South,Partner,5,34.99,0.15,Completed
+ORD-1150,4/2/2025,CUST-268,Notebook Set,Stationery,East,Online,2,6.5,0.2,Cancelled
+ORD-1207,7/4/2025,CUST-158,Wireless Mouse,Electronics,Central,In-Store,2,19.99,0,Pending
+ORD-1351,5/31/2025,CUST-174,USB-C Cable,Electronics,North,Online,1,9.99,0.15,Completed
+ORD-1094,6/29/2025,CUST-244,Water Bottle,Lifestyle,West,In-Store,3,12,0,Completed
+ORD-1376,2/2/2025,CUST-229,Backpack,Lifestyle,Central,Partner,1,39.99,0.15,Completed
+ORD-1302,7/25/2025,CUST-282,Yoga Mat,Lifestyle,North,In-Store,2,18.75,0.1,Pending
+ORD-1097,2/3/2025,CUST-169,Notebook Set,Stationery,East,Partner,4,6.5,0.1,Refunded
+ORD-1235,5/12/2025,CUST-241,Ballpoint Pens (12pk),STATIONERY,North,Online,5,4.25,0,Completed
+ORD-1404,1/21/2025,CUST-167,Bluetooth Speaker,Electronics,South,Partner,1,45.5,0.2,Completed
+ORD-1441,1/26/2025,CUST-240,Wireless Mouse,Electronics,Central,In-Store,2,19.99,0.15,Completed
+ORD-1154,4/9/2025,CUST-227,Ballpoint Pens (12pk),Stationery,South,In-Store,4,4.25,0,Cancelled
+ORD-1122,3/20/2025,CUST-101,Water Bottle,Lifestyle,West,Partner,5,12,0,Completed
+ORD-1338,7/1/2025,CUST-189,Standing Desk,Furniture,West,In-Store,2,249.99,0,Pending
+ORD-1078,3/22/2025,CUST-231,Laptop Stand  ,Electronics,North,In-Store,1,34.99,0.15,Pending
+ORD-1061,5/13/2025,CUST-204,Backpack,Lifestyle,North,Online,2,39.99,0.2,Cancelled
+ORD-1475,2/26/2025,CUST-267,Desk Lamp,Furniture,North,Online,2,,0,Completed
+ORD-1125,4/14/2025,CUST-258,Yoga Mat,Lifestyle,East,Online,4,18.75,0,Pending
+ORD-1318,3/26/2025,CUST-241,Ballpoint Pens (12pk),Stationery,South,In-Store,1,4.25,0,Cancelled
+ORD-1316,1/9/2025,CUST-118,Desk Lamp,Furniture,East,In-Store,1,22,0,Completed
+ORD-1495,5/14/2025,CUST-286,Office Chair,Furniture,Central,In-Store,2,129.99,0.2,Refunded
+ORD-1430,7/19/2025,CUST-151,USB-C Cable,Electronics,West,In-Store,1,9.99,0,Refunded
+ORD-1450,2/17/2025,CUST-269,Notebook Set,Stationery,South,Partner,5,6.5,0.2,Completed
+ORD-1417,6/25/2025,CUST-117,Water Bottle,Lifestyle,West,Partner,2,12,0,Refunded
+ORD-1024,1/21/2025,CUST-272,USB-C Cable,Electronics,North,Partner,1,9.99,0.15,Completed
+ORD-1328,5/30/2025,CUST-299,USB-C Cable,Electronics,North,Online,1,9.99,0.15,Refunded
+ORD-1439,7/15/2025,CUST-292,Standing Desk  ,Furniture,East,In-Store,5,249.99,0.1,Completed
+ORD-1322,3/9/2025,CUST-168,Notebook Set,Stationery,East,Online,1,6.5,0.2,Pending
+ORD-1126,3/4/2025,CUST-201,Bluetooth Speaker,Electronics,West,Partner,4,45.5,0,Completed
+ORD-1423,3/6/2025,CUST-193,USB-C Cable,Electronics,Central,In-Store,4,9.99,0.1,Refunded
+ORD-1327,3/12/2025,CUST-250,Laptop Stand,Electronics,North,Partner,4,34.99,0.1,Refunded
+ORD-1178,2/20/2025,CUST-111,Notebook Set,STATIONERY,West,Partner,3,6.5,0.1,Completed
+ORD-1443,7/4/2025,CUST-197,Water Bottle,Lifestyle,South,Partner,2,12,0.2,Completed
+ORD-1380,4/19/2025,CUST-197,Ballpoint Pens (12pk),Stationery,Central,Online,2,4.25,0,Completed
+ORD-1223,6/8/2025,CUST-224,Office Chair,FURNITURE,Central,In-Store,5,129.99,0.1,Cancelled
+ORD-1358,5/4/2025,CUST-122,Desk Lamp,Furniture,North,Online,2,22,0.2,Cancelled
+ORD-1093,4/19/2025,CUST-198,Water Bottle,Lifestyle,West,In-Store,2,12,0.1,Completed
+ORD-1069,4/8/2025,CUST-250,Water Bottle,Lifestyle,West,In-Store,2,12,0.15,Pending
+ORD-1036,5/18/2025,CUST-145,Notebook Set,Stationery,North,Online,4,6.5,0,Completed
+ORD-1160,3/5/2025,CUST-227,Ballpoint Pens (12pk),Stationery,North,Partner,3,4.25,0,Completed
+ORD-1011,5/18/2025,CUST-211,Yoga Mat  ,Lifestyle,East,Online,1,18.75,0.2,Completed
+ORD-1144,3/2/2025,CUST-107,Wireless Mouse,Electronics,North,In-Store,4,19.99,0.2,Completed
+ORD-1360,2/14/2025,CUST-273,Desk Lamp,Furniture,East,In-Store,1,22,0,Pending
+ORD-1127,6/12/2025,CUST-189,Notebook Set,Stationery,Central,Online,1,6.5,0.2,Pending
+ORD-1447,3/14/2025,CUST-288,Water Bottle  ,Lifestyle,Central,In-Store,1,12,0.15,Pending
+ORD-1009,4/13/2025,CUST-123,Backpack,Lifestyle,South,Partner,4,39.99,0,Completed
+ORD-1381,6/24/2025,CUST-175,Standing Desk,Furniture,North,Partner,1,249.99,0,Pending
+ORD-1176,4/4/2025,CUST-149,Backpack,Lifestyle,North,Partner,3,39.99,0.1,Refunded
+ORD-1231,3/30/2025,CUST-119,Backpack,Lifestyle,West,Online,1,39.99,0.15,Pending
+ORD-1210,7/7/2025,CUST-272,Standing Desk,Furniture,Central,Partner,2,249.99,0,Pending
+ORD-1128,3/7/2025,CUST-294,USB-C Cable,Electronics,Central,Online,2,9.99,0.2,Pending
+ORD-1143,5/12/2025,CUST-215,Bluetooth Speaker,Electronics,West,Online,1,45.5,0.1,Completed
+ORD-1241,2/21/2025,CUST-296,Notebook Set,Stationery,Central,Online,1,6.5,0.1,Cancelled
+ORD-1007,7/16/2025,CUST-180,Laptop Stand  ,Electronics,South,Online,2,34.99,0.15,Pending
+ORD-1298,6/11/2025,CUST-166,Office Chair  ,Furniture,North,Partner,4,129.99,0,Refunded
+ORD-1254,2/6/2025,CUST-247,Bluetooth Speaker,Electronics,West,Partner,1,45.5,0.2,Completed
+ORD-1377,3/29/2025,CUST-205,Backpack,Lifestyle,West,Online,2,39.99,0.15,Completed
+ORD-1341,7/26/2025,CUST-181,USB-C Cable,Electronics,Central,In-Store,2,9.99,0.2,Cancelled
+ORD-1008,5/8/2025,CUST-135,Backpack,Lifestyle,West,Online,3,39.99,0,Completed
+ORD-1156,4/20/2025,CUST-110,Standing Desk,Furniture,West,In-Store,5,249.99,0.15,Completed
+ORD-1027,2/3/2025,CUST-172,Bluetooth Speaker,Electronics,North,Online,2,45.5,0.2,Completed
+ORD-1266,4/20/2025,CUST-172,Laptop Stand,Electronics,West,In-Store,4,34.99,0.15,Completed
+ORD-1064,5/18/2025,CUST-289,Office Chair,Furniture,South,Online,3,129.99,0.15,Completed
+ORD-1255,5/6/2025,CUST-215,Laptop Stand,Electronics,South,In-Store,1,34.99,0,Pending
+ORD-1324,3/2/2025,CUST-282,Ballpoint Pens (12pk),STATIONERY,North,In-Store,5,4.25,0.15,Pending
+ORD-1153,6/15/2025,CUST-267,Desk Lamp,Furniture,East,Online,2,,0,Pending
+ORD-1048,4/17/2025,CUST-249,Ballpoint Pens (12pk)  ,Stationery,West,In-Store,3,4.25,0.15,Pending
+ORD-1208,6/19/2025,CUST-117,Office Chair  ,Furniture,North,Online,1,,0.15,Completed
+ORD-1287,5/13/2025,CUST-172,Wireless Mouse,Electronics,West,Online,1,19.99,0,Completed
+ORD-1001,2/25/2025,CUST-150,Ballpoint Pens (12pk),Stationery,Central,Online,1,,0.1,Refunded
+ORD-1269,4/6/2025,CUST-260,Yoga Mat,Lifestyle,South,Online,3,18.75,0,Completed
+ORD-1265,1/1/2025,CUST-262,Desk Lamp,Furniture,North,Partner,5,22,0,Completed
+ORD-1333,7/1/2025,CUST-107,Laptop Stand,Electronics,South,Partner,1,34.99,0,Refunded
+ORD-1340,3/12/2025,CUST-282,Desk Lamp,Furniture,East,In-Store,1,22,0,Cancelled
+ORD-1095,3/15/2025,CUST-190,Water Bottle,Lifestyle,South,Partner,5,12,0,Pending
+ORD-1472,6/8/2025,CUST-284,Backpack,LIFESTYLE,Central,Online,1,39.99,0.1,Completed
+ORD-1304,3/1/2025,CUST-161,Laptop Stand,Electronics,North,Online,3,34.99,0.2,Cancelled
+ORD-1090,1/12/2025,CUST-195,USB-C Cable,Electronics,North,In-Store,2,9.99,0.1,Completed
+ORD-1116,5/4/2025,CUST-242,Laptop Stand,Electronics,North,In-Store,2,34.99,0.15,Pending
+ORD-1045,4/24/2025,CUST-240,Laptop Stand,Electronics,Central,In-Store,3,34.99,0.1,Pending
+ORD-1161,2/24/2025,CUST-151,Standing Desk,Furniture,East,Partner,2,249.99,0.1,Completed
+ORD-1498,4/8/2025,CUST-252,Yoga Mat,Lifestyle,North,In-Store,4,18.75,0.15,Completed
+ORD-1117,7/16/2025,CUST-242,Office Chair,FURNITURE,Central,Partner,4,129.99,0.2,Cancelled
+ORD-1288,2/21/2025,CUST-162,Laptop Stand,Electronics,East,Partner,5,,0.1,Refunded
+ORD-1077,6/21/2025,CUST-277,Notebook Set,Stationery,South,In-Store,4,6.5,0.1,Completed
+ORD-1401,6/8/2025,CUST-215,Yoga Mat,Lifestyle,South,In-Store,2,18.75,0.2,Completed
+ORD-1063,7/10/2025,CUST-169,Laptop Stand,Electronics,East,Partner,3,34.99,0.2,Completed
+ORD-1458,4/19/2025,CUST-277,Ballpoint Pens (12pk),Stationery,Central,Partner,2,4.25,0.2,Pending
+ORD-1396,1/8/2025,CUST-291,Ballpoint Pens (12pk),Stationery,Central,Online,4,4.25,0.15,Completed
+ORD-1230,5/26/2025,CUST-184,Standing Desk,Furniture,West,Partner,1,249.99,0.2,Refunded
+ORD-1297,1/27/2025,CUST-115,Desk Lamp,Furniture,South,Online,2,22,0,Completed
+ORD-1186,2/19/2025,CUST-157,Backpack,Lifestyle,East,Partner,2,39.99,0,Completed
+,,,,,,,,,,
+ORD-1199,6/13/2025,CUST-156,Backpack,Lifestyle,East,In-Store,2,39.99,0,Refunded
+ORD-1350,5/16/2025,CUST-163,Wireless Mouse,Electronics,North,Partner,3,19.99,0,Cancelled
+ORD-1121,4/24/2025,CUST-188,Desk Lamp,Furniture,South,Partner,4,22,0.2,Completed
+ORD-1478,2/15/2025,CUST-127,Laptop Stand,Electronics,Central,In-Store,2,34.99,0.2,Cancelled
+ORD-1442,4/19/2025,CUST-202,Notebook Set,Stationery,East,In-Store,3,6.5,0,Pending
+ORD-1307,1/10/2025,CUST-105,Laptop Stand  ,Electronics,South,Partner,2,34.99,0.15,Completed
+ORD-1471,2/9/2025,CUST-216,Laptop Stand,ELECTRONICS,East,Partner,1,34.99,0.1,Completed
+ORD-1158,6/5/2025,CUST-117,USB-C Cable,Electronics,West,Online,1,9.99,0,Completed
+ORD-1085,3/1/2025,CUST-290,Office Chair,Furniture,West,Online,2,129.99,0.1,Completed
+ORD-1225,3/3/2025,CUST-190,Bluetooth Speaker,Electronics,Central,In-Store,1,45.5,0,Pending
+ORD-1262,5/12/2025,CUST-205,Standing Desk,Furniture,North,Online,2,249.99,0.2,Pending
+ORD-1331,6/28/2025,CUST-290,Standing Desk,Furniture,South,Online,2,249.99,0,Completed
+ORD-1410,3/9/2025,CUST-267,Laptop Stand,Electronics,Central,Online,2,34.99,0,Completed
+ORD-1076,4/24/2025,CUST-262,USB-C Cable,Electronics,South,Partner,5,9.99,0.1,Completed
+ORD-1397,7/23/2025,CUST-242,Standing Desk  ,Furniture,East,Online,1,249.99,0.15,Refunded
+ORD-1382,6/22/2025,CUST-243,Desk Lamp,Furniture,South,Partner,1,22,0.2,Cancelled
+ORD-1087,4/15/2025,CUST-167,Desk Lamp,Furniture,South,Online,1,22,0.2,Completed
+,,,,,,,,,,
+ORD-1182,5/30/2025,CUST-258,Water Bottle,Lifestyle,Central,Partner,2,12,0.2,Cancelled
+ORD-1105,6/2/2025,CUST-132,Yoga Mat,Lifestyle,North,In-Store,2,18.75,0.15,Completed
+ORD-1408,5/4/2025,CUST-224,Water Bottle,Lifestyle,North,Online,1,12,0,Pending
+ORD-1049,4/1/2025,CUST-291,Ballpoint Pens (12pk),Stationery,West,In-Store,5,,0,Refunded
+ORD-1389,3/30/2025,CUST-110,Desk Lamp,Furniture,Central,Partner,1,22,0,Completed
+ORD-1005,4/8/2025,CUST-190,Bluetooth Speaker,Electronics,East,Online,2,45.5,0.2,Completed
+ORD-1017,1/9/2025,CUST-171,Yoga Mat,Lifestyle,North,Partner,1,18.75,0,Completed
+ORD-1234,1/28/2025,CUST-294,USB-C Cable,Electronics,East,In-Store,4,9.99,0,Completed
+ORD-1412,5/12/2025,CUST-140,Desk Lamp,Furniture,South,Online,1,22,0,Completed
+ORD-1406,2/8/2025,CUST-174,Standing Desk,Furniture,South,Partner,5,249.99,0,Cancelled
+ORD-1106,3/1/2025,CUST-170,Office Chair,Furniture,South,Partner,2,129.99,0,Completed
+ORD-1134,6/23/2025,CUST-124,Ballpoint Pens (12pk),Stationery,East,Online,4,4.25,0,Completed
+ORD-1413,3/26/2025,CUST-222,Yoga Mat,Lifestyle,West,Partner,2,18.75,0.1,Completed
+ORD-1226,6/28/2025,CUST-266,Ballpoint Pens (12pk),Stationery,North,Partner,5,4.25,0.1,Pending
+ORD-1214,1/21/2025,CUST-285,Standing Desk  ,Furniture,East,Online,2,249.99,0.1,Refunded
+ORD-1190,6/21/2025,CUST-113,Water Bottle,Lifestyle,South,Partner,2,12,0.1,Completed
+ORD-1452,1/22/2025,CUST-163,Bluetooth Speaker,Electronics,West,In-Store,2,45.5,0,Completed
+ORD-1320,6/10/2025,CUST-152,Bluetooth Speaker,Electronics,South,Online,2,45.5,0,Completed
+ORD-1282,2/11/2025,CUST-284,Wireless Mouse,Electronics,East,Partner,1,19.99,0.2,Refunded
+ORD-1029,7/3/2025,CUST-164,Standing Desk,Furniture,East,Partner,2,249.99,0,Completed
+ORD-1169,1/8/2025,CUST-153,Water Bottle,Lifestyle,Central,In-Store,1,12,0.2,Cancelled
+ORD-1180,5/11/2025,CUST-104,Water Bottle,Lifestyle,Central,In-Store,3,12,0.1,Completed
+ORD-1100,3/1/2025,CUST-256,Yoga Mat  ,Lifestyle,Central,Partner,3,18.75,0.1,Completed
+ORD-1197,5/3/2025,CUST-198,Bluetooth Speaker,Electronics,South,Online,1,45.5,0,Completed
+ORD-1209,1/12/2025,CUST-293,Yoga Mat  ,Lifestyle,South,Partner,1,18.75,0.15,Completed
+ORD-1135,5/30/2025,CUST-278,Backpack,Lifestyle,East,In-Store,1,39.99,0.2,Cancelled
+ORD-1483,5/11/2025,CUST-109,Wireless Mouse,Electronics,Central,Online,2,19.99,0,Completed
+ORD-1440,4/11/2025,CUST-278,Desk Lamp,Furniture,South,In-Store,1,22,0,Completed
+ORD-1198,4/3/2025,CUST-219,Standing Desk,Furniture,North,Partner,1,249.99,0.15,Completed
+ORD-1373,2/12/2025,CUST-256,Notebook Set,Stationery,West,Online,1,,0.1,Completed
+ORD-1166,2/3/2025,CUST-139,Yoga Mat,Lifestyle,North,Online,1,18.75,0.2,Refunded
+ORD-1394,4/21/2025,CUST-236,Ballpoint Pens (12pk),STATIONERY,West,Partner,5,4.25,0,Completed
+ORD-1136,6/14/2025,CUST-289,Bluetooth Speaker,Electronics,South,Partner,2,45.5,0,Cancelled
+ORD-1285,5/11/2025,CUST-220,Yoga Mat,Lifestyle,North,Online,1,18.75,0,Completed
+ORD-1335,5/6/2025,CUST-241,Yoga Mat,Lifestyle,South,In-Store,1,18.75,0,Refunded
+ORD-1131,3/15/2025,CUST-229,Wireless Mouse,Electronics,North,Partner,1,19.99,0.2,Refunded
+ORD-1039,3/18/2025,CUST-278,Notebook Set,Stationery,West,In-Store,1,6.5,0.1,Completed
+ORD-1215,2/18/2025,CUST-243,Yoga Mat,Lifestyle,Central,Partner,1,18.75,0,Cancelled
+ORD-1043,6/11/2025,CUST-162,Water Bottle,Lifestyle,West,In-Store,1,12,0,Completed
+ORD-1054,5/2/2025,CUST-279,Water Bottle,Lifestyle,Central,Online,1,12,0.15,Completed
+ORD-1487,6/11/2025,CUST-181,Water Bottle,Lifestyle,East,Partner,1,12,0.15,Completed
+ORD-1299,1/24/2025,CUST-218,Office Chair,FURNITURE,East,Online,5,129.99,0.1,Completed
+ORD-1467,1/23/2025,CUST-258,Desk Lamp,Furniture,West,Online,1,22,0.2,Cancelled
+ORD-1304,3/1/2025,CUST-161,Laptop Stand,Electronics,North,Online,3,34.99,0.2,Cancelled
+ORD-1035,2/28/2025,CUST-171,Notebook Set,Stationery,South,In-Store,2,6.5,0,Completed
+ORD-1315,3/31/2025,CUST-247,Ballpoint Pens (12pk),Stationery,North,In-Store,5,4.25,0,Pending
+ORD-1399,2/16/2025,CUST-292,Office Chair,Furniture,Central,Online,2,129.99,0.1,Pending
+ORD-1309,4/6/2025,CUST-186,Laptop Stand,Electronics,West,Partner,3,34.99,0,Completed
+ORD-1276,7/23/2025,CUST-161,Yoga Mat,Lifestyle,West,In-Store,1,18.75,0.15,Completed
+ORD-1124,7/9/2025,CUST-180,Yoga Mat,Lifestyle,North,In-Store,3,18.75,0.2,Completed
+ORD-1142,1/14/2025,CUST-282,Office Chair,Furniture,East,Partner,1,129.99,0,Completed
+ORD-1110,4/20/2025,CUST-118,Wireless Mouse,Electronics,West,Partner,5,19.99,0,Completed
+ORD-1323,3/30/2025,CUST-241,Yoga Mat,LIFESTYLE,West,Partner,1,18.75,0.15,Completed
+ORD-1332,1/23/2025,CUST-224,Backpack,Lifestyle,South,In-Store,4,39.99,0,Cancelled
+ORD-1393,1/19/2025,CUST-247,Backpack,Lifestyle,East,Partner,3,,0.1,Completed
+ORD-1473,2/9/2025,CUST-182,Office Chair,Furniture,East,In-Store,5,129.99,0,Cancelled
+ORD-1107,1/29/2025,CUST-191,Laptop Stand,Electronics,North,Online,2,34.99,0,Completed
+ORD-1455,4/24/2025,CUST-177,Desk Lamp,FURNITURE,West,In-Store,2,22,0,Completed
+ORD-1012,7/15/2025,CUST-263,Backpack,Lifestyle,North,Partner,2,39.99,0,Completed
+ORD-1272,2/5/2025,CUST-136,Notebook Set,STATIONERY,South,Partner,3,6.5,0.15,Cancelled
+ORD-1047,5/19/2025,CUST-277,Office Chair,Furniture,South,Online,2,129.99,0.1,Completed
+ORD-1203,4/27/2025,CUST-178,Desk Lamp,Furniture,Central,In-Store,1,22,0,Cancelled
+ORD-1477,1/20/2025,CUST-285,Wireless Mouse,Electronics,Central,Online,1,19.99,0,Completed
+ORD-1119,1/8/2025,CUST-207,Bluetooth Speaker,Electronics,Central,Online,1,45.5,0,Completed
+ORD-1021,3/2/2025,CUST-202,Wireless Mouse,Electronics,West,In-Store,1,19.99,0,Completed
+ORD-1402,4/4/2025,CUST-180,Water Bottle,Lifestyle,West,Online,1,12,0.2,Completed
+ORD-1083,3/12/2025,CUST-229,Backpack  ,Lifestyle,West,In-Store,1,39.99,0.2,Pending
+ORD-1130,4/24/2025,CUST-190,USB-C Cable,Electronics,East,Partner,5,9.99,0.1,Completed
+ORD-1456,1/3/2025,CUST-102,Notebook Set,Stationery,West,In-Store,2,6.5,0.15,Completed
+ORD-1493,7/29/2025,CUST-286,USB-C Cable,Electronics,East,Online,5,,0,Pending
+ORD-1329,6/17/2025,CUST-144,Notebook Set,Stationery,Central,In-Store,4,6.5,0.15,Completed
+ORD-1229,3/22/2025,CUST-292,Water Bottle,Lifestyle,South,Partner,1,12,0,Completed
+ORD-1310,5/5/2025,CUST-277,Backpack,Lifestyle,South,Partner,4,39.99,0,Refunded
+ORD-1286,3/5/2025,CUST-119,Wireless Mouse,Electronics,East,In-Store,4,19.99,0.2,Pending
+ORD-1123,1/2/2025,CUST-197,Standing Desk,Furniture,West,Online,2,249.99,0.15,Completed
+ORD-1033,3/2/2025,CUST-145,Ballpoint Pens (12pk),Stationery,South,In-Store,1,4.25,0.1,Completed
+ORD-1485,6/26/2025,CUST-176,USB-C Cable,ELECTRONICS,North,Partner,5,9.99,0.1,Cancelled
+ORD-1004,6/8/2025,CUST-280,Bluetooth Speaker,ELECTRONICS,East,Partner,2,45.5,0,Completed
+ORD-1411,2/27/2025,CUST-223,Laptop Stand  ,Electronics,East,In-Store,2,34.99,0,Completed
+ORD-1019,6/15/2025,CUST-127,Backpack,Lifestyle,West,Partner,1,39.99,0.1,Completed
+ORD-1219,5/22/2025,CUST-175,Backpack,Lifestyle,Central,Partner,1,,0.1,Completed
+ORD-1379,6/27/2025,CUST-222,USB-C Cable,Electronics,North,In-Store,1,9.99,0.2,Refunded
+ORD-1168,2/13/2025,CUST-268,Standing Desk,Furniture,Central,Online,1,249.99,0,Completed
+ORD-1419,6/18/2025,CUST-100,Laptop Stand,Electronics,Central,Partner,1,34.99,0.2,Pending
+ORD-1356,6/29/2025,CUST-258,Bluetooth Speaker,Electronics,North,Partner,2,45.5,0,Cancelled
+ORD-1149,5/15/2025,CUST-199,Laptop Stand  ,Electronics,Central,Partner,3,34.99,0.1,Completed
+ORD-1224,3/12/2025,CUST-278,Wireless Mouse,Electronics,East,Online,1,19.99,0,Refunded
+ORD-1247,1/22/2025,CUST-187,Standing Desk,Furniture,South,In-Store,4,249.99,0.1,Completed
+ORD-1453,6/19/2025,CUST-238,USB-C Cable,Electronics,East,In-Store,1,,0,Completed
+ORD-1151,5/20/2025,CUST-278,Notebook Set,Stationery,South,Partner,1,,0,Completed
+ORD-1492,6/2/2025,CUST-257,Notebook Set,Stationery,East,Online,2,6.5,0.15,Completed
+ORD-1317,1/24/2025,CUST-107,Backpack,Lifestyle,Central,In-Store,1,39.99,0.15,Cancelled
+ORD-1291,3/1/2025,CUST-195,Backpack,Lifestyle,Central,In-Store,2,39.99,0.15,Cancelled
+ORD-1233,6/8/2025,CUST-121,Yoga Mat,Lifestyle,South,Partner,4,18.75,0.2,Completed
+ORD-1010,4/19/2025,CUST-219,Yoga Mat,Lifestyle,West,In-Store,1,18.75,0,Refunded
+ORD-1279,5/18/2025,CUST-179,Ballpoint Pens (12pk),STATIONERY,South,In-Store,4,4.25,0,Completed
+ORD-1071,6/2/2025,CUST-280,Wireless Mouse,Electronics,North,Online,4,19.99,0,Completed
+ORD-1252,5/6/2025,CUST-256,Bluetooth Speaker,Electronics,East,Partner,2,45.5,0,Completed
+ORD-1092,6/20/2025,CUST-239,Desk Lamp,Furniture,West,In-Store,2,22,0,Cancelled
+ORD-1491,3/10/2025,CUST-122,Laptop Stand,Electronics,East,Partner,2,34.99,0,Refunded
+ORD-1349,6/12/2025,CUST-101,Bluetooth Speaker,ELECTRONICS,West,In-Store,1,45.5,0,Completed
+ORD-1415,4/14/2025,CUST-284,Standing Desk,Furniture,Central,Partner,1,249.99,0,Completed
+ORD-1374,2/18/2025,CUST-262,Office Chair,Furniture,North,In-Store,5,129.99,0.1,Completed
+ORD-1400,1/18/2025,CUST-224,Yoga Mat,Lifestyle,South,Partner,1,18.75,0.2,Refunded
+ORD-1192,7/16/2025,CUST-289,Notebook Set,Stationery,Central,Online,2,6.5,0,Refunded
+ORD-1257,1/8/2025,CUST-170,Desk Lamp,Furniture,South,In-Store,1,22,0.1,Completed
+ORD-1494,7/29/2025,CUST-128,Office Chair,Furniture,East,Partner,1,129.99,0,Pending
+ORD-1339,1/2/2025,CUST-252,Yoga Mat,Lifestyle,East,Partner,4,18.75,0,Cancelled
+ORD-1067,3/6/2025,CUST-116,Notebook Set  ,Stationery,West,Online,1,6.5,0.2,Pending
+ORD-1195,7/27/2025,CUST-265,Laptop Stand,Electronics,South,Partner,5,34.99,0.2,Completed
+ORD-1343,6/21/2025,CUST-268,Office Chair,Furniture,East,Online,5,129.99,0,Pending
+ORD-1137,1/5/2025,CUST-296,Yoga Mat,Lifestyle,South,Online,4,18.75,0,Completed
+ORD-1260,3/2/2025,CUST-281,Desk Lamp,Furniture,Central,Partner,1,22,0.15,Completed
+ORD-1038,7/26/2025,CUST-117,Backpack,Lifestyle,South,In-Store,4,,0.15,Completed
+ORD-1462,7/12/2025,CUST-200,Desk Lamp,FURNITURE,North,In-Store,1,22,0,Pending
+ORD-1201,4/3/2025,CUST-240,Bluetooth Speaker,Electronics,Central,Online,5,45.5,0.15,Completed
+ORD-1480,5/21/2025,CUST-295,Desk Lamp,Furniture,East,In-Store,3,22,0,Completed
+ORD-1290,7/6/2025,CUST-207,Yoga Mat  ,Lifestyle,South,Partner,4,18.75,0,Completed
+ORD-1448,2/7/2025,CUST-256,Standing Desk,Furniture,East,In-Store,5,249.99,0,Cancelled
+ORD-1189,2/24/2025,CUST-278,Yoga Mat,Lifestyle,Central,In-Store,2,18.75,0.2,Refunded
+ORD-1251,2/24/2025,CUST-237,Ballpoint Pens (12pk),Stationery,North,Partner,4,,0.1,Completed
+ORD-1112,6/16/2025,CUST-155,Bluetooth Speaker,Electronics,Central,Partner,1,45.5,0.1,Pending
+ORD-1437,3/5/2025,CUST-127,Office Chair  ,Furniture,East,Online,2,129.99,0.2,Pending
+ORD-1183,6/29/2025,CUST-207,Office Chair,Furniture,North,In-Store,1,129.99,0.1,Completed
+ORD-1152,2/21/2025,CUST-179,Bluetooth Speaker,Electronics,South,Online,5,,0.15,Completed
+ORD-1312,3/23/2025,CUST-244,Water Bottle,Lifestyle,Central,Online,1,12,0,Cancelled
+ORD-1325,7/13/2025,CUST-149,Water Bottle,Lifestyle,South,Online,1,12,0.2,Pending
+ORD-1191,5/21/2025,CUST-221,Bluetooth Speaker,Electronics,South,In-Store,1,,0,Cancelled
+ORD-1044,6/28/2025,CUST-131,Ballpoint Pens (12pk),Stationery,North,Partner,2,4.25,0.2,Completed
+ORD-1444,2/15/2025,CUST-236,USB-C Cable,Electronics,South,Partner,5,9.99,0,Refunded
+ORD-1275,6/26/2025,CUST-255,Laptop Stand,Electronics,East,Online,2,34.99,0,Refunded
+ORD-1006,2/13/2025,CUST-197,Yoga Mat,Lifestyle,South,Online,1,18.75,0.2,Completed
+ORD-1250,2/17/2025,CUST-288,Office Chair,Furniture,West,In-Store,4,129.99,0.15,Completed
+ORD-1311,7/7/2025,CUST-100,Office Chair,Furniture,South,Online,1,129.99,0.1,Cancelled
+ORD-1075,2/28/2025,CUST-295,Water Bottle,Lifestyle,Central,Partner,2,,0,Completed
+ORD-1000,3/12/2025,CUST-273,Yoga Mat,Lifestyle,South,Partner,1,,0.15,Completed
+ORD-1428,6/2/2025,CUST-212,Yoga Mat,LIFESTYLE,South,Partner,2,18.75,0.15,Completed
+ORD-1391,1/25/2025,CUST-260,Office Chair,FURNITURE,Central,Partner,3,129.99,0,Completed
+ORD-1383,4/10/2025,CUST-103,Standing Desk,Furniture,East,Partner,1,249.99,0.1,Completed
+ORD-1432,4/15/2025,CUST-175,Ballpoint Pens (12pk),Stationery,Central,Online,1,4.25,0.15,Refunded
+ORD-1068,7/27/2025,CUST-130,Yoga Mat,Lifestyle,East,Online,1,18.75,0.15,Completed
+ORD-1486,3/27/2025,CUST-130,Bluetooth Speaker,Electronics,West,In-Store,1,45.5,0.2,Pending
+ORD-1167,5/13/2025,CUST-262,Office Chair,Furniture,North,In-Store,3,129.99,0.2,Completed
+ORD-1392,2/22/2025,CUST-118,Yoga Mat,Lifestyle,West,Partner,4,18.75,0.1,Pending
+ORD-1218,7/25/2025,CUST-194,Laptop Stand  ,Electronics,West,In-Store,5,34.99,0,Completed
+ORD-1042,7/12/2025,CUST-150,Yoga Mat  ,Lifestyle,East,Online,3,18.75,0.1,Pending
+ORD-1366,7/6/2025,CUST-264,Laptop Stand,Electronics,East,Partner,1,34.99,0.15,Cancelled
+ORD-1345,3/26/2025,CUST-130,Standing Desk,Furniture,Central,In-Store,4,249.99,0.15,Completed
+ORD-1072,7/21/2025,CUST-150,Yoga Mat,Lifestyle,Central,Partner,2,18.75,0.2,Pending
+ORD-1023,5/29/2025,CUST-114,Standing Desk,FURNITURE,North,Partner,2,249.99,0.15,Completed
+ORD-1398,1/22/2025,CUST-265,Water Bottle,Lifestyle,East,Online,4,12,0,Completed
+ORD-1185,4/28/2025,CUST-273,Ballpoint Pens (12pk),Stationery,East,Partner,3,4.25,0.2,Completed
+ORD-1348,1/15/2025,CUST-298,Yoga Mat,Lifestyle,East,Online,1,18.75,0.1,Pending
+ORD-1103,3/13/2025,CUST-213,Bluetooth Speaker,Electronics,East,Online,5,45.5,0,Completed
+ORD-1407,6/19/2025,CUST-293,Ballpoint Pens (12pk),Stationery,Central,Partner,3,4.25,0,Completed
+ORD-1211,3/12/2025,CUST-260,Yoga Mat,Lifestyle,Central,Partner,2,18.75,0,Completed
+ORD-1067,3/6/2025,CUST-116,Notebook Set  ,Stationery,West,Online,1,6.5,0.2,Pending
+ORD-1047,5/19/2025,CUST-277,Office Chair,Furniture,South,Online,2,129.99,0.1,Completed
+ORD-1196,7/13/2025,CUST-209,Notebook Set,Stationery,Central,Partner,2,6.5,0.2,Completed
+ORD-1175,6/2/2025,CUST-102,Wireless Mouse,Electronics,West,In-Store,1,19.99,0,Refunded
