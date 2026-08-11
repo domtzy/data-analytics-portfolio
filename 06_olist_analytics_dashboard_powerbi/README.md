@@ -53,7 +53,7 @@ Nine CSVs, loaded individually via Get Data → Text/CSV, organized into Power Q
 
 Star schema: 4 fact tables, 5 dimension tables, 1 Calendar table.
 
-![Data model diagram](images/data_modeling.png)
+![Data model diagram](images/data-modeling.png)
 
 **Notable relationship decisions:**
 - Customers → Geolocation kept active; Sellers → Geolocation set inactive (ambiguous path otherwise), activated via `USERELATIONSHIP()` when needed.
