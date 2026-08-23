@@ -2,23 +2,19 @@
 
 A Power BI project built on the real Olist Brazilian e-commerce dataset — from nine raw CSVs to a working data model and a four-page interactive dashboard.
 
-![Dashboard Overview](images/overview.png)
+![Dashboard Overview](./images/overview.png)
 
-📁 **[Download the .pbix file](https://drive.google.com/file/d/1X94o5F5H_EYCXwcdtVMtHVfJEPCGzg13/view?usp=sharing)** — too large for GitHub, hosted externally.
-
----
+📁 [Download the .pbix file](#) — 
 
 ## Project Overview
 
-Olist, a Brazilian multi-category e-commerce marketplace. 
+Olist, a Brazilian multi-category e-commerce marketplace.
 
 **KPIs covered:** Revenue and order volume, delivery performance (on-time vs. late), review scores, seller performance, payment behavior, freight cost, repeat purchase rate.
 
 **Known limitations of the dataset:**
 - No "Returns" concept — Olist doesn't track product returns.
 - No product cost/COGS — only revenue and freight can be calculated, not true profit.
-
----
 
 ## 1. Source Data
 
@@ -36,8 +32,6 @@ Nine CSVs, loaded individually via Get Data → Text/CSV, organized into Power Q
 | Geolocation | Dimension | Aggregated to 1 row per zip prefix |
 | ProductCategory | Lookup | Portuguese → English category translation |
 
----
-
 ## 2. Data Cleaning
 
 - **Orders:** null delivery dates left intentionally blank — they indicate the order was never delivered, which is signal, not dirty data.
@@ -47,28 +41,20 @@ Nine CSVs, loaded individually via Get Data → Text/CSV, organized into Power Q
 - **OrderReviews:** duplicate `review_id`s found and removed.
 - **OrderPayments:** verified no null/zero installment values.
 
----
-
 ## 3. Data Model
 
 Star schema: 4 fact tables, 5 dimension tables, 1 Calendar table.
 
-![Data model diagram](images/data-modeling.png)
+![Data Model Diagram](./images/data-modeling.png)
 
 **Notable relationship decisions:**
 - Customers → Geolocation kept active; Sellers → Geolocation set inactive (ambiguous path otherwise), activated via `USERELATIONSHIP()` when needed.
 - OrderItems → Orders relationship set to bidirectional filtering, required for category-level filters to reach Orders and OrderReviews correctly.
-
-**Calendar table:** built by anchoring to a clean `DATEVALUE()` column in Orders (`order_purchase_timestamp` was a full datetime, which didn't match a date-only Calendar table on relationship). Marked as the official Date Table.
-
----
+- Calendar table: built by anchoring to a clean `DATEVALUE()` column in Orders (`order_purchase_timestamp` was a full datetime, which didn't match a date-only Calendar table on relationship). Marked as the official Date Table.
 
 ## 4. DAX Measures
 
-![Measures list](images/measures1.png)
-![Measures list](images/measures2.png)
-
-22 measures total, organized into three display folders.
+25+ measures organized into three display folders (Sales, Logistics, Customer), plus a nested **MoM Comparisons** sub-folder under each for month-over-month trend indicators.
 
 ### Customer
 ```dax
@@ -161,35 +147,196 @@ DIVIDE(
 - On-Time Delivery Rate: 95%
 - Avg Review Score: 4.09
 
----
+## 5. Trend Indicators (Month-over-Month)
 
-## 5. Report Pages
+Every headline KPI card carries a color-coded MoM trend label (▲ green / ▼ red), computed and colored entirely in DAX — no visual-level conditional formatting rules. Each indicator follows a consistent 3-measure pattern: a prior-month reference measure, a label measure (arrow + formatted % or pts), and a color measure (hex string bound via Field Value formatting).
+
+**Pattern:** every KPI gets 3 measures — a prior-month reference, a label (arrow + formatted value), and a color (hex string via Field Value formatting).
+
+### Sales 
+```dax
+Total Revenue PM = 
+CALCULATE([Total Revenue], PREVIOUSMONTH('Calendar'[Date]))
+
+Revenue MoM Label = 
+VAR Change = DIVIDE([Total Revenue] - [Total Revenue PM], [Total Revenue PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Revenue MoM Color = 
+IF([Total Revenue] >= [Total Revenue PM], "#2E7D32", "#C62828")
+
+
+Total Orders PM = 
+CALCULATE([Total Orders], PREVIOUSMONTH('Calendar'[Date]))
+
+Orders MoM Label = 
+VAR Change = DIVIDE([Total Orders] - [Total Orders PM], [Total Orders PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Orders MoM Color = 
+IF([Total Orders] >= [Total Orders PM], "#2E7D32", "#C62828")
+
+
+Avg Order Value PM = 
+CALCULATE([Avg Order Value], PREVIOUSMONTH('Calendar'[Date]))
+
+AOV MoM Label = 
+VAR Change = DIVIDE([Avg Order Value] - [Avg Order Value PM], [Avg Order Value PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+AOV MoM Color = 
+IF([Avg Order Value] >= [Avg Order Value PM], "#2E7D32", "#C62828")
+
+
+Total Items Sold PM = 
+CALCULATE([Total Items Sold], PREVIOUSMONTH('Calendar'[Date]))
+
+Items Sold MoM Label = 
+VAR Change = DIVIDE([Total Items Sold] - [Total Items Sold PM], [Total Items Sold PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Items Sold MoM Color = 
+IF([Total Items Sold] >= [Total Items Sold PM], "#2E7D32", "#C62828")
+```
+
+### Logistics
+```dax
+On-Time Delivery Rate PM = 
+CALCULATE([On-Time Delivery Rate], PREVIOUSMONTH('Calendar'[Date]))
+
+On-Time Delivery Rate MoM Label = 
+VAR Change = [On-Time Delivery Rate] - [On-Time Delivery Rate PM]
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%") & " pts", "▼ " & FORMAT(ABS(Change), "0.0%") & " pts")
+
+On-Time Delivery Rate MoM Color = 
+IF([On-Time Delivery Rate] >= [On-Time Delivery Rate PM], "#2E7D32", "#C62828")
+
+
+Late Delivery Rate PM = 
+CALCULATE([Late Delivery Rate], PREVIOUSMONTH('Calendar'[Date]))
+
+Late Delivery Rate MoM Label = 
+VAR Change = [Late Delivery Rate] - [Late Delivery Rate PM]
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%") & " pts", "▼ " & FORMAT(ABS(Change), "0.0%") & " pts")
+
+Late Delivery Rate MoM Color = 
+IF([Late Delivery Rate] <= [Late Delivery Rate PM], "#2E7D32", "#C62828")
+
+
+Avg Delivery Days PM = 
+CALCULATE([Avg Delivery Days], PREVIOUSMONTH('Calendar'[Date]))
+
+Delivery Days MoM Label = 
+VAR Change = DIVIDE([Avg Delivery Days] - [Avg Delivery Days PM], [Avg Delivery Days PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Delivery Days MoM Color = 
+IF([Avg Delivery Days] <= [Avg Delivery Days PM], "#2E7D32", "#C62828")
+
+
+Total Freight Cost PM = 
+CALCULATE([Total Freight Cost], PREVIOUSMONTH('Calendar'[Date]))
+
+Freight MoM Label = 
+VAR Change = DIVIDE([Total Freight Cost] - [Total Freight Cost PM], [Total Freight Cost PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Freight MoM Color = 
+IF([Total Freight Cost] >= [Total Freight Cost PM], "#2E7D32", "#C62828")
+
+
+Cancelled Rate PM = 
+CALCULATE([Cancelled Rate], PREVIOUSMONTH('Calendar'[Date]))
+
+Cancelled Rate MoM Label = 
+VAR Change = [Cancelled Rate] - [Cancelled Rate PM]
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%") & " pts", "▼ " & FORMAT(ABS(Change), "0.0%") & " pts")
+
+Cancelled Rate MoM Color = 
+IF([Cancelled Rate] <= [Cancelled Rate PM], "#2E7D32", "#C62828")
+```
+
+### Customer
+```dax
+Avg Review Score PM = 
+CALCULATE([Avg Review Score], PREVIOUSMONTH('Calendar'[Date]))
+
+Review Score MoM Label = 
+VAR Change = DIVIDE([Avg Review Score] - [Avg Review Score PM], [Avg Review Score PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Review Score MoM Color = 
+IF([Avg Review Score] >= [Avg Review Score PM], "#2E7D32", "#C62828")
+
+
+Total Reviews PM = 
+CALCULATE([Total Reviews], PREVIOUSMONTH('Calendar'[Date]))
+
+Reviews MoM Label = 
+VAR Change = DIVIDE([Total Reviews] - [Total Reviews PM], [Total Reviews PM])
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%"), "▼ " & FORMAT(ABS(Change), "0.0%"))
+
+Reviews MoM Color = 
+IF([Total Reviews] >= [Total Reviews PM], "#2E7D32", "#C62828")
+
+
+Repeat Purchase Rate PM = 
+CALCULATE([Repeat Purchase Rate], PREVIOUSMONTH('Calendar'[Date]))
+
+Repeat Rate MoM Label = 
+VAR Change = [Repeat Purchase Rate] - [Repeat Purchase Rate PM]
+RETURN IF(Change >= 0, "▲ " & FORMAT(Change, "0.0%") & " pts", "▼ " & FORMAT(ABS(Change), "0.0%") & " pts")
+
+Repeat Rate MoM Color = 
+IF([Repeat Purchase Rate] >= [Repeat Purchase Rate PM], "#2E7D32", "#C62828")
+```
+
+Applied across all pages:
+
+| KPI | Comparison basis | "Up" direction |
+|---|---|---|
+| Total Revenue | % change | Good (green) |
+| Total Orders | % change | Good (green) |
+| Avg Order Value | % change | Good (green) |
+| Total Items Sold | % change | Good (green) |
+| Avg Review Score | % change | Good (green) |
+| Total Reviews | % change | Good (green) |
+| Repeat Purchase Rate | Percentage-point diff | Good (green) |
+| On-Time Delivery Rate | Percentage-point diff | Good (green) |
+| Late Delivery Rate | Percentage-point diff | **Bad (red)** — flipped |
+| Cancelled Rate | Percentage-point diff | **Bad (red)** — flipped |
+| Total Freight Cost | % change | Good (green) |
+| Avg Delivery Days | % change | **Bad (red) when up** — flipped |
+
+Rate-based KPIs (On-Time, Late, Cancelled, Repeat Purchase) compare as raw **percentage-point difference** rather than a percentage-of-a-percentage, since "rate of a rate" change is misleading. Metrics where a higher number is operationally worse (Late Delivery Rate, Cancelled Rate, Avg Delivery Days) have their color logic inverted so red still means "this got worse," not just "the number went up."
+
+**MoM design decision:** month-over-month was chosen over year-over-year because the dataset's real order volume only spans ~Jan 2017–Oct 2018, leaving too few full-year overlaps for a reliable YoY comparison. MoM gives every month a valid prior-month baseline across the full date range.
+
+## 6. Report Pages
 
 Four pages, built with a shared sidebar navigation.
 
 ### Business Overview
-KPI cards, revenue trend, order status breakdown, top categories.
+KPI cards with MoM trend indicators, revenue trend (drillable Year → Quarter → Month → Date), order status breakdown, top categories.
 
-![Overview page](images/overview.png)
+![Overview page](./images/overview.png)
 
 ### Sales Analysis
-Revenue by category, drill-down product leaderboard ranked by revenue, monthly trend.
+Revenue by category, drill-down product leaderboard ranked by revenue, monthly trend, KPI cards with MoM indicators.
 
-![Sales page](images/sales.png)
+![Sales page](./images/sales.png)
 
 ### Delivery Logistics
-On-time vs. late delivery by state, freight cost as % of order value, cancelled orders gauge benchmarked against a dynamic target.
+On-time vs. late delivery by state, freight cost as % of order value, cancelled orders gauge benchmarked against a dynamic target, KPI cards with MoM indicators.
 
-![Logistics page](images/logistics.png)
+![Logistics page](./images/logistics.png)
 
 ### Customer & Reviews
-Review score distribution, average score by product category.
+Review score distribution, average score by product category, KPI cards with MoM indicators.
 
-![Customers page](images/customers.png)
+![Customers page](./images/customers.png)
 
----
-
-## 6. Notable Issues Solved
+## 7. Notable Issues Solved
 
 | Issue | Root Cause | Fix |
 |---|---|---|
@@ -197,14 +344,16 @@ Review score distribution, average score by product category.
 | Calendar chart showing near-zero matches | Date-only Calendar column vs. full datetime Orders column | Added `DATEVALUE()` column, related on that instead |
 | RANKX showing "1" for every row in a matrix | Measure grain mismatch after adding a category grouping level | Wrapped in `ISINSCOPE()` to only rank at product-level |
 | Donut chart order count didn't match KPI card | Field pulled from OrderItems (fewer rows) instead of Orders | Switched Value field to `Orders[order_id]` |
+| Line chart collapsed to a single dot when filtered to one month | X-axis field matched the slicer's field (Month), leaving one category to plot | Rebuilt axis on `Calendar[Date]` (or full hierarchy) instead of `MonthName` |
+| Line chart showed weekday buckets ("June Friday", "June Monday"...) instead of chronological days | Hierarchy's bottom level was `DayName` (text field) instead of `Date` | Swapped hierarchy's last level to `Calendar[Date]` |
+| Revenue trend zigzagged wildly when Month filter was applied with Year set to "All" | Chart was plotting the same month across multiple unrelated years as one continuous line | Removed "All" as a default; scoped Year slicer to valid years only |
+| Line chart showed a horizontal scrollbar at wide date ranges | Continuous axis type unavailable while a multi-level date hierarchy was on the X-axis | Dropped hierarchy in favor of a single `Calendar[Date]` field, enabling Continuous axis mode |
 
----
-
-## 7. Open Items / Next Steps
+## 8. Open Items / Next Steps
 
 - One-day revenue spike around March 4, 2017 (~12,658.51) — flagged for further investigation.
-- Deprioritized for a future iteration: time intelligence (YoY, rolling averages), dynamic KPI selector, Power Apps/Automate integration.
+- Deprioritized for a future iteration: year-over-year comparisons (once more overlapping years exist in scope), dynamic KPI selector, Power Apps/Automate integration.
 
-## 8. Tools Used
+## 9. Tools Used
 
 Power BI Desktop — Power Query, DAX, Data Modeling, Report Design.
