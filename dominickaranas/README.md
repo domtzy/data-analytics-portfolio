@@ -2,7 +2,7 @@
 
 Single-page portfolio site. Built with plain HTML/CSS/JS, no framework, no build step.
 
-**Live site:** `https://domtzy.github.io/data-analytics-portfolio/dominickaranas`
+**Live site:** https://domtzy.github.io/data-analytics-portfolio/dominickaranas
 
 ## Structure
 
